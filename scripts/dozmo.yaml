@@ -1,0 +1,6 @@
+dozmo:
+  name: Dozmo
+  version: 1.9
+  enabled: true
+  config:
+    timeout: 6724
