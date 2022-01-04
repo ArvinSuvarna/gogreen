@@ -1,0 +1,6 @@
+parla:
+  name: Parla
+  version: 2.7
+  enabled: false
+  config:
+    host: 6855
