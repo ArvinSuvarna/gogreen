@@ -1,0 +1,6 @@
+ahjac:
+  name: Ahjac
+  version: 5.8
+  enabled: true
+  config:
+    timeout: 7444
