@@ -1,3 +1,7 @@
 {
-  "app": "value1"
+  "app": {
+    "id": 361,
+    "name": "App",
+    "active": false
+  }
 }
