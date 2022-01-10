@@ -1,6 +1,6 @@
 api:
   name: Api
-  version: 4.3
+  version: 2.5
   enabled: true
   config:
-    port: 2510
+    host: 7056
