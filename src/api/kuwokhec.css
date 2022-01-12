@@ -1,0 +1,11 @@
+.kuwokhec {
+  display: grid;
+  padding: 1rem;
+  background-color: #ffffff;
+}
+
+.kuwokhec h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
