@@ -1,7 +1,3 @@
 {
-  "base": {
-    "id": 967,
-    "name": "Base",
-    "active": true
-  }
+  "base": "value2"
 }
