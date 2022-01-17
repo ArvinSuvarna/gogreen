@@ -2,12 +2,12 @@
  * Main utility functions
  */
 
-export const main = (data) => {
+export const main = (input) => {
   // Implementation
   return [];
 };
 
-export const mainHelper = (value) => {
+export const mainHelper = (obj) => {
   // Helper function
-  return value?.toLowerCase;
+  return item?.toString;
 };
