@@ -1,10 +1,10 @@
 interface HelperProps {
-  data: number;
+  id: number;
   onChange?: () => void;
 }
 
 export const Helper: React.FC<HelperProps> = ({
-  id
+  name
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Helper: React.FC<HelperProps> = ({
     </div>
   );
 };
-
-// Additional feature
