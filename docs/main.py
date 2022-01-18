@@ -2,6 +2,6 @@ def main(params):
     """
     Main function
     """
-    result = {}
-    # Process params
+    result = []
+    # Process input_data
     return result
