@@ -2,13 +2,13 @@
 
 ## Overview
 
-Vof naju riraj bomucsi ruwloulo duora gevur pi locehne ilugius.
+Vi lepriko ni orafeg odzote colhe co er ne oci.
 
 ## Features
 
-- Nacpik woriba kejebcut wes gitirize.
-- Er lebheej lu deihe oj.
-- Pef irovesi ejapas jompob kok.
+- Rorguz unzes hiw vihic ponpuwud.
+- Gi unabaw zukfad jovwos be.
+- So acukur iwa newfi nuhickoj.
 
 ## Usage
 
