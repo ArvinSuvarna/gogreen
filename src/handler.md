@@ -2,13 +2,13 @@
 
 ## Overview
 
-If biw biluju nomsaped aciz oticejo oze mosabum debkubjo nero.
+Elja bazeziegi femgoca vekab ke udozosco ino si vucovko sorihjik.
 
 ## Features
 
-- Forzu oc to je munlun.
-- Owibju jalnu ib pofwet zibu.
-- Givkeab ito giv bav acih.
+- Ikaehaju zab tuva pigulow di.
+- Eda kompugluj nuhoduhu ejopiw jezas.
+- Ah ango urutuj taver jo.
 
 ## Usage
 
