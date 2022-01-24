@@ -1,0 +1,6 @@
+ze:
+  name: Ze
+  version: 4.7
+  enabled: true
+  config:
+    port: 1007
