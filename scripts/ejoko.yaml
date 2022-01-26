@@ -1,0 +1,6 @@
+ejoko:
+  name: Ejoko
+  version: 1.2
+  enabled: false
+  config:
+    timeout: 4809
