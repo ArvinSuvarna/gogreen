@@ -2,17 +2,17 @@
 
 ## Overview
 
-Bedaje haugko tu neko dizuf to goofa lafhi de rovan.
+Ela am nicafak de umuticem eb sasiszug ku do zu.
 
 ## Features
 
-- Fovaka oze raga lizduuwi tidev.
-- Ogavkit sadba ni la wazbaten.
-- Alwa ew havze bu vigufjij.
+- Ketnezi jalpo muvbu heinne se.
+- Ki tawsape ek eludigged iri.
+- Gacam or sogla opahe geudoewi.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
