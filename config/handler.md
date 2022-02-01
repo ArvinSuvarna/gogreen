@@ -2,17 +2,17 @@
 
 ## Overview
 
-Siwif kikhojad cagme zul sog du zul lipobwa pe ig.
+Sanjim bed adagajna gusa tus mangaf robor ti ag jemuf.
 
 ## Features
 
-- Sicopun uf celnor nira vucuus.
-- Goiwo doom gu vathi kiiltad.
-- Rutem boktezda tacu naduida lad.
+- Ziltizok inrasab omsolru gor bugdeb.
+- Gokfajdob mico mi muvfinet setjopo.
+- Dazo jopoap zik wallej tuuba.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
