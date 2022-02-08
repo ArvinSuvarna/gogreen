@@ -1,10 +1,10 @@
 interface HelperProps {
-  title: boolean;
-  onSubmit?: () => void;
+  title: string;
+  onClick?: () => void;
 }
 
 export const Helper: React.FC<HelperProps> = ({
-  name
+  title
 }) => {
   return (
     <div>
