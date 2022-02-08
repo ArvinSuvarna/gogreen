@@ -1,0 +1,6 @@
+kupa:
+  name: Kupa
+  version: 2.1
+  enabled: true
+  config:
+    host: 1388
