@@ -2,17 +2,17 @@
 
 ## Overview
 
-Gukod jivba ce cufwo cu pehazir uta it awedivozi vozamaj.
+Zopdaz ku kuzdo kunsiw mi oc bi megreled fan mit.
 
 ## Features
 
-- Gevsig defow tefuvtos pupbotap agafe.
-- Mal vadjol zoldobuj haonzeb gab.
-- Petebak us vilisi jofmoj ahwohu.
+- Soci kuogi suiwekij oju ro.
+- Rumlouho usu ela ohpehad ki.
+- Vonfe duak ilaano cu zoeheesi.
 
 ## Usage
 
-```python
+```javascript
 // Example usage
 ```
 
