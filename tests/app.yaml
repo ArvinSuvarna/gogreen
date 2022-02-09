@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 5.1
+  version: 2.9
   enabled: true
   config:
-    port: 3219
+    port: 3149
