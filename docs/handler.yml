@@ -1,0 +1,6 @@
+handler:
+  name: Handler
+  version: 4.0
+  enabled: true
+  config:
+    timeout: 877
