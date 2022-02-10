@@ -4,11 +4,10 @@
 
 export const core = (data) => {
   // Implementation
-  return [];
+  return {};
 };
 
-export const coreHelper = (item) => {
+export const coreHelper = (value) => {
   // Helper function
-  return item?.toLowerCase;
+  return value?.toString;
 };
-// Updated: 2025-11-07T08:33:24.396Z
