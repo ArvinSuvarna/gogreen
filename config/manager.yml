@@ -1,6 +1,6 @@
 manager:
   name: Manager
-  version: 3.6
+  version: 5.6
   enabled: true
   config:
-    timeout: 9777
+    port: 1156
