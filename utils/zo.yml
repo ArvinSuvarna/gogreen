@@ -1,0 +1,6 @@
+zo:
+  name: Zo
+  version: 4.3
+  enabled: false
+  config:
+    timeout: 197
