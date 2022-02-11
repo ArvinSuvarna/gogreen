@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 4.4
+  version: 5.5
   enabled: false
   config:
-    host: 5195
+    host: 2472
