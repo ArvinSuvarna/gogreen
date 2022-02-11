@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 1.3
-  enabled: true
+  version: 1.6
+  enabled: false
   config:
-    host: 683
+    host: 5553
