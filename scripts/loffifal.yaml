@@ -1,0 +1,6 @@
+loffifal:
+  name: Loffifal
+  version: 2.5
+  enabled: true
+  config:
+    timeout: 325
