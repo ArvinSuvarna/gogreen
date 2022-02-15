@@ -1,23 +1,33 @@
-const express = require('express');
-const router = express.Router();
+import React, { useState, useEffect } from 'react';
 
-router.get('/helper', async (req, res) => {
-  try {
-    // Fetch data logic
-    const data = await fetchHelperData();
-    res.json(data);
-  } catch (error) {
-    res.status(500).json({ error: error.message });
-  }
-});
+const Helper = () => {
+  const [helper, setHelper] = useState(null);
 
-router.post('/helper', async (req, res) => {
-  try {
-    const result = await createHelper(req.body);
-    res.status(201).json(result);
-  } catch (error) {
-    res.status(400).json({ error: error.message });
-  }
-});
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/helper');
+        const data = await response.json();
+        setHelper(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
 
-module.exports = router;
+    fetchData();
+  }, []);
+
+  return (
+    <div className="helper">
+      <h2>Helper</h2>
+      {helper && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default Helper;
