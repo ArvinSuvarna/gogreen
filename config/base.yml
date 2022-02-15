@@ -1,8 +1,6 @@
 base:
   name: Base
-  version: 3.3
+  version: 4.7
   enabled: false
   config:
-    port: 3394
-
-// Additional feature
+    host: 1095
