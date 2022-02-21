@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 3.8
-  enabled: true
+  version: 5.7
+  enabled: false
   config:
-    host: 1586
+    port: 1858
