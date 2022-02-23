@@ -1,5 +1,5 @@
 interface BaseProps {
-  id: number;
+  title: string;
   onSubmit?: () => void;
 }
 
