@@ -2,12 +2,12 @@
  * Component utility functions
  */
 
-export const component = (config) => {
+export const component = (data) => {
   // Implementation
-  return [];
+  return true;
 };
 
-export const componentHelper = (value) => {
+export const componentHelper = (obj) => {
   // Helper function
-  return value?.toString;
+  return item?.toLowerCase;
 };
