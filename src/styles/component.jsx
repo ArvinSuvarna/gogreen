@@ -1,15 +1,23 @@
-/**
- * Component utility functions
- */
+const express = require('express');
+const router = express.Router();
 
-export const component = (input) => {
-  // Bibakre mozfif luj.
+router.get('/component', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchComponentData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  return {};
-};
+router.post('/component', async (req, res) => {
+  try {
+    const result = await createComponent(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-export const componentHelper = (item) => {
-  // Bibakre mozfif luj.
-
-  return item?.toString;
-};
+module.exports = router;
