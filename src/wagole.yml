@@ -1,0 +1,6 @@
+wagole:
+  name: Wagole
+  version: 4.2
+  enabled: true
+  config:
+    port: 651
