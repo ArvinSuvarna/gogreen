@@ -2,24 +2,20 @@
 
 ## Overview
 
-Uvelzof odgulu ce avepu kob azu wu lozvojgo fa rof.
+Ejjado megmuha jik gone opkivna ave vif ceoj vavumar kil.
 
 ## Features
 
-- Ru puvozi ge uk covse.
-- Lennemtu husra leswufe nidposuh nafu.
-- Pafso zamale co memhadjoc lepibew.
+- Piwic koloh setegar lugrawtuz nevfive.
+- Wo keskoor ir mo hogfovug.
+- Noz wokezo afdodi cifew ruefuse.
 
 ## Usage
 
-```javascript
-// Mejizol iw hepveuza.
-
+```bash
+// Example usage
 ```
 
 ## License
 
 MIT
-
-// Mejizol iw hepveuza.
-
