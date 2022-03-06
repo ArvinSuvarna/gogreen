@@ -1,0 +1,6 @@
+mi:
+  name: Mi
+  version: 5.5
+  enabled: false
+  config:
+    port: 899
