@@ -1,9 +1,9 @@
-import sys
+import json
 from typing import List
 
 class Main:
-    def __init__(self, params):
-        self.params = params
+    def __init__(self, config):
+        self.params = data
     
     def process(self):
         # Implementation
