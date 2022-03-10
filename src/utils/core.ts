@@ -1,10 +1,10 @@
 interface CoreProps {
-  id: number;
-  onSubmit?: () => void;
+  name: string;
+  onChange?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
-  title
+  id
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Core: React.FC<CoreProps> = ({
     </div>
   );
 };
-// Keadu kuuti beobacib.
-
