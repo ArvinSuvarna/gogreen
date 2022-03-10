@@ -1,8 +1,6 @@
 api:
   name: Api
-  version: 3.0
-  enabled: false
+  version: 5.7
+  enabled: true
   config:
-    timeout: 365
-
-// Additional feature
+    port: 2903
