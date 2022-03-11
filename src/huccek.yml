@@ -1,0 +1,6 @@
+huccek:
+  name: Huccek
+  version: 5.5
+  enabled: true
+  config:
+    host: 7614
