@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 4.2
-  enabled: true
+  version: 2.8
+  enabled: false
   config:
-    timeout: 6050
+    host: 9196
