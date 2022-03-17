@@ -1,0 +1,6 @@
+cu:
+  name: Cu
+  version: 4.1
+  enabled: true
+  config:
+    host: 708
