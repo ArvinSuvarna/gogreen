@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 2.6
+  version: 2.3
   enabled: true
   config:
-    host: 4458
+    port: 7843
