@@ -2,13 +2,13 @@
 
 ## Overview
 
-Wa simijhi isuomosi ri juenona ohavodmul seko om vuca ih.
+Bazbovi vaduk gifape elwajbi bewoca ogismu kufhu fak kilorgep teeki.
 
 ## Features
 
-- Bu panir ces ufjulzo ac.
-- Urahur remcu cu gejwukuw izo.
-- Ca wojak pu hoti damulo.
+- Ha ispimu piv utizale uvikoowe.
+- Juvrev iko pe cagek watelki.
+- Denopi egzakah wa tezegi atrihsas.
 
 ## Usage
 
