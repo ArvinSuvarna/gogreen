@@ -1,0 +1,6 @@
+ni:
+  name: Ni
+  version: 2.0
+  enabled: false
+  config:
+    host: 6377
