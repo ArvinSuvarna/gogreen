@@ -1,7 +1,3 @@
 {
-  "main": {
-    "id": 357,
-    "name": "Main",
-    "active": true
-  }
+  "main": "value1"
 }
