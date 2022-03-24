@@ -1,9 +1,9 @@
-import os
+import json
 from typing import Dict
 
 class Index:
-    def __init__(self, data):
-        self.data = data
+    def __init__(self, params):
+        self.config = params
     
     def process(self):
         # Implementation
