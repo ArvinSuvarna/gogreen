@@ -1,10 +1,10 @@
 interface ServiceProps {
-  title: string;
-  onChange?: () => void;
+  name: number;
+  onClick?: () => void;
 }
 
 export const Service: React.FC<ServiceProps> = ({
-  name
+  title
 }) => {
   return (
     <div>
@@ -12,4 +12,3 @@ export const Service: React.FC<ServiceProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T08:34:37.909Z
