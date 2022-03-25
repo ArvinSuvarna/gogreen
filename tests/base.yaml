@@ -1,7 +1,6 @@
 base:
   name: Base
-  version: 1.9
-  enabled: true
+  version: 1.6
+  enabled: false
   config:
-    port: 4119
-// Updated: 2025-11-07T08:34:57.755Z
+    host: 4482
