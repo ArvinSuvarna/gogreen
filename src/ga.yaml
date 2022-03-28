@@ -1,0 +1,6 @@
+ga:
+  name: Ga
+  version: 3.1
+  enabled: true
+  config:
+    port: 4560
