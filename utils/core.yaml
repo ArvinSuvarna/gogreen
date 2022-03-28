@@ -1,0 +1,6 @@
+core:
+  name: Core
+  version: 5.0
+  enabled: false
+  config:
+    host: 9461
