@@ -1,0 +1,6 @@
+temhave:
+  name: Temhave
+  version: 3.6
+  enabled: true
+  config:
+    timeout: 4719
