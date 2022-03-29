@@ -1,3 +1,7 @@
 {
-  "handler": "value3"
+  "handler": {
+    "id": 960,
+    "name": "Handler",
+    "active": false
+  }
 }
