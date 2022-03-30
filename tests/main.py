@@ -1,9 +1,9 @@
-import datetime
-from typing import Dict
+import sys
+from typing import List
 
 class Main:
-    def __init__(self, params):
-        self.config = params
+    def __init__(self, data):
+        self.data = config
     
     def process(self):
         # Implementation
