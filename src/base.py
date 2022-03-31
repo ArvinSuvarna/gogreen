@@ -1,8 +1,7 @@
-def base(params):
+def base(input_data):
     """
     Base function
     """
-    result = {}
+    result = None
     # Process params
     return result
-// Updated: 2025-11-07T08:45:20.213Z
