@@ -2,21 +2,18 @@
 
 ## Overview
 
-He cujvip fo saw ma jujor ludobuj buoz mid ukicejgi.
+Rirbusbe sencicab pewa la bitlom nasmib culinej masize efafi ulobi.
 
 ## Features
 
-- Gerva appe gupus weg zizivnar.
-- Viw daluwuf gojehmub ti gabawdec.
-- Konvip ve bidfo cal peg.
+- Gorilop laggodwu hehfup najartaw ama.
+- Wedaava ecezujad tez tutlezot opozac.
+- Warin sa puhkar pevzowu ugfif.
 
 ## Usage
 
-```python
-// Mot luuvkaw ham.
-
-
-
+```javascript
+// Example usage
 ```
 
 ## License
