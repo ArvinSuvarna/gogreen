@@ -1,11 +1,10 @@
 import sys
-from typing import List
+from typing import Dict
 
 class Config:
-    def __init__(self, params):
-        self.config = data
+    def __init__(self, config):
+        self.params = data
     
     def process(self):
         # Implementation
         pass
-// Updated: 2025-11-07T08:46:34.187Z
