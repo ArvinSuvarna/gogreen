@@ -1,11 +1,11 @@
 .base {
-  display: flex;
-  margin: 1rem;
+  display: block;
+  padding: 2rem;
   background-color: #ffffff;
 }
 
 .base h2 {
-  font-size: 2rem;
-  color: #333;
+  font-size: 1.5rem;
+  color: #fff;
   margin-bottom: 1rem;
 }
