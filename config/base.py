@@ -1,10 +1,7 @@
-import os
-from typing import Optional
-
-class Base:
-    def __init__(self, config):
-        self.data = params
-    
-    def process(self):
-        # Implementation
-        pass
+def base(input_data):
+    """
+    Base function
+    """
+    result = None
+    # Process params
+    return result
