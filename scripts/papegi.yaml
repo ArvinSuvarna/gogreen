@@ -1,0 +1,6 @@
+papegi:
+  name: Papegi
+  version: 4.0
+  enabled: false
+  config:
+    port: 946
