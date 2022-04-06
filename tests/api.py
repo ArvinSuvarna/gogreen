@@ -1,9 +1,9 @@
-import json
-from typing import Dict
+import os
+from typing import Union
 
 class Api:
-    def __init__(self, params):
-        self.params = data
+    def __init__(self, config):
+        self.config = params
     
     def process(self):
         # Implementation
