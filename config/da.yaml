@@ -1,0 +1,6 @@
+da:
+  name: Da
+  version: 4.9
+  enabled: false
+  config:
+    host: 8356
