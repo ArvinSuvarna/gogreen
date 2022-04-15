@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 5.9
-  enabled: false
+  version: 5.7
+  enabled: true
   config:
-    port: 6115
+    port: 110
