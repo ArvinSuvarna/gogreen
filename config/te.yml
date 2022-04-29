@@ -1,0 +1,6 @@
+te:
+  name: Te
+  version: 1.0
+  enabled: true
+  config:
+    port: 366
