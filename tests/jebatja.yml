@@ -1,0 +1,6 @@
+jebatja:
+  name: Jebatja
+  version: 3.9
+  enabled: false
+  config:
+    host: 732
