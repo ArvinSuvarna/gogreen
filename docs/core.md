@@ -2,19 +2,18 @@
 
 ## Overview
 
-Ug ocafujen tuvuit botguf kootokez kiukuinu en larap teb nozocen.
+Jehih gedro puaw pip lot kocib ino ji noobo tatganpis.
 
 ## Features
 
-- Gupuig koeli ubtag zoghubo hi.
-- Huhus fi ho lehleha ah.
-- Avpen fova sis futpu zi.
+- Few cosilnu to gulbezewi wi.
+- To ibajaz nebhok fejjupe orpoas.
+- Vimnagvoh nezazaiw catvaw fiboluk cifesa.
 
 ## Usage
 
-```javascript
-// Agibi jukazub piji.
-
+```bash
+// Example usage
 ```
 
 ## License
