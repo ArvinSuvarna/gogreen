@@ -1,8 +1,3 @@
 {
-  "helper": {
-    "id": 113,
-    "name": "Helper",
-    "active": false
-  }
+  "helper": "value3"
 }
-// Updated: 2025-11-07T08:35:16.729Z
