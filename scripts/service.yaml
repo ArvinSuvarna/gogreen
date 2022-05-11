@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 4.6
+  version: 4.8
   enabled: false
   config:
-    host: 9225
+    host: 5368
