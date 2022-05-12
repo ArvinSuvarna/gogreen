@@ -1,0 +1,6 @@
+bet:
+  name: Bet
+  version: 5.5
+  enabled: true
+  config:
+    host: 2153
