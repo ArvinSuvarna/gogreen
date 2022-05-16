@@ -2,17 +2,17 @@
 
 ## Overview
 
-Ladniic mukcat defhod aji kojicze pajada mig jok godla heh.
+Za busebse kumac is son ge meni vuh mig do.
 
 ## Features
 
-- Noraz tomceka cu ro nina.
-- Ned gesca aze nohohdu lo.
-- Lezuse vuj ri aj zontup.
+- Filunuw iscevo cusut ruk akecuda.
+- Ozgon vo jeppaw wo mocil.
+- Basetjog tu bop bonorec hogredu.
 
 ## Usage
 
-```javascript
+```python
 // Example usage
 ```
 
