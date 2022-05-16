@@ -1,11 +1,6 @@
 index:
   name: Index
-  version: 3.0
+  version: 5.6
   enabled: true
   config:
-    host: 8104
-
-// Sortoovo iwu ka.
-
-
-// Updated: 2025-11-07T08:47:14.115Z
+    timeout: 7782
