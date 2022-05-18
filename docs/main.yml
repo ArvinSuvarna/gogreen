@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 3.9
-  enabled: true
+  version: 1.2
+  enabled: false
   config:
-    host: 6110
+    timeout: 4624
