@@ -1,6 +1,6 @@
 utils:
   name: Utils
-  version: 5.2
-  enabled: false
+  version: 4.6
+  enabled: true
   config:
-    host: 4129
+    timeout: 8767
