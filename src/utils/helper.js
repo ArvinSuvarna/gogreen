@@ -3,8 +3,7 @@ const router = express.Router();
 
 router.get('/helper', async (req, res) => {
   try {
-    // Gusvil sutheho ma.
-
+    // Fetch data logic
     const data = await fetchHelperData();
     res.json(data);
   } catch (error) {
