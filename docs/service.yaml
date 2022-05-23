@@ -1,8 +1,6 @@
 service:
   name: Service
-  version: 5.0
-  enabled: false
+  version: 3.8
+  enabled: true
   config:
-    port: 7791
-
-// Additional feature
+    host: 1908
