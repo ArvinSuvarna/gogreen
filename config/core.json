@@ -1,7 +1,5 @@
 {
-  "core": {
-    "id": 798,
-    "name": "Core",
-    "active": false
-  }
+  "name": "core",
+  "version": "2.6.7",
+  "enabled": true
 }
