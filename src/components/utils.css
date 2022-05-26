@@ -1,13 +1,11 @@
 .utils {
-  display: grid;
+  display: block;
   padding: 2rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-color: #ffffff;
 }
 
 .utils h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #fff;
   margin-bottom: 1rem;
 }
-
-// Additional feature
