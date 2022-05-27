@@ -3,8 +3,7 @@ const router = express.Router();
 
 router.get('/base', async (req, res) => {
   try {
-    // Fujele upenuoja neno.
-
+    // Fetch data logic
     const data = await fetchBaseData();
     res.json(data);
   } catch (error) {
