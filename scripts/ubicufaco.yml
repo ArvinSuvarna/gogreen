@@ -1,0 +1,6 @@
+ubicufaco:
+  name: Ubicufaco
+  version: 1.5
+  enabled: false
+  config:
+    host: 6399
