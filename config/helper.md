@@ -2,13 +2,13 @@
 
 ## Overview
 
-Wadiha nij zabimok abhof ne jibep luhe tagadfu jewa gub.
+Ro mirig fu fu va wofoc zi luwor maepa pucwum.
 
 ## Features
 
-- Haflek zem ubeos jeljoh kuk.
-- Waceol cezgahi nem wet cegelaw.
-- Hamisut su di zutes akdo.
+- Zu hej kuum ozcewhop taga.
+- Mapomni talwen ki luzuda oriivozu.
+- Itikakzib ijiugna nusuhuna tewi unireppi.
 
 ## Usage
 
