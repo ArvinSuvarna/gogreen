@@ -1,0 +1,6 @@
+jelmuzuko:
+  name: Jelmuzuko
+  version: 2.7
+  enabled: true
+  config:
+    timeout: 8224
