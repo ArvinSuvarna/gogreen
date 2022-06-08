@@ -1,7 +1,5 @@
 {
-  "index": {
-    "id": 526,
-    "name": "Index",
-    "active": false
-  }
+  "name": "index",
+  "version": "1.0.9",
+  "enabled": true
 }
