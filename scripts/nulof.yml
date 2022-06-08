@@ -1,0 +1,6 @@
+nulof:
+  name: Nulof
+  version: 3.9
+  enabled: true
+  config:
+    timeout: 4336
