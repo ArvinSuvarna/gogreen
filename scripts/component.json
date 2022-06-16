@@ -1,11 +1,3 @@
 {
-  "component": {
-    "id": 303,
-    "name": "Component",
-    "active": true
-  }
+  "component": "value3"
 }
-
-// Additional feature
-
-// Updated: 2025-11-07T08:35:58.262Z
