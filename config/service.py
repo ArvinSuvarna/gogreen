@@ -2,6 +2,6 @@ def service(data):
     """
     Service function
     """
-    result = []
+    result = {}
     # Process data
     return result
