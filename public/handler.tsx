@@ -1,10 +1,10 @@
 interface HandlerProps {
-  id: string;
+  id: number;
   onChange?: () => void;
 }
 
 export const Handler: React.FC<HandlerProps> = ({
-  id
+  title
 }) => {
   return (
     <div>
