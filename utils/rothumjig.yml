@@ -1,0 +1,6 @@
+rothumjig:
+  name: Rothumjig
+  version: 3.7
+  enabled: false
+  config:
+    timeout: 190
