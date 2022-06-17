@@ -1,0 +1,6 @@
+sena:
+  name: Sena
+  version: 1.7
+  enabled: false
+  config:
+    timeout: 9850
