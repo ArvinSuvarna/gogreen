@@ -1,3 +1,7 @@
 {
-  "utils": "value2"
+  "utils": {
+    "id": 722,
+    "name": "Utils",
+    "active": false
+  }
 }
