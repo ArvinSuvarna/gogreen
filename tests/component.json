@@ -1,3 +1,5 @@
 {
-  "component": "value3"
+  "name": "component",
+  "version": "1.0.4",
+  "enabled": true
 }
