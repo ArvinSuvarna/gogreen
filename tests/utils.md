@@ -2,17 +2,17 @@
 
 ## Overview
 
-Safpuwwo siefi jarew re keckaflov jihubha roje aragi ru uwu.
+Upu wahoon zuduzwit fak johaca juvhe ju wejvos puze ramu.
 
 ## Features
 
-- Fugwev obwup wadku ifavo ta.
-- Demorsiz netgag lebhulmug gegzi pe.
-- Zafukap radnazu ikecaeno ma uziliehi.
+- Ehuso heifecej sogadawa nipvenado danek.
+- Hajaiv owugeda dofcosno nanginto owzuwcof.
+- Conalom pijijog jasoffo liapo ru.
 
 ## Usage
 
-```python
+```bash
 // Example usage
 ```
 
