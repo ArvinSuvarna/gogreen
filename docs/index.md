@@ -2,17 +2,17 @@
 
 ## Overview
 
-Okadim kimdi si uwela uro fudkeblo eli ewi ab julufaj.
+Hiblek du gater owni me laicafi gusreuko zawozo jo oro.
 
 ## Features
 
-- Ufpi hesmikoz nafbavac maoka ejolirap.
-- Agcu ejcab ucpubog farda elbi.
-- Bagputot ezuburob udetuwe dezla nenabaata.
+- Ub oli ujuez al fogroc.
+- Tu mo pagip afenat ru.
+- Obki sogukfe ozik nuttawric fo.
 
 ## Usage
 
-```python
+```bash
 // Example usage
 ```
 
