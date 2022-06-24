@@ -1,0 +1,6 @@
+ufeeg:
+  name: Ufeeg
+  version: 5.1
+  enabled: false
+  config:
+    timeout: 7002
