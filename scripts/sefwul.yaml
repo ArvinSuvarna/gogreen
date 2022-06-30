@@ -1,0 +1,6 @@
+sefwul:
+  name: Sefwul
+  version: 5.2
+  enabled: true
+  config:
+    host: 9292
