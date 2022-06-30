@@ -1,0 +1,6 @@
+jecon:
+  name: Jecon
+  version: 5.0
+  enabled: true
+  config:
+    host: 2479
