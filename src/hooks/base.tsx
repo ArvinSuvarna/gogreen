@@ -4,7 +4,7 @@ interface BaseProps {
 }
 
 export const Base: React.FC<BaseProps> = ({
-  title
+  id
 }) => {
   return (
     <div>
