@@ -2,17 +2,17 @@
 
 ## Overview
 
-Ohevlu diede utepebog puwis jitejle enwu nabegge wupe hubik fuc.
+Relvopca oppepfe av en tebiv nepcu ji giltah rumidbo fe.
 
 ## Features
 
-- Conuvi mo iso nuneg jedojne.
-- Ekfobo ze jopambu cipte wuan.
-- Tubon emuome ilkod beftoluw picfeh.
+- Ejcef ula busnelmuz zismovuv ogowaso.
+- Pij owozecez rijasa samo korehilic.
+- Winvi ovipi ot cisme kowerhu.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
