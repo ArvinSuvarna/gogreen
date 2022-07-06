@@ -1,0 +1,6 @@
+esacafmag:
+  name: Esacafmag
+  version: 3.1
+  enabled: true
+  config:
+    host: 6482
