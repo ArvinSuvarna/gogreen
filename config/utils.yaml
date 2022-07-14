@@ -1,6 +1,6 @@
 utils:
   name: Utils
-  version: 1.6
+  version: 1.1
   enabled: false
   config:
-    timeout: 7257
+    timeout: 1282
