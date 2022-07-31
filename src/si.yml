@@ -1,0 +1,6 @@
+si:
+  name: Si
+  version: 1.5
+  enabled: false
+  config:
+    host: 3891
