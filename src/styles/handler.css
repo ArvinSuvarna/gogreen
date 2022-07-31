@@ -1,7 +1,7 @@
 .handler {
   display: grid;
-  padding: 2rem;
-  background-color: #ffffff;
+  margin: 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .handler h2 {
@@ -9,5 +9,3 @@
   color: #333;
   margin-bottom: 1rem;
 }
-
-// Additional feature
