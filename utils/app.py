@@ -1,8 +1,7 @@
-def app(data):
+def app(params):
     """
     App function
     """
-    result = {}
-    # Process params
+    result = []
+    # Process input_data
     return result
-// Updated: 2025-11-07T08:34:29.098Z
