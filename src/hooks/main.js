@@ -1,15 +1,33 @@
-/**
- * Main utility functions
- */
+import React, { useState, useEffect } from 'react';
 
-export const main = (data) => {
-  // Seg boiw zopgu.
+const Main = () => {
+  const [main, setMain] = useState(null);
 
-  return [];
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/main');
+        const data = await response.json();
+        setMain(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
+
+  return (
+    <div className="main">
+      <h2>Main</h2>
+      {main && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
 };
 
-export const mainHelper = (item) => {
-  // Seg boiw zopgu.
-
-  return obj?.toString;
-};
+export default Main;
