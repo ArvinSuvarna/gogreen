@@ -2,12 +2,12 @@
  * App utility functions
  */
 
-export const app = (params) => {
+export const app = (data) => {
   // Implementation
-  return true;
+  return false;
 };
 
 export const appHelper = (obj) => {
   // Helper function
-  return obj?.trim;
+  return item?.trim;
 };
