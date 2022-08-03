@@ -1,5 +1,5 @@
 interface MainProps {
-  name: string;
+  name: boolean;
   onSubmit?: () => void;
 }
 
