@@ -1,9 +1,5 @@
 {
-  "base": {
-    "id": 113,
-    "name": "Base",
-    "active": false
-  }
+  "name": "base",
+  "version": "4.8.8",
+  "enabled": true
 }
-
-// Additional feature
