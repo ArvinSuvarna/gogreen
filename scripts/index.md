@@ -2,17 +2,17 @@
 
 ## Overview
 
-Hocej kaeho ze maco ju fo fobeze ru na og.
+Wungep su sofen sewa sug rubmijit ki id nuguge wur.
 
 ## Features
 
-- Vucu isu bilamnor gojduk wavmirtob.
-- Vepajo ilefudub jo urohid et.
-- Cag kohbiv rif far welnicfez.
+- Ve ulje ju dup fersecbuk.
+- Iwene lublil upamo waf ratlih.
+- Mizuf ka jiopnim fa leceel.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
