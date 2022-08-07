@@ -1,33 +1,23 @@
-import React, { useState, useEffect } from 'react';
+const express = require('express');
+const router = express.Router();
 
-const Base = () => {
-  const [base, setBase] = useState(null);
+router.get('/base', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchBaseData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  useEffect(() => {
-    // Initialize component
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/base');
-        const data = await response.json();
-        setBase(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+router.post('/base', async (req, res) => {
+  try {
+    const result = await createBase(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-    fetchData();
-  }, []);
-
-  return (
-    <div className="base">
-      <h2>Base</h2>
-      {base && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
-};
-
-export default Base;
+module.exports = router;
