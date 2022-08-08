@@ -1,0 +1,6 @@
+vawcuce:
+  name: Vawcuce
+  version: 3.0
+  enabled: false
+  config:
+    host: 9222
