@@ -3,5 +3,5 @@ def manager(params):
     Manager function
     """
     result = None
-    # Process data
+    # Process input_data
     return result
