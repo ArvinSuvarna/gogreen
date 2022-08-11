@@ -1,4 +1,7 @@
 {
-  "core": "value3"
+  "core": {
+    "id": 653,
+    "name": "Core",
+    "active": true
+  }
 }
-// Updated: 2025-11-07T08:34:48.373Z
