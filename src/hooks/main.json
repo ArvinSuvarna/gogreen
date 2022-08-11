@@ -1,7 +1,5 @@
 {
-  "main": {
-    "id": 721,
-    "name": "Main",
-    "active": false
-  }
+  "name": "main",
+  "version": "2.8.2",
+  "enabled": true
 }
