@@ -1,0 +1,6 @@
+go:
+  name: Go
+  version: 4.4
+  enabled: false
+  config:
+    timeout: 3172
