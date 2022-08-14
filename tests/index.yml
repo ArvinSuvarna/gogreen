@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 5.0
-  enabled: false
+  version: 2.6
+  enabled: true
   config:
-    host: 8585
+    port: 5189
