@@ -1,0 +1,6 @@
+rakuhdiw:
+  name: Rakuhdiw
+  version: 3.4
+  enabled: false
+  config:
+    host: 3700
