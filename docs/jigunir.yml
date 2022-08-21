@@ -1,0 +1,6 @@
+jigunir:
+  name: Jigunir
+  version: 5.0
+  enabled: false
+  config:
+    host: 3263
