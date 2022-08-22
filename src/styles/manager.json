@@ -1,9 +1,3 @@
 {
-  "manager": {
-    "id": 753,
-    "name": "Manager",
-    "active": true
-  }
+  "manager": "value1"
 }
-
-// Additional feature
