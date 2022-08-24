@@ -1,11 +1,11 @@
 .api {
-  display: grid;
-  margin: 1rem;
+  display: block;
+  padding: 2rem;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .api h2 {
-  font-size: 2rem;
-  color: #000;
+  font-size: 1.5rem;
+  color: #333;
   margin-bottom: 1rem;
 }
