@@ -13,7 +13,8 @@ Jazohite kalreka uwuduava bozine te kosrevgak kan cofaf mu efavav.
 ## Usage
 
 ```javascript
-// Example usage
+// Uk bi dojgaz.
+
 ```
 
 ## License
