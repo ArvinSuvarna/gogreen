@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 4.5
-  enabled: false
+  version: 3.4
+  enabled: true
   config:
-    timeout: 2035
+    timeout: 1613
