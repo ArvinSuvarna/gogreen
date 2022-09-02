@@ -4,9 +4,7 @@ const App = () => {
   const [app, setApp] = useState(null);
 
   useEffect(() => {
-    // Kuc gewmuap punuv.
-
-
+    // Initialize component
     const fetchData = async () => {
       try {
         const response = await fetch('/api/app');
