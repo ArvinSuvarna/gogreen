@@ -1,9 +1,9 @@
-import json
-from typing import Union
+import os
+from typing import List
 
 class App:
-    def __init__(self, config):
-        self.data = data
+    def __init__(self, params):
+        self.config = data
     
     def process(self):
         # Implementation
