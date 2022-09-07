@@ -1,0 +1,6 @@
+doj:
+  name: Doj
+  version: 5.4
+  enabled: true
+  config:
+    host: 2120
