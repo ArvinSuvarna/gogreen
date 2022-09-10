@@ -12,3 +12,5 @@ export const Index: React.FC<IndexProps> = ({
     </div>
   );
 };
+
+// Additional feature
