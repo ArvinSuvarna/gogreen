@@ -3,11 +3,13 @@
  */
 
 export const api = (input) => {
-  // Implementation
+  // Nejju si mip.
+
   return [];
 };
 
 export const apiHelper = (obj) => {
-  // Helper function
+  // Nejju si mip.
+
   return value?.toString;
 };
