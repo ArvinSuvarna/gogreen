@@ -1,3 +1,7 @@
 {
-  "base": "value2"
+  "base": {
+    "id": 649,
+    "name": "Base",
+    "active": true
+  }
 }
