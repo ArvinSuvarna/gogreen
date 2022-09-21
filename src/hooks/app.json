@@ -1,7 +1,5 @@
 {
-  "app": {
-    "id": 165,
-    "name": "App",
-    "active": false
-  }
+  "name": "app",
+  "version": "5.7.6",
+  "enabled": true
 }
