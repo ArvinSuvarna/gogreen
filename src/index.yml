@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 1.7
+  version: 2.2
   enabled: false
   config:
-    port: 6406
+    port: 4602
