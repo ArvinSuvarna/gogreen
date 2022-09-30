@@ -1,13 +1,11 @@
 .app {
-  display: block;
-  margin: 1rem;
+  display: flex;
+  padding: 1rem;
   background-color: #ffffff;
 }
 
 .app h2 {
   font-size: 1.5rem;
-  color: #333;
+  color: #000;
   margin-bottom: 1rem;
 }
-
-// Additional feature
