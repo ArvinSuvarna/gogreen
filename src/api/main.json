@@ -1,8 +1,5 @@
 {
-  "main": {
-    "id": 902,
-    "name": "Main",
-    "active": false
-  }
+  "name": "main",
+  "version": "3.3.8",
+  "enabled": false
 }
-// Updated: 2025-11-07T08:45:19.541Z
