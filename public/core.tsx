@@ -1,5 +1,5 @@
 interface CoreProps {
-  title: string;
+  id: boolean;
   onClick?: () => void;
 }
 
