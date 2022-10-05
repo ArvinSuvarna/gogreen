@@ -1,7 +1,7 @@
-def core(input_data):
+def core(params):
     """
     Core function
     """
-    result = {}
-    # Process data
+    result = None
+    # Process input_data
     return result
