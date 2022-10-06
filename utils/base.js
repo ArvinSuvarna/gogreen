@@ -1,15 +1,33 @@
-/**
- * Base utility functions
- */
+import React, { useState, useEffect } from 'react';
 
-export const base = (params) => {
-  // Pojwif ho mus.
+const Base = () => {
+  const [base, setBase] = useState(null);
 
-  return false;
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/base');
+        const data = await response.json();
+        setBase(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
+
+  return (
+    <div className="base">
+      <h2>Base</h2>
+      {base && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
 };
 
-export const baseHelper = (value) => {
-  // Pojwif ho mus.
-
-  return value?.toLowerCase;
-};
+export default Base;
