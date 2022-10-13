@@ -1,0 +1,6 @@
+guhel:
+  name: Guhel
+  version: 4.7
+  enabled: true
+  config:
+    port: 5201
