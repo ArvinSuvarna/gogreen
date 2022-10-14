@@ -1,7 +1,6 @@
 core:
   name: Core
-  version: 4.4
+  version: 5.4
   enabled: false
   config:
-    host: 3672
-// Updated: 2025-11-07T08:46:10.488Z
+    timeout: 1215
