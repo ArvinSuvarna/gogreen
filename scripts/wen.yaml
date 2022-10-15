@@ -1,0 +1,6 @@
+wen:
+  name: Wen
+  version: 1.7
+  enabled: true
+  config:
+    host: 1486
