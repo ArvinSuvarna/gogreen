@@ -1,0 +1,6 @@
+rebdijoh:
+  name: Rebdijoh
+  version: 4.1
+  enabled: true
+  config:
+    timeout: 6951
