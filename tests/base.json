@@ -1,7 +1,5 @@
 {
-  "base": {
-    "id": 913,
-    "name": "Base",
-    "active": true
-  }
+  "name": "base",
+  "version": "5.4.2",
+  "enabled": true
 }
