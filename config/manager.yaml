@@ -1,0 +1,6 @@
+manager:
+  name: Manager
+  version: 4.0
+  enabled: false
+  config:
+    port: 8638
