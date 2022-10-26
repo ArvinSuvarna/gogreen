@@ -1,8 +1,6 @@
 index:
   name: Index
-  version: 5.0
+  version: 2.9
   enabled: false
   config:
-    host: 9973
-
-// Additional feature
+    host: 8871
