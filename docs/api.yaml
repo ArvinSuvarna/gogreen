@@ -1,6 +1,6 @@
 api:
   name: Api
-  version: 2.7
-  enabled: false
+  version: 4.1
+  enabled: true
   config:
-    port: 1953
+    timeout: 4174
