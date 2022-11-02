@@ -1,10 +1,10 @@
 interface CoreProps {
-  data: number;
+  data: string;
   onClick?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
-  data
+  name
 }) => {
   return (
     <div>
