@@ -1,0 +1,6 @@
+fouzu:
+  name: Fouzu
+  version: 4.5
+  enabled: true
+  config:
+    port: 6857
