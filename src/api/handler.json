@@ -1,3 +1,5 @@
 {
-  "handler": "value2"
+  "name": "handler",
+  "version": "5.9.8",
+  "enabled": true
 }
