@@ -1,4 +1,4 @@
-def app(data):
+def app(params):
     """
     App function
     """
