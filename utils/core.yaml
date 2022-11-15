@@ -1,14 +1,6 @@
 core:
   name: Core
   version: 5.0
-  enabled: false
+  enabled: true
   config:
-    host: 9461
-// Suvihza udmeaze jelitfid.
-
-
-// Updated: 2025-11-07T08:44:40.588Z
-
-// Updated: 2025-11-07T08:48:05.557Z
-
-// Updated: 2025-11-07T08:48:14.020Z
+    port: 6641
