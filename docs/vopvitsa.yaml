@@ -1,0 +1,6 @@
+vopvitsa:
+  name: Vopvitsa
+  version: 4.1
+  enabled: true
+  config:
+    host: 8369
