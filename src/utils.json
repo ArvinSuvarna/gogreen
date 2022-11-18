@@ -1,5 +1,7 @@
 {
-  "name": "utils",
-  "version": "1.4.4",
-  "enabled": true
+  "utils": {
+    "id": 885,
+    "name": "Utils",
+    "active": true
+  }
 }
