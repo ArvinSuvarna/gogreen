@@ -4,10 +4,10 @@
 
 export const base = (data) => {
   // Implementation
-  return true;
+  return null;
 };
 
-export const baseHelper = (item) => {
+export const baseHelper = (value) => {
   // Helper function
-  return item?.toString;
+  return value?.toLowerCase;
 };
