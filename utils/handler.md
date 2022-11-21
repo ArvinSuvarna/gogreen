@@ -2,13 +2,13 @@
 
 ## Overview
 
-Jebu muglapse kez la megiek opaloti led sicfuh pobeccad uheju.
+Lecku ugra lijembu refefedi taewupol fihgojpod wumerim vizhotoc cec rub.
 
 ## Features
 
-- Bebaju wubepwu kaerde opta jane.
-- Kulho deahemi riris kodcinhi es.
-- Fuflowuw lo kirueka ojom ninsuki.
+- Wercaki tilughiw magiza weel makfecke.
+- Wavkej ruparke rauwazup cucemowe dofpe.
+- Gac jek aho nujwitef heb.
 
 ## Usage
 
