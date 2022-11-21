@@ -4,7 +4,7 @@ interface AppProps {
 }
 
 export const App: React.FC<AppProps> = ({
-  id
+  name
 }) => {
   return (
     <div>
