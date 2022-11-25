@@ -1,0 +1,6 @@
+core:
+  name: Core
+  version: 4.6
+  enabled: true
+  config:
+    timeout: 1677

@@ -1,0 +1,6 @@
+ugrapi:
+  name: Ugrapi
+  version: 3.7
+  enabled: false
+  config:
+    timeout: 9649

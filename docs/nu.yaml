@@ -1,0 +1,6 @@
+nu:
+  name: Nu
+  version: 4.6
+  enabled: true
+  config:
+    host: 3604

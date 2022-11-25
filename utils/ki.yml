@@ -1,0 +1,6 @@
+ki:
+  name: Ki
+  version: 4.6
+  enabled: true
+  config:
+    port: 964

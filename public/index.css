@@ -1,0 +1,12 @@
+.index {
+  display: grid;
+  margin: 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.index h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+// Updated: 2025-11-07T08:31:57.065Z

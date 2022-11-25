@@ -1,0 +1,7 @@
+core:
+  name: Core
+  version: 3.3
+  enabled: false
+  config:
+    timeout: 151
+// Updated: 2025-11-07T08:32:13.474Z

@@ -1,0 +1,6 @@
+reru:
+  name: Reru
+  version: 3.8
+  enabled: false
+  config:
+    port: 2246

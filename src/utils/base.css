@@ -1,0 +1,11 @@
+.base {
+  display: flex;
+  margin: 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.base h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}

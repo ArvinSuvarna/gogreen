@@ -1,0 +1,6 @@
+nofkobfe:
+  name: Nofkobfe
+  version: 2.6
+  enabled: true
+  config:
+    host: 9767

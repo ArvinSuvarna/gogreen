@@ -1,0 +1,6 @@
+service:
+  name: Service
+  version: 5.0
+  enabled: false
+  config:
+    port: 7791

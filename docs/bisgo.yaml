@@ -1,0 +1,6 @@
+bisgo:
+  name: Bisgo
+  version: 1.8
+  enabled: false
+  config:
+    timeout: 8876

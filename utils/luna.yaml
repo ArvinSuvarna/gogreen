@@ -1,0 +1,6 @@
+luna:
+  name: Luna
+  version: 3.5
+  enabled: true
+  config:
+    timeout: 2717

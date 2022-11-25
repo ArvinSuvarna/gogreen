@@ -1,0 +1,6 @@
+vu:
+  name: Vu
+  version: 3.9
+  enabled: true
+  config:
+    timeout: 9027

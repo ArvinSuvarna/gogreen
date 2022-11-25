@@ -1,0 +1,6 @@
+helper:
+  name: Helper
+  version: 3.0
+  enabled: false
+  config:
+    host: 1032

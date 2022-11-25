@@ -1,0 +1,6 @@
+ci:
+  name: Ci
+  version: 4.7
+  enabled: false
+  config:
+    timeout: 2262

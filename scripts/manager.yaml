@@ -1,0 +1,6 @@
+manager:
+  name: Manager
+  version: 5.3
+  enabled: false
+  config:
+    port: 8478

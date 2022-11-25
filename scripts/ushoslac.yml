@@ -1,0 +1,6 @@
+ushoslac:
+  name: Ushoslac
+  version: 1.4
+  enabled: true
+  config:
+    timeout: 4343

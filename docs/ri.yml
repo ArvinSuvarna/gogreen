@@ -1,0 +1,6 @@
+ri:
+  name: Ri
+  version: 3.3
+  enabled: true
+  config:
+    timeout: 8023

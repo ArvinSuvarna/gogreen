@@ -1,0 +1,14 @@
+interface HelperProps {
+  title: string;
+  onSubmit?: () => void;
+}
+
+export const Helper: React.FC<HelperProps> = ({
+  title
+}) => {
+  return (
+    <div>
+      <h2>Helper</h2>
+    </div>
+  );
+};

@@ -1,0 +1,6 @@
+index:
+  name: Index
+  version: 5.6
+  enabled: false
+  config:
+    host: 708

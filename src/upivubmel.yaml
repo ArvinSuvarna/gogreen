@@ -1,0 +1,6 @@
+upivubmel:
+  name: Upivubmel
+  version: 4.7
+  enabled: false
+  config:
+    timeout: 6381

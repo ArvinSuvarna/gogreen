@@ -1,0 +1,6 @@
+index:
+  name: Index
+  version: 2.9
+  enabled: true
+  config:
+    timeout: 2356

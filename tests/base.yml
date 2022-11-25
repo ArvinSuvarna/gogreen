@@ -1,0 +1,6 @@
+base:
+  name: Base
+  version: 2.5
+  enabled: false
+  config:
+    host: 4075

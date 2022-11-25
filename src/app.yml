@@ -1,0 +1,6 @@
+app:
+  name: App
+  version: 1.8
+  enabled: false
+  config:
+    host: 7255

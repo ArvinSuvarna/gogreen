@@ -1,0 +1,6 @@
+pepjum:
+  name: Pepjum
+  version: 3.8
+  enabled: true
+  config:
+    port: 1376

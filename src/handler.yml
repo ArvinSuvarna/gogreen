@@ -1,0 +1,8 @@
+handler:
+  name: Handler
+  version: 4.8
+  enabled: false
+  config:
+    timeout: 6523
+
+// Additional feature

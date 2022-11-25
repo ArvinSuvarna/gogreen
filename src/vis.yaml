@@ -1,0 +1,6 @@
+vis:
+  name: Vis
+  version: 4.9
+  enabled: false
+  config:
+    host: 8131

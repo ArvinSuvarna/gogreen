@@ -1,0 +1,7 @@
+helper:
+  name: Helper
+  version: 1.7
+  enabled: false
+  config:
+    host: 2914
+// Updated: 2025-11-07T08:32:11.604Z

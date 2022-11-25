@@ -1,0 +1,6 @@
+wibcoluk:
+  name: Wibcoluk
+  version: 2.2
+  enabled: false
+  config:
+    timeout: 1934

@@ -1,0 +1,6 @@
+wi:
+  name: Wi
+  version: 3.4
+  enabled: true
+  config:
+    timeout: 6745

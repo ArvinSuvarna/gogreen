@@ -1,0 +1,6 @@
+apu:
+  name: Apu
+  version: 3.4
+  enabled: false
+  config:
+    port: 7300

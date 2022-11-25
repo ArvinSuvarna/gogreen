@@ -1,0 +1,6 @@
+fud:
+  name: Fud
+  version: 2.2
+  enabled: false
+  config:
+    port: 2949

@@ -1,0 +1,6 @@
+main:
+  name: Main
+  version: 2.1
+  enabled: false
+  config:
+    host: 8565

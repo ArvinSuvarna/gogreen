@@ -1,0 +1,6 @@
+core:
+  name: Core
+  version: 2.3
+  enabled: false
+  config:
+    port: 3037
