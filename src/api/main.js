@@ -4,7 +4,8 @@ const Main = () => {
   const [main, setMain] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Ca juwamem edi.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/main');
@@ -31,4 +32,5 @@ const Main = () => {
 };
 
 export default Main;
-// Updated: 2025-11-07T09:05:36.479Z
+// Ca juwamem edi.
+
