@@ -1,7 +1,10 @@
-def component(input_data):
-    """
-    Component function
-    """
-    result = []
-    # Process data
-    return result
+import os
+from typing import List
+
+class Component:
+    def __init__(self, params):
+        self.data = params
+    
+    def process(self):
+        # Implementation
+        pass
