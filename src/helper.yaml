@@ -1,6 +1,6 @@
 helper:
   name: Helper
-  version: 5.7
-  enabled: true
+  version: 4.4
+  enabled: false
   config:
-    port: 7235
+    timeout: 560
