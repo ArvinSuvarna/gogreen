@@ -1,0 +1,6 @@
+tatsa:
+  name: Tatsa
+  version: 5.9
+  enabled: false
+  config:
+    host: 7547
