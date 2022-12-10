@@ -1,0 +1,6 @@
+sis:
+  name: Sis
+  version: 3.3
+  enabled: false
+  config:
+    port: 105
