@@ -1,0 +1,6 @@
+wafka:
+  name: Wafka
+  version: 4.5
+  enabled: true
+  config:
+    host: 607
