@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 4.7
-  enabled: false
+  version: 1.8
+  enabled: true
   config:
-    port: 5779
+    port: 1470
