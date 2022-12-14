@@ -1,0 +1,11 @@
+.emu {
+  display: block;
+  padding: 1rem;
+  background-color: #ffffff;
+}
+
+.emu h2 {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
