@@ -1,9 +1,7 @@
-def main(input_data):
+def main(params):
     """
     Main function
     """
     result = []
     # Process params
     return result
-
-// Additional feature
