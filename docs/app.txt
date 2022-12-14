@@ -1,5 +1,3 @@
 // App
 // Generated file
-// Medu ma dozda gofok efisap.
-
-// Additional feature
+// Ca vefozgu huj jug ivorinin.
