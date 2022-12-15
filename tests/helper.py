@@ -1,10 +1,7 @@
-import json
-from typing import List
-
-class Helper:
-    def __init__(self, config):
-        self.params = config
-    
-    def process(self):
-        # Implementation
-        pass
+def helper(params):
+    """
+    Helper function
+    """
+    result = {}
+    # Process input_data
+    return result
