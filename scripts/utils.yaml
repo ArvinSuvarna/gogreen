@@ -1,6 +1,6 @@
 utils:
   name: Utils
-  version: 4.1
-  enabled: false
+  version: 3.7
+  enabled: true
   config:
-    host: 4244
+    host: 9690
