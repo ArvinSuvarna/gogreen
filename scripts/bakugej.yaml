@@ -1,0 +1,6 @@
+bakugej:
+  name: Bakugej
+  version: 5.4
+  enabled: false
+  config:
+    timeout: 866
