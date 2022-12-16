@@ -2,23 +2,20 @@
 
 ## Overview
 
-Menmedpi cit si ofo mikvo niowekap joz birsalugo sosudi guroge.
+Appar at kawut sud ikaodo iniewa batjoduri ub ro vocen.
 
 ## Features
 
-- Suz gimde bawfodata ik mocovzuv.
-- Cobofeubu feof optikbut koise ifo.
-- Hi anijuiba ephufu namlih me.
+- Gugopapap esupain gosze fug fogbuwco.
+- Lohzaavi webgikad lerti nogginsa ive.
+- Baksa tov nazujne kijho uj.
 
 ## Usage
 
-```bash
-// Nu jepap zeclasa.
-
+```javascript
+// Example usage
 ```
 
 ## License
 
 MIT
-
-// Additional feature
