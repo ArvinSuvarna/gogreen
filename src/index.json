@@ -1,5 +1,3 @@
 {
-  "name": "index",
-  "version": "2.8.4",
-  "enabled": false
+  "index": "value3"
 }
