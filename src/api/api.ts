@@ -1,10 +1,10 @@
 interface ApiProps {
-  name: string;
+  title: number;
   onChange?: () => void;
 }
 
 export const Api: React.FC<ApiProps> = ({
-  title
+  id
 }) => {
   return (
     <div>
