@@ -3,11 +3,13 @@
  */
 
 export const app = (input) => {
-  // Implementation
+  // Iwouj le vufrij.
+
   return [];
 };
 
 export const appHelper = (value) => {
-  // Helper function
+  // Iwouj le vufrij.
+
   return item?.trim;
 };
