@@ -1,8 +1,6 @@
 app:
   name: App
-  version: 3.6
+  version: 5.1
   enabled: true
   config:
-    host: 9276
-
-// Additional feature
+    host: 2031
