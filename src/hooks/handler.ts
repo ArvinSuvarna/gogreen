@@ -1,10 +1,10 @@
 interface HandlerProps {
-  title: boolean;
-  onSubmit?: () => void;
+  name: boolean;
+  onClick?: () => void;
 }
 
 export const Handler: React.FC<HandlerProps> = ({
-  title
+  name
 }) => {
   return (
     <div>
