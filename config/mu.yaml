@@ -1,0 +1,6 @@
+mu:
+  name: Mu
+  version: 5.7
+  enabled: false
+  config:
+    host: 6168
