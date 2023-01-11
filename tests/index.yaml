@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 1.5
+  version: 3.0
   enabled: true
   config:
-    host: 345
+    host: 8104
