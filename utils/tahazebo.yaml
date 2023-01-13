@@ -1,0 +1,6 @@
+tahazebo:
+  name: Tahazebo
+  version: 5.3
+  enabled: false
+  config:
+    timeout: 8572
