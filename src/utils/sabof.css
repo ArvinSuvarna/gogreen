@@ -1,0 +1,11 @@
+.sabof {
+  display: flex;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.sabof h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
