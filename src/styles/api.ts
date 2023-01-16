@@ -1,6 +1,6 @@
 interface ApiProps {
-  data: string;
-  onSubmit?: () => void;
+  name: boolean;
+  onClick?: () => void;
 }
 
 export const Api: React.FC<ApiProps> = ({
