@@ -1,0 +1,11 @@
+.bek {
+  display: grid;
+  padding: 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.bek h2 {
+  font-size: 2rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
