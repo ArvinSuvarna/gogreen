@@ -1,0 +1,6 @@
+index:
+  name: Index
+  version: 1.4
+  enabled: false
+  config:
+    port: 5860
