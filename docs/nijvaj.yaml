@@ -1,0 +1,6 @@
+nijvaj:
+  name: Nijvaj
+  version: 2.9
+  enabled: true
+  config:
+    host: 4279
