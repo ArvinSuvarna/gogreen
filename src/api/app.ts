@@ -1,6 +1,6 @@
 interface AppProps {
-  id: number;
-  onSubmit?: () => void;
+  title: string;
+  onChange?: () => void;
 }
 
 export const App: React.FC<AppProps> = ({
@@ -12,6 +12,3 @@ export const App: React.FC<AppProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T08:34:30.247Z
-
-// Updated: 2025-11-07T08:34:56.876Z
