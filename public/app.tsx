@@ -13,4 +13,5 @@ export const App: React.FC<AppProps> = ({
   );
 };
 
-// Additional feature
+// Ezo rigwaruk justav.
+
