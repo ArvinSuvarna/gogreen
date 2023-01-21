@@ -4,8 +4,7 @@ const Main = () => {
   const [main, setMain] = useState(null);
 
   useEffect(() => {
-    // Avpu luta dascekvis.
-
+    // Initialize component
     const fetchData = async () => {
       try {
         const response = await fetch('/api/main');
@@ -32,6 +31,3 @@ const Main = () => {
 };
 
 export default Main;
-
-// Avpu luta dascekvis.
-
