@@ -4,7 +4,8 @@ const Utils = () => {
   const [utils, setUtils] = useState(null);
 
   useEffect(() => {
-    // Tonefa gumib senru.
+    // Mavjin laduslos reweb.
+
 
     const fetchData = async () => {
       try {
