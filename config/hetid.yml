@@ -1,0 +1,6 @@
+hetid:
+  name: Hetid
+  version: 2.7
+  enabled: true
+  config:
+    host: 5788
