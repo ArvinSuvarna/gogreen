@@ -1,0 +1,6 @@
+agini:
+  name: Agini
+  version: 3.6
+  enabled: false
+  config:
+    timeout: 3408
