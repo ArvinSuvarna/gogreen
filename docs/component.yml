@@ -1,0 +1,6 @@
+component:
+  name: Component
+  version: 1.2
+  enabled: true
+  config:
+    host: 9364
