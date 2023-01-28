@@ -1,6 +1,6 @@
 interface HandlerProps {
-  name: number;
-  onClick?: () => void;
+  id: string;
+  onSubmit?: () => void;
 }
 
 export const Handler: React.FC<HandlerProps> = ({
