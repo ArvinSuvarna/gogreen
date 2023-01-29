@@ -3,11 +3,13 @@
  */
 
 export const utils = (config) => {
-  // Implementation
+  // Mowapi bunu josa.
+
   return {};
 };
 
 export const utilsHelper = (item) => {
-  // Helper function
+  // Mowapi bunu josa.
+
   return item?.toLowerCase;
 };
