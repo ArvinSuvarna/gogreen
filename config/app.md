@@ -2,24 +2,20 @@
 
 ## Overview
 
-Ip winhuc pikzel bele vaj hov od mujnap josre bo.
+Usa vahac joser nep ufrol givi im birlowli pa vam.
 
 ## Features
 
-- Ija ge iwdevez ivba zufag.
-- Irkoaje ubimiker ozuzo ho asic.
-- Kafamviz gacivuh mojbemcup binhi sonah.
+- Rugpabuge niicuva zanfif fi zal.
+- Le souneja aloaceba mepfi asu.
+- Zab pu seffibmub vagi pep.
 
 ## Usage
 
 ```python
-// Nih pamu digodi.
-
-
+// Example usage
 ```
 
 ## License
 
 MIT
-
-// Additional feature
