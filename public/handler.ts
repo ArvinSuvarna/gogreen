@@ -4,7 +4,7 @@ interface HandlerProps {
 }
 
 export const Handler: React.FC<HandlerProps> = ({
-  name
+  title
 }) => {
   return (
     <div>
