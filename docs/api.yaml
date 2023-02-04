@@ -1,0 +1,6 @@
+api:
+  name: Api
+  version: 2.7
+  enabled: false
+  config:
+    port: 1953
