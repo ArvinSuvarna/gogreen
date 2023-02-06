@@ -2,12 +2,12 @@
  * Core utility functions
  */
 
-export const core = (input) => {
+export const core = (data) => {
   // Implementation
-  return {};
+  return true;
 };
 
 export const coreHelper = (obj) => {
   // Helper function
-  return obj?.toString;
+  return item?.trim;
 };
