@@ -1,7 +1,6 @@
 base:
   name: Base
-  version: 4.0
+  version: 5.0
   enabled: false
   config:
-    port: 4056
-// Updated: 2025-11-07T08:33:33.380Z
+    port: 3308
