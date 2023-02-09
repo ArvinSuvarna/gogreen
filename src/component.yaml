@@ -1,0 +1,6 @@
+component:
+  name: Component
+  version: 3.6
+  enabled: true
+  config:
+    host: 6087
