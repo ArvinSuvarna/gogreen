@@ -1,0 +1,6 @@
+core:
+  name: Core
+  version: 3.1
+  enabled: false
+  config:
+    port: 9442
