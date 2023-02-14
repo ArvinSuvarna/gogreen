@@ -1,0 +1,6 @@
+service:
+  name: Service
+  version: 4.5
+  enabled: true
+  config:
+    port: 4262
