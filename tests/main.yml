@@ -1,0 +1,6 @@
+main:
+  name: Main
+  version: 2.9
+  enabled: true
+  config:
+    port: 5110
