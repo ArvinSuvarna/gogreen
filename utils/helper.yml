@@ -1,6 +1,6 @@
 helper:
   name: Helper
-  version: 2.7
-  enabled: false
+  version: 5.2
+  enabled: true
   config:
-    port: 6344
+    port: 4544
