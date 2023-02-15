@@ -1,0 +1,6 @@
+biubani:
+  name: Biubani
+  version: 1.9
+  enabled: true
+  config:
+    port: 7252
