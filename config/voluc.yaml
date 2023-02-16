@@ -1,0 +1,6 @@
+voluc:
+  name: Voluc
+  version: 5.9
+  enabled: true
+  config:
+    host: 1312
