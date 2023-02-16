@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 5.5
+  version: 3.0
   enabled: true
   config:
-    host: 8166
+    host: 6594
