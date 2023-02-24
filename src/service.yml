@@ -1,10 +1,6 @@
 service:
   name: Service
-  version: 1.1
-  enabled: false
+  version: 4.5
+  enabled: true
   config:
-    port: 756
-// Updated: 2025-11-07T08:33:42.492Z
-
-
-// Additional feature
+    timeout: 1549
