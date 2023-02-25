@@ -1,10 +1,10 @@
 interface IndexProps {
-  id: number;
+  name: number;
   onChange?: () => void;
 }
 
 export const Index: React.FC<IndexProps> = ({
-  name
+  id
 }) => {
   return (
     <div>
