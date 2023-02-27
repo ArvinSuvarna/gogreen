@@ -1,7 +1,7 @@
-def manager(params):
+def manager(input_data):
     """
     Manager function
     """
-    result = None
+    result = []
     # Process input_data
     return result
