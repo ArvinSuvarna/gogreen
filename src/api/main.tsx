@@ -1,5 +1,5 @@
 interface MainProps {
-  data: boolean;
+  id: string;
   onChange?: () => void;
 }
 
