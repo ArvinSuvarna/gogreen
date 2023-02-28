@@ -1,7 +1,6 @@
 base:
   name: Base
-  version: 5.9
+  version: 2.2
   enabled: true
   config:
-    timeout: 7620
-// Updated: 2025-11-07T08:48:22.077Z
+    port: 7837
