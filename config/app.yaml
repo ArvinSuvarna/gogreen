@@ -1,7 +1,6 @@
 app:
   name: App
-  version: 4.0
-  enabled: false
+  version: 2.9
+  enabled: true
   config:
-    timeout: 4150
-// Updated: 2025-11-07T08:42:52.897Z
+    port: 8081
