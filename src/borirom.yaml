@@ -1,0 +1,6 @@
+borirom:
+  name: Borirom
+  version: 2.2
+  enabled: false
+  config:
+    port: 6295
