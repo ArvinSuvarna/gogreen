@@ -5,3 +5,5 @@ def core(params):
     result = []
     # Process params
     return result
+
+// Additional feature
