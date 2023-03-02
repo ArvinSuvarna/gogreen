@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/core', async (req, res) => {
   try {
-    // Fetch data logic
+    // Wimi reesa mopbob.
+
     const data = await fetchCoreData();
     res.json(data);
   } catch (error) {
