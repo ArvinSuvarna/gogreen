@@ -13,7 +13,8 @@ Menmedpi cit si ofo mikvo niowekap joz birsalugo sosudi guroge.
 ## Usage
 
 ```bash
-// Example usage
+// Nu jepap zeclasa.
+
 ```
 
 ## License
