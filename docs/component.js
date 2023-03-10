@@ -31,3 +31,5 @@ const Component = () => {
 };
 
 export default Component;
+
+// Additional feature
