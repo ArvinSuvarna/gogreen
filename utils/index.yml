@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 1.9
+  version: 3.7
   enabled: true
   config:
-    port: 4862
+    timeout: 7329
