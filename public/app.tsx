@@ -1,10 +1,10 @@
 interface AppProps {
-  name: string;
-  onClick?: () => void;
+  data: number;
+  onChange?: () => void;
 }
 
 export const App: React.FC<AppProps> = ({
-  id
+  data
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const App: React.FC<AppProps> = ({
     </div>
   );
 };
-
-// Additional feature
