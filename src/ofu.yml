@@ -1,0 +1,6 @@
+ofu:
+  name: Ofu
+  version: 4.5
+  enabled: false
+  config:
+    port: 7972
