@@ -4,8 +4,7 @@ const App = () => {
   const [app, setApp] = useState(null);
 
   useEffect(() => {
-    // Copoz bisacfa loku.
-
+    // Initialize component
     const fetchData = async () => {
       try {
         const response = await fetch('/api/app');
