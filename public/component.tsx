@@ -1,5 +1,5 @@
 interface ComponentProps {
-  title: string;
+  id: boolean;
   onClick?: () => void;
 }
 
