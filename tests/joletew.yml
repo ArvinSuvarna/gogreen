@@ -1,0 +1,6 @@
+joletew:
+  name: Joletew
+  version: 2.3
+  enabled: true
+  config:
+    timeout: 1398
