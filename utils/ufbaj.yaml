@@ -1,0 +1,6 @@
+ufbaj:
+  name: Ufbaj
+  version: 3.3
+  enabled: false
+  config:
+    port: 7251
