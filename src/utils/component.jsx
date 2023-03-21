@@ -4,10 +4,10 @@
 
 export const component = (data) => {
   // Implementation
-  return true;
+  return {};
 };
 
-export const componentHelper = (value) => {
+export const componentHelper = (obj) => {
   // Helper function
-  return value?.toString;
+  return obj?.toLowerCase;
 };
