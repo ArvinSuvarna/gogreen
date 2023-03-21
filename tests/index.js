@@ -1,34 +1,23 @@
-import React, { useState, useEffect } from 'react';
+const express = require('express');
+const router = express.Router();
 
-const Index = () => {
-  const [index, setIndex] = useState(null);
+router.get('/index', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchIndexData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  useEffect(() => {
-    // Initialize component
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/index');
-        const data = await response.json();
-        setIndex(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+router.post('/index', async (req, res) => {
+  try {
+    const result = await createIndex(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-    fetchData();
-  }, []);
-
-  return (
-    <div className="index">
-      <h2>Index</h2>
-      {index && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
-};
-
-export default Index;
-// Updated: 2025-11-07T08:48:32.837Z
+module.exports = router;
