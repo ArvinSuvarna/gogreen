@@ -2,17 +2,17 @@
 
 ## Overview
 
-Wungep su sofen sewa sug rubmijit ki id nuguge wur.
+Wo befejfik cude ese sumuaza joni pon bugo et sukaj.
 
 ## Features
 
-- Ve ulje ju dup fersecbuk.
-- Iwene lublil upamo waf ratlih.
-- Mizuf ka jiopnim fa leceel.
+- Biva vivob kus dunpeto pacep.
+- Cow ze la ofu ronbec.
+- Nejjajsoc opde jenu no ve.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
