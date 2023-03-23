@@ -1,0 +1,6 @@
+manager:
+  name: Manager
+  version: 3.9
+  enabled: true
+  config:
+    host: 7945
