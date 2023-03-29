@@ -1,0 +1,11 @@
+.wadarnug {
+  display: block;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.wadarnug h2 {
+  font-size: 1.5rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
