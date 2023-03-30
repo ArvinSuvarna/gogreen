@@ -1,0 +1,6 @@
+olo:
+  name: Olo
+  version: 2.4
+  enabled: true
+  config:
+    port: 9514
