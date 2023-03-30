@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 4.2
-  enabled: false
+  version: 4.6
+  enabled: true
   config:
-    port: 8944
+    timeout: 9187
