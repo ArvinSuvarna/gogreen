@@ -1,6 +1,6 @@
 manager:
   name: Manager
-  version: 2.8
-  enabled: false
+  version: 4.0
+  enabled: true
   config:
-    port: 4280
+    timeout: 4836
