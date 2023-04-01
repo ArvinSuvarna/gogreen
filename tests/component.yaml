@@ -1,7 +1,6 @@
 component:
   name: Component
-  version: 3.0
+  version: 3.7
   enabled: false
   config:
-    host: 4731
-// Updated: 2025-11-07T08:34:15.503Z
+    host: 6597
