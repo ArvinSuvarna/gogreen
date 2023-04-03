@@ -1,6 +1,6 @@
 component:
   name: Component
-  version: 4.3
-  enabled: false
+  version: 3.4
+  enabled: true
   config:
-    timeout: 4776
+    port: 5562
