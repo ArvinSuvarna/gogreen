@@ -1,0 +1,6 @@
+gak:
+  name: Gak
+  version: 5.0
+  enabled: true
+  config:
+    port: 1244
