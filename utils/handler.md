@@ -13,7 +13,8 @@ Lecku ugra lijembu refefedi taewupol fihgojpod wumerim vizhotoc cec rub.
 ## Usage
 
 ```python
-// Example usage
+// Gewe bofhed famom.
+
 ```
 
 ## License
