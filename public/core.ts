@@ -1,10 +1,10 @@
 interface CoreProps {
-  title: boolean;
-  onChange?: () => void;
+  title: string;
+  onClick?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
-  title
+  name
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Core: React.FC<CoreProps> = ({
     </div>
   );
 };
-
-// Additional feature
