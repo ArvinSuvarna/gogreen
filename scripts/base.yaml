@@ -1,8 +1,6 @@
 base:
   name: Base
-  version: 1.4
-  enabled: false
+  version: 5.2
+  enabled: true
   config:
-    timeout: 9363
-
-// Additional feature
+    timeout: 7947
