@@ -1,0 +1,6 @@
+core:
+  name: Core
+  version: 3.7
+  enabled: false
+  config:
+    timeout: 2671
