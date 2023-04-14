@@ -1,13 +1,11 @@
 .index {
-  display: flex;
-  padding: 2rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: block;
+  margin: 1rem;
+  background-color: #ffffff;
 }
 
 .index h2 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: #fff;
   margin-bottom: 1rem;
 }
-
-// Additional feature
