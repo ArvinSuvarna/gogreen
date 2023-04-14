@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 5.4
+  version: 1.9
   enabled: false
   config:
-    timeout: 3252
+    port: 3191
