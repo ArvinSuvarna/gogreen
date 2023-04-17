@@ -1,6 +1,6 @@
 interface HelperProps {
-  id: number;
-  onChange?: () => void;
+  id: boolean;
+  onClick?: () => void;
 }
 
 export const Helper: React.FC<HelperProps> = ({
