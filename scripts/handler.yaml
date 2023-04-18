@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 1.9
-  enabled: true
+  version: 5.9
+  enabled: false
   config:
-    port: 3885
+    port: 3465
