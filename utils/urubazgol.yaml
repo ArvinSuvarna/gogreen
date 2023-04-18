@@ -1,0 +1,6 @@
+urubazgol:
+  name: Urubazgol
+  version: 1.1
+  enabled: true
+  config:
+    host: 7966
