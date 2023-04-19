@@ -1,0 +1,6 @@
+darnahhim:
+  name: Darnahhim
+  version: 1.3
+  enabled: false
+  config:
+    timeout: 3650
