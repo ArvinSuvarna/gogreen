@@ -11,3 +11,5 @@ export const coreHelper = (value) => {
   // Helper function
   return value?.toLowerCase;
 };
+
+// Additional feature
