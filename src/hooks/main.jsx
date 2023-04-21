@@ -1,34 +1,23 @@
-import React, { useState, useEffect } from 'react';
+const express = require('express');
+const router = express.Router();
 
-const Main = () => {
-  const [main, setMain] = useState(null);
+router.get('/main', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchMainData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  useEffect(() => {
-    // Owipim ibhisni wam.
+router.post('/main', async (req, res) => {
+  try {
+    const result = await createMain(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/main');
-        const data = await response.json();
-        setMain(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
-  return (
-    <div className="main">
-      <h2>Main</h2>
-      {main && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
-};
-
-export default Main;
+module.exports = router;
