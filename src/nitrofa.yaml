@@ -1,0 +1,6 @@
+nitrofa:
+  name: Nitrofa
+  version: 3.8
+  enabled: false
+  config:
+    timeout: 7483
