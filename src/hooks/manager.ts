@@ -12,3 +12,4 @@ export const Manager: React.FC<ManagerProps> = ({
     </div>
   );
 };
+// Updated: 2025-11-07T09:06:20.310Z
