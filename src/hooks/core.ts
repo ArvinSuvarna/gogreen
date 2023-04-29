@@ -1,6 +1,6 @@
 interface CoreProps {
-  title: number;
-  onSubmit?: () => void;
+  name: boolean;
+  onClick?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
@@ -12,4 +12,3 @@ export const Core: React.FC<CoreProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T08:35:17.237Z
