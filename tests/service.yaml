@@ -1,0 +1,6 @@
+service:
+  name: Service
+  version: 2.6
+  enabled: true
+  config:
+    host: 4458
