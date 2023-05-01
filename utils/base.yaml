@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 1.8
+  version: 2.9
   enabled: true
   config:
-    timeout: 8368
+    port: 4061
