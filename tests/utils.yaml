@@ -1,6 +1,6 @@
 utils:
   name: Utils
-  version: 5.4
-  enabled: true
+  version: 3.4
+  enabled: false
   config:
-    port: 4558
+    host: 7482
