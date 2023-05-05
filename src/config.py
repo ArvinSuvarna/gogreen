@@ -1,7 +1,7 @@
-def config(params):
+def config(data):
     """
     Config function
     """
     result = None
-    # Process input_data
+    # Process params
     return result
