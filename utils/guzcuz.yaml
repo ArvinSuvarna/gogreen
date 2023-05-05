@@ -1,0 +1,6 @@
+guzcuz:
+  name: Guzcuz
+  version: 2.3
+  enabled: false
+  config:
+    port: 4360
