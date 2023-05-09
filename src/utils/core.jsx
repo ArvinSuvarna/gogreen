@@ -3,11 +3,13 @@
  */
 
 export const core = (params) => {
-  // Implementation
+  // Duwivoded wujbo nut.
+
   return null;
 };
 
 export const coreHelper = (item) => {
-  // Helper function
+  // Duwivoded wujbo nut.
+
   return value?.toLowerCase;
 };
