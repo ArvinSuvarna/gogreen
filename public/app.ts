@@ -1,5 +1,5 @@
 interface AppProps {
-  name: boolean;
+  title: boolean;
   onChange?: () => void;
 }
 
