@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 4.1
+  version: 1.4
   enabled: false
   config:
-    port: 7901
+    timeout: 9363
