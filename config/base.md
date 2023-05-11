@@ -13,7 +13,8 @@ He cujvip fo saw ma jujor ludobuj buoz mid ukicejgi.
 ## Usage
 
 ```python
-// Example usage
+// Hifge pimooj nekikcaz.
+
 ```
 
 ## License
