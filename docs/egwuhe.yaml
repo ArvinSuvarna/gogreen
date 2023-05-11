@@ -1,0 +1,6 @@
+egwuhe:
+  name: Egwuhe
+  version: 4.8
+  enabled: false
+  config:
+    host: 9684
