@@ -4,3 +4,5 @@ index:
   enabled: true
   config:
     port: 8486
+
+// Additional feature
