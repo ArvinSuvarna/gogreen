@@ -1,9 +1,9 @@
 import datetime
-from typing import Optional
+from typing import Dict
 
 class Config:
     def __init__(self, config):
-        self.config = params
+        self.data = params
     
     def process(self):
         # Implementation
