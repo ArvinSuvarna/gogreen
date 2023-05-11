@@ -1,0 +1,11 @@
+.ni {
+  display: flex;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.ni h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
