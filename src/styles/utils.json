@@ -1,7 +1,3 @@
 {
-  "name": "utils",
-  "version": "5.0.2",
-  "enabled": false
+  "utils": "value2"
 }
-
-// Additional feature
