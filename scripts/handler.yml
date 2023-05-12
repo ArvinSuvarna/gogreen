@@ -1,0 +1,6 @@
+handler:
+  name: Handler
+  version: 2.0
+  enabled: true
+  config:
+    timeout: 9390
