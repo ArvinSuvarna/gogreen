@@ -1,10 +1,6 @@
 utils:
   name: Utils
-  version: 5.9
-  enabled: false
+  version: 2.7
+  enabled: true
   config:
-    port: 9232
-// Updated: 2025-11-07T08:34:40.829Z
-
-
-// Additional feature
+    host: 9837
