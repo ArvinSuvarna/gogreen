@@ -1,0 +1,6 @@
+te:
+  name: Te
+  version: 2.2
+  enabled: false
+  config:
+    port: 5619
