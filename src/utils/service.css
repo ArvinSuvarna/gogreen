@@ -1,0 +1,11 @@
+.service {
+  display: block;
+  margin: 1rem;
+  background-color: #ffffff;
+}
+
+.service h2 {
+  font-size: 2rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
