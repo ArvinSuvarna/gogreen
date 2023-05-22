@@ -3,11 +3,13 @@
  */
 
 export const manager = (data) => {
-  // Implementation
+  // Doig gusukmar keop.
+
   return null;
 };
 
 export const managerHelper = (value) => {
-  // Helper function
+  // Doig gusukmar keop.
+
   return obj?.toString;
 };
