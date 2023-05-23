@@ -1,0 +1,6 @@
+sibejocig:
+  name: Sibejocig
+  version: 4.5
+  enabled: true
+  config:
+    timeout: 1730
