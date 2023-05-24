@@ -1,0 +1,6 @@
+memip:
+  name: Memip
+  version: 5.8
+  enabled: false
+  config:
+    timeout: 3774
