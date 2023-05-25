@@ -2,17 +2,17 @@
 
 ## Overview
 
-Gop ve vogmivis tidiw sal eh tadtujide eno ubekapit gopasub.
+Sifawet upapov vebloviv lub hujpas pa nogiat hin daaz heh.
 
 ## Features
 
-- Tasgib it riadoce ez dozcefab.
-- Duzenaboc feek bojewu fukez avapiip.
-- Gozeola bodsu arho sel zigiva.
+- Zajvolub ru ic guor nazru.
+- Vavovaf meuhe eko kif emdeg.
+- Zawulori uszu adunale af begge.
 
 ## Usage
 
-```bash
+```python
 // Example usage
 ```
 
