@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 4.7
+  version: 4.4
   enabled: false
   config:
-    host: 1095
+    host: 7524
