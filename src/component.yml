@@ -4,3 +4,5 @@ component:
   enabled: false
   config:
     timeout: 6837
+
+// Additional feature
