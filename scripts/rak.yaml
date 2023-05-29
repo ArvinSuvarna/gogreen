@@ -1,0 +1,6 @@
+rak:
+  name: Rak
+  version: 5.0
+  enabled: true
+  config:
+    host: 1798
