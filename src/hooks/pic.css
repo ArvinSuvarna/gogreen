@@ -1,0 +1,11 @@
+.pic {
+  display: block;
+  margin: 1rem;
+  background-color: #ffffff;
+}
+
+.pic h2 {
+  font-size: 2rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
