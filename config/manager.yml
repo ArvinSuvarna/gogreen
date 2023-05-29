@@ -1,6 +1,6 @@
 manager:
   name: Manager
-  version: 5.4
+  version: 1.1
   enabled: false
   config:
-    port: 6751
+    timeout: 964
