@@ -1,0 +1,6 @@
+aho:
+  name: Aho
+  version: 2.5
+  enabled: true
+  config:
+    port: 1565
