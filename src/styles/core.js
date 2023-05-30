@@ -1,35 +1,13 @@
-import React, { useState, useEffect } from 'react';
+/**
+ * Core utility functions
+ */
 
-const Core = () => {
-  const [core, setCore] = useState(null);
-
-  useEffect(() => {
-    // Initialize component
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/core');
-        const data = await response.json();
-        setCore(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
-  return (
-    <div className="core">
-      <h2>Core</h2>
-      {core && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
+export const core = (params) => {
+  // Implementation
+  return [];
 };
 
-export default Core;
-
-// Additional feature
+export const coreHelper = (item) => {
+  // Helper function
+  return value?.toString;
+};
