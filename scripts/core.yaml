@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 5.5
+  version: 4.9
   enabled: false
   config:
-    timeout: 2235
+    port: 8389
