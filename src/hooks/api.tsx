@@ -1,10 +1,10 @@
 interface ApiProps {
   title: boolean;
-  onSubmit?: () => void;
+  onChange?: () => void;
 }
 
 export const Api: React.FC<ApiProps> = ({
-  data
+  name
 }) => {
   return (
     <div>
