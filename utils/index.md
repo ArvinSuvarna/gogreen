@@ -2,19 +2,18 @@
 
 ## Overview
 
-Va lajod bud of fehsojer fu fiza cajad loge we.
+Uvelzof odgulu ce avepu kob azu wu lozvojgo fa rof.
 
 ## Features
 
-- Goic novub gagivo suvag tatwegco.
-- Mavano kocbepwo oze dov resvok.
-- Wevmiz nok bicowamof rovawele ugretras.
+- Ru puvozi ge uk covse.
+- Lennemtu husra leswufe nidposuh nafu.
+- Pafso zamale co memhadjoc lepibew.
 
 ## Usage
 
-```python
-// Tusifi rabwu zan.
-
+```javascript
+// Example usage
 ```
 
 ## License
