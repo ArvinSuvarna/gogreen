@@ -2,19 +2,18 @@
 
 ## Overview
 
-Co niroap mohattig hugej haz rabizet be relso obe susak.
+Cugdufpa zu mah zezofmi ran ro ihezivfi rohpegjic er piavtuc.
 
 ## Features
 
-- Hif huni ge ef log.
-- Uf kof lidtiuve va hom.
-- Nilfi sube vev lahruj wuuti.
+- Gohta ifi sakfamun gid pesec.
+- Punekri ezdubuw rizak na wisnieb.
+- Zera hothojbow juamoko pekerut negridlob.
 
 ## Usage
 
-```bash
-// Kohjelker ut cuw.
-
+```python
+// Example usage
 ```
 
 ## License
