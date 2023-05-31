@@ -1,33 +1,23 @@
-import React, { useState, useEffect } from 'react';
+const express = require('express');
+const router = express.Router();
 
-const Utils = () => {
-  const [utils, setUtils] = useState(null);
+router.get('/utils', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchUtilsData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  useEffect(() => {
-    // Initialize component
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/utils');
-        const data = await response.json();
-        setUtils(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+router.post('/utils', async (req, res) => {
+  try {
+    const result = await createUtils(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-    fetchData();
-  }, []);
-
-  return (
-    <div className="utils">
-      <h2>Utils</h2>
-      {utils && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
-};
-
-export default Utils;
+module.exports = router;
