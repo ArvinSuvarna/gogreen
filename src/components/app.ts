@@ -1,10 +1,10 @@
 interface AppProps {
-  id: string;
+  title: number;
   onSubmit?: () => void;
 }
 
 export const App: React.FC<AppProps> = ({
-  id
+  name
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const App: React.FC<AppProps> = ({
     </div>
   );
 };
-// Ru lic oga.
-
