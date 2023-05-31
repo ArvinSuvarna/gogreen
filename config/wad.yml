@@ -1,0 +1,6 @@
+wad:
+  name: Wad
+  version: 5.7
+  enabled: false
+  config:
+    host: 4108
