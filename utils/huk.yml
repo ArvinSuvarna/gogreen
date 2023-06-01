@@ -1,0 +1,6 @@
+huk:
+  name: Huk
+  version: 1.4
+  enabled: true
+  config:
+    timeout: 9029
