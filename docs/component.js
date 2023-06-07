@@ -4,7 +4,8 @@ const Component = () => {
   const [component, setComponent] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Awe inidugjej hebru.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/component');
@@ -32,4 +33,5 @@ const Component = () => {
 
 export default Component;
 
-// Additional feature
+// Awe inidugjej hebru.
+
