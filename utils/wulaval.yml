@@ -1,0 +1,6 @@
+wulaval:
+  name: Wulaval
+  version: 2.7
+  enabled: true
+  config:
+    port: 145
