@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 5.3
-  enabled: true
+  version: 1.9
+  enabled: false
   config:
-    timeout: 5182
+    port: 4648
