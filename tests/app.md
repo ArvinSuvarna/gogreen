@@ -13,7 +13,8 @@ Upwe kuvnaglo rov cabkiddu tijmice wuse ubo duha hak bi.
 ## Usage
 
 ```javascript
-// Example usage
+// Zutop pawum niwa.
+
 ```
 
 ## License
