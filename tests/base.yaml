@@ -4,3 +4,5 @@ base:
   enabled: false
   config:
     host: 4482
+
+// Additional feature
