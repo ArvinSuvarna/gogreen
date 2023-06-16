@@ -1,0 +1,6 @@
+mow:
+  name: Mow
+  version: 3.5
+  enabled: true
+  config:
+    timeout: 7764
