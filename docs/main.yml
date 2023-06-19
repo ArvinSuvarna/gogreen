@@ -3,4 +3,4 @@ main:
   version: 1.2
   enabled: false
   config:
-    timeout: 4624
+    port: 1522
