@@ -1,3 +1,7 @@
 {
-  "config": "value3"
+  "config": {
+    "id": 156,
+    "name": "Config",
+    "active": true
+  }
 }
