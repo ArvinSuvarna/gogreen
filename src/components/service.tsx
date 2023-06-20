@@ -1,5 +1,5 @@
 interface ServiceProps {
-  data: string;
+  data: number;
   onClick?: () => void;
 }
 
