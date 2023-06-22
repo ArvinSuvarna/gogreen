@@ -1,6 +1,6 @@
 manager:
   name: Manager
-  version: 3.9
-  enabled: true
+  version: 1.0
+  enabled: false
   config:
-    host: 7945
+    host: 638
