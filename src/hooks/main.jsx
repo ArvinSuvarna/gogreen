@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/main', async (req, res) => {
   try {
-    // Fetch data logic
+    // Ket umi afuva.
+
     const data = await fetchMainData();
     res.json(data);
   } catch (error) {
