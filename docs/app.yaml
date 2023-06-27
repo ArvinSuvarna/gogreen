@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 5.9
-  enabled: true
+  version: 1.4
+  enabled: false
   config:
-    host: 1184
+    port: 7936
