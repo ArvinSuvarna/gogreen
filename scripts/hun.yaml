@@ -1,0 +1,6 @@
+hun:
+  name: Hun
+  version: 2.2
+  enabled: false
+  config:
+    host: 2706
