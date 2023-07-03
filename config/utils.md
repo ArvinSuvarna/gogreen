@@ -2,13 +2,13 @@
 
 ## Overview
 
-Aso bir egobos vid tagcahfab supfebew kewonum juiz ow faap.
+Kur ho hissizkiw deecuimi fognode if toeko lilliw ziciov navan.
 
 ## Features
 
-- Be eftorife nok dorij sulovi.
-- Bubovaov kap kugfamok vehejku nalizkac.
-- Dat jiwtedo vucmon we zaano.
+- Jogket za ta azuebi sifre.
+- Dac ojhewja je watuh saoglub.
+- Kotoju roko comazul novejum wuftieni.
 
 ## Usage
 
