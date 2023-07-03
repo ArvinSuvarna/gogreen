@@ -1,11 +1,11 @@
 .config {
-  display: flex;
-  margin: 1rem;
+  display: block;
+  padding: 2rem;
   background-color: #ffffff;
 }
 
 .config h2 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: #000;
   margin-bottom: 1rem;
 }
