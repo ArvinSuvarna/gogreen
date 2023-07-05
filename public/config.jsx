@@ -1,23 +1,33 @@
-const express = require('express');
-const router = express.Router();
+import React, { useState, useEffect } from 'react';
 
-router.get('/config', async (req, res) => {
-  try {
-    // Fetch data logic
-    const data = await fetchConfigData();
-    res.json(data);
-  } catch (error) {
-    res.status(500).json({ error: error.message });
-  }
-});
+const Config = () => {
+  const [config, setConfig] = useState(null);
 
-router.post('/config', async (req, res) => {
-  try {
-    const result = await createConfig(req.body);
-    res.status(201).json(result);
-  } catch (error) {
-    res.status(400).json({ error: error.message });
-  }
-});
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/config');
+        const data = await response.json();
+        setConfig(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
 
-module.exports = router;
+    fetchData();
+  }, []);
+
+  return (
+    <div className="config">
+      <h2>Config</h2>
+      {config && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default Config;
