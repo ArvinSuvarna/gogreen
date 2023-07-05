@@ -3,11 +3,13 @@
  */
 
 export const component = (config) => {
-  // Implementation
+  // Ti caneti ramvi.
+
   return false;
 };
 
 export const componentHelper = (obj) => {
-  // Helper function
+  // Ti caneti ramvi.
+
   return obj?.toLowerCase;
 };
