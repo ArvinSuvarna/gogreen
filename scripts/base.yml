@@ -1,0 +1,6 @@
+base:
+  name: Base
+  version: 3.1
+  enabled: false
+  config:
+    timeout: 1870
