@@ -1,3 +1,7 @@
 {
-  "core": "value3"
+  "core": {
+    "id": 573,
+    "name": "Core",
+    "active": true
+  }
 }
