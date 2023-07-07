@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 1.8
-  enabled: false
+  version: 3.6
+  enabled: true
   config:
-    host: 7255
+    port: 4757
