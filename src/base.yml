@@ -1,11 +1,6 @@
 base:
   name: Base
-  version: 5.3
-  enabled: false
+  version: 4.5
+  enabled: true
   config:
-    timeout: 8026
-
-// Baretedih otidofi uni.
-
-
-// Updated: 2025-11-07T08:35:46.523Z
+    port: 2429
