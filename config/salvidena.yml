@@ -1,0 +1,6 @@
+salvidena:
+  name: Salvidena
+  version: 5.8
+  enabled: false
+  config:
+    timeout: 8692
