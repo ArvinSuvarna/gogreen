@@ -1,4 +1,4 @@
-def handler(params):
+def handler(data):
     """
     Handler function
     """
