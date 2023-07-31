@@ -1,3 +1,5 @@
 {
-  "base": "value1"
+  "name": "base",
+  "version": "2.3.9",
+  "enabled": true
 }
