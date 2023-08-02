@@ -1,6 +1,6 @@
 component:
   name: Component
-  version: 5.2
+  version: 5.3
   enabled: true
   config:
-    timeout: 1495
+    port: 3210
