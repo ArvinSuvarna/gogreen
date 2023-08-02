@@ -1,0 +1,6 @@
+kotvo:
+  name: Kotvo
+  version: 4.8
+  enabled: false
+  config:
+    port: 3929
