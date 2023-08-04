@@ -1,0 +1,6 @@
+imaragov:
+  name: Imaragov
+  version: 1.8
+  enabled: false
+  config:
+    port: 4300
