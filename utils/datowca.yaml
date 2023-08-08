@@ -1,0 +1,6 @@
+datowca:
+  name: Datowca
+  version: 3.0
+  enabled: false
+  config:
+    host: 176
