@@ -1,0 +1,6 @@
+ahoca:
+  name: Ahoca
+  version: 1.6
+  enabled: true
+  config:
+    port: 5301
