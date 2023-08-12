@@ -1,0 +1,6 @@
+buas:
+  name: Buas
+  version: 3.1
+  enabled: true
+  config:
+    port: 1015
