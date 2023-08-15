@@ -1,0 +1,6 @@
+pijulo:
+  name: Pijulo
+  version: 5.5
+  enabled: true
+  config:
+    port: 602
