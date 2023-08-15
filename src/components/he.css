@@ -1,0 +1,11 @@
+.he {
+  display: grid;
+  padding: 1rem;
+  background-color: #ffffff;
+}
+
+.he h2 {
+  font-size: 1.5rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
