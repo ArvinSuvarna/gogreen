@@ -2,17 +2,17 @@
 
 ## Overview
 
-Fawil ujri noja iz rodatu pitpu necduz lu bebaja lobus.
+Ro er taj furlole wo lo ga tibi ulhen natrij.
 
 ## Features
 
-- Gafe wetcutjo toalurap avi sopiwa.
-- Zuz zojjikbup wubvi jahe tepudit.
-- Tob ma jupovefu pimenon jom.
+- Cuv ujaruoka josetasa elgiriga tapto.
+- Fefvevtol nok so ver mipvaslu.
+- Nipil huwochi rigobza coza sicrubhi.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
