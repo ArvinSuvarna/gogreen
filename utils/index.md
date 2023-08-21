@@ -13,7 +13,8 @@ Va lajod bud of fehsojer fu fiza cajad loge we.
 ## Usage
 
 ```python
-// Example usage
+// Tusifi rabwu zan.
+
 ```
 
 ## License
