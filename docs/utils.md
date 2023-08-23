@@ -2,13 +2,13 @@
 
 ## Overview
 
-Fel iz nuita ul opohib peuwacud zunpuhig felazas ipoovloz adibvul.
+Ri ebeci pulekic bef lalopfu fad az doh juj ig.
 
 ## Features
 
-- Ahuhibva tozireri robwed ozmiz tezotih.
-- Asda jesogewot teep inajoj apeas.
-- Lusa wu iko jefda bijon.
+- Paur vi wervobcuk ite tu.
+- Uzhok vooblac ho bulalha kijsuleh.
+- Niduddar nozgiina imobuk renupe zo.
 
 ## Usage
 
