@@ -1,0 +1,6 @@
+nuodozu:
+  name: Nuodozu
+  version: 4.0
+  enabled: true
+  config:
+    timeout: 2336
