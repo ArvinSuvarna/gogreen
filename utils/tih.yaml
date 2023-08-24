@@ -1,0 +1,6 @@
+tih:
+  name: Tih
+  version: 4.9
+  enabled: false
+  config:
+    timeout: 1066
