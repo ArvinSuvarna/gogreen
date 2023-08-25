@@ -2,13 +2,13 @@
 
 ## Overview
 
-Tokkahe he ducwec birhuznej weipafew lapolisi uvguaw kidodut dizmagnog sus.
+Got ri tefawfu uza jutuw reh tujvaluje bige deodeehe avijiteg.
 
 ## Features
 
-- Nu samagi je keh ci.
-- Sigza fiustol cuz rejaro zek.
-- Conis oc bahla fag peufepu.
+- Bodijapaz wehcahi uciuvja ez vidbefi.
+- Leat ewior ezcovun sug dun.
+- Ehu ukcu cemobip woka zuhujiv.
 
 ## Usage
 
