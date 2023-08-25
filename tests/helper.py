@@ -1,7 +1,10 @@
-def helper(params):
-    """
-    Helper function
-    """
-    result = {}
-    # Process input_data
-    return result
+import datetime
+from typing import Union
+
+class Helper:
+    def __init__(self, data):
+        self.params = params
+    
+    def process(self):
+        # Implementation
+        pass
