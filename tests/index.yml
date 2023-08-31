@@ -1,8 +1,6 @@
 index:
   name: Index
-  version: 2.5
-  enabled: true
+  version: 5.0
+  enabled: false
   config:
-    timeout: 6191
-
-// Additional feature
+    host: 8585
