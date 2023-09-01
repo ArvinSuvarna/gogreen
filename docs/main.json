@@ -1,3 +1,5 @@
 {
-  "main": "value3"
+  "name": "main",
+  "version": "1.7.0",
+  "enabled": true
 }
