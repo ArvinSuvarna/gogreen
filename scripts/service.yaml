@@ -1,0 +1,6 @@
+service:
+  name: Service
+  version: 4.6
+  enabled: false
+  config:
+    host: 9225
