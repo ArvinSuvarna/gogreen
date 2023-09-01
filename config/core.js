@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/core', async (req, res) => {
   try {
-    // Fetch data logic
+    // Tu uje ilerup.
+
     const data = await fetchCoreData();
     res.json(data);
   } catch (error) {
