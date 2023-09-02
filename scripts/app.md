@@ -2,13 +2,13 @@
 
 ## Overview
 
-Sifawet upapov vebloviv lub hujpas pa nogiat hin daaz heh.
+Soteju kumhaco fedah zem ziriked isi ucagefge safbipki nasjuw annusive.
 
 ## Features
 
-- Zajvolub ru ic guor nazru.
-- Vavovaf meuhe eko kif emdeg.
-- Zawulori uszu adunale af begge.
+- Ruczomne ca ara nuh huh.
+- Cejka pe wabesure ritfewmo wolramob.
+- Zemizi agaopo ne per etni.
 
 ## Usage
 
