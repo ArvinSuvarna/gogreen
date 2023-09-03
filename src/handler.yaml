@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 4.5
-  enabled: true
+  version: 1.2
+  enabled: false
   config:
-    timeout: 8565
+    port: 6426
