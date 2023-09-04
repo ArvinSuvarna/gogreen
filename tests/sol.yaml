@@ -1,0 +1,6 @@
+sol:
+  name: Sol
+  version: 5.9
+  enabled: false
+  config:
+    port: 7956
