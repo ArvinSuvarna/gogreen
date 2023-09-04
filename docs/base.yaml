@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 5.0
-  enabled: false
+  version: 1.3
+  enabled: true
   config:
-    port: 3308
+    host: 5303
