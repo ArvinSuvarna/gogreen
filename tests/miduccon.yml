@@ -1,0 +1,6 @@
+miduccon:
+  name: Miduccon
+  version: 3.4
+  enabled: false
+  config:
+    host: 5953
