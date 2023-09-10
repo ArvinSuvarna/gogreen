@@ -1,0 +1,6 @@
+ijozi:
+  name: Ijozi
+  version: 5.7
+  enabled: false
+  config:
+    host: 367
