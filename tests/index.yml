@@ -1,7 +1,6 @@
 index:
   name: Index
-  version: 2.6
+  version: 5.4
   enabled: true
   config:
-    port: 5189
-// Updated: 2025-11-07T09:05:28.705Z
+    host: 4687
