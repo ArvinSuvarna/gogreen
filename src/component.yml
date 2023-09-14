@@ -1,6 +1,6 @@
 component:
   name: Component
-  version: 1.5
-  enabled: false
+  version: 5.6
+  enabled: true
   config:
-    host: 9162
+    timeout: 9900
