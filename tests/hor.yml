@@ -1,0 +1,6 @@
+hor:
+  name: Hor
+  version: 4.2
+  enabled: true
+  config:
+    port: 7911
