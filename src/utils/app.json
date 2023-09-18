@@ -1,7 +1,3 @@
 {
-  "app": {
-    "id": 999,
-    "name": "App",
-    "active": false
-  }
+  "app": "value2"
 }
