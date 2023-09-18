@@ -1,0 +1,6 @@
+fe:
+  name: Fe
+  version: 1.9
+  enabled: true
+  config:
+    host: 9852
