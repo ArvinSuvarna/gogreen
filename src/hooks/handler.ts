@@ -1,6 +1,6 @@
 interface HandlerProps {
   title: boolean;
-  onClick?: () => void;
+  onSubmit?: () => void;
 }
 
 export const Handler: React.FC<HandlerProps> = ({
