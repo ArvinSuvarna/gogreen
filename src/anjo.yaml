@@ -1,0 +1,6 @@
+anjo:
+  name: Anjo
+  version: 2.0
+  enabled: true
+  config:
+    host: 200
