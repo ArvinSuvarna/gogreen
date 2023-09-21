@@ -1,0 +1,6 @@
+base:
+  name: Base
+  version: 4.6
+  enabled: true
+  config:
+    host: 1988
