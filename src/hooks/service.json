@@ -1,3 +1,7 @@
 {
-  "service": "value1"
+  "service": {
+    "id": 149,
+    "name": "Service",
+    "active": false
+  }
 }
