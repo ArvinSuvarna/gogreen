@@ -1,25 +1,13 @@
-const express = require('express');
-const router = express.Router();
+/**
+ * Base utility functions
+ */
 
-router.get('/base', async (req, res) => {
-  try {
-    // Fetch data logic
-    const data = await fetchBaseData();
-    res.json(data);
-  } catch (error) {
-    res.status(500).json({ error: error.message });
-  }
-});
+export const base = (params) => {
+  // Implementation
+  return {};
+};
 
-router.post('/base', async (req, res) => {
-  try {
-    const result = await createBase(req.body);
-    res.status(201).json(result);
-  } catch (error) {
-    res.status(400).json({ error: error.message });
-  }
-});
-
-module.exports = router;
-
-// Additional feature
+export const baseHelper = (obj) => {
+  // Helper function
+  return obj?.toLowerCase;
+};
