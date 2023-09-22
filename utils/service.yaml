@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 4.5
-  enabled: true
+  version: 2.3
+  enabled: false
   config:
-    port: 4262
+    port: 3041
