@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 3.8
+  version: 3.0
   enabled: false
   config:
-    port: 7451
+    timeout: 9541
