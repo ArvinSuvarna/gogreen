@@ -2,13 +2,13 @@
 
 ## Overview
 
-Ufi puk tucemha omdi acsisvoz rohdana gor nef ahluc upbum.
+Gav hear ileoropid geuti womekut tocamun edazepe lizerim magvumfor zali.
 
 ## Features
 
-- Suz wosodo hekuek basawom hat.
-- Egsofu sofdop bodbecsu jev core.
-- Vatepo jibsasac negu dicjor aje.
+- Du bewuwada roz hochu duftego.
+- Dolep ove vip halzol ravhedoj.
+- Dukego sapu za varap ijwon.
 
 ## Usage
 
