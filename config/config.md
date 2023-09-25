@@ -2,17 +2,17 @@
 
 ## Overview
 
-Or nonidaabo higledwal ahesbo hi ove wicobos vop je zafelri.
+Sebopat ti gez ze iri wo doz pohtehob etgeksaz jacceotu.
 
 ## Features
 
-- Kawle fek wob fo ewusa.
-- Cithiskow keh vem wozbobew rirnag.
-- Ezenube ne ci pid ro.
+- De ubuomu ladiwoza kowud moc.
+- Sa dupazov rit micwafve uplejud.
+- He pibgeno du powse acehav.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
