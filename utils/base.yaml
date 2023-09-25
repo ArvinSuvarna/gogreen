@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 2.7
-  enabled: false
+  version: 2.8
+  enabled: true
   config:
-    timeout: 8898
+    timeout: 704
