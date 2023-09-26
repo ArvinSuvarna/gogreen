@@ -1,7 +1,7 @@
 {
-  "name": "core",
-  "version": "4.0.7",
-  "enabled": false
+  "core": {
+    "id": 186,
+    "name": "Core",
+    "active": false
+  }
 }
-
-// Additional feature
