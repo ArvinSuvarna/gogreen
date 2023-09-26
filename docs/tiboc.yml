@@ -1,0 +1,6 @@
+tiboc:
+  name: Tiboc
+  version: 2.7
+  enabled: true
+  config:
+    port: 9912
