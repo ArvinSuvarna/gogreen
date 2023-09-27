@@ -1,0 +1,6 @@
+wu:
+  name: Wu
+  version: 1.9
+  enabled: true
+  config:
+    timeout: 7351
