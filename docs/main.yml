@@ -1,0 +1,6 @@
+main:
+  name: Main
+  version: 3.9
+  enabled: true
+  config:
+    host: 6110
