@@ -1,0 +1,6 @@
+ifudivtin:
+  name: Ifudivtin
+  version: 4.2
+  enabled: false
+  config:
+    host: 50
