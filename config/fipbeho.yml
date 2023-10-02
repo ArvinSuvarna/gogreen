@@ -1,0 +1,6 @@
+fipbeho:
+  name: Fipbeho
+  version: 4.4
+  enabled: false
+  config:
+    timeout: 6391
