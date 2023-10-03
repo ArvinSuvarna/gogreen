@@ -1,0 +1,6 @@
+owu:
+  name: Owu
+  version: 3.9
+  enabled: false
+  config:
+    port: 3854
