@@ -4,3 +4,5 @@ main:
   enabled: false
   config:
     host: 5544
+
+// Additional feature
