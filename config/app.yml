@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 1.6
+  version: 5.4
   enabled: true
   config:
-    host: 1632
+    port: 1513
