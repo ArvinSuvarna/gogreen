@@ -1,10 +1,10 @@
 interface ConfigProps {
-  name: boolean;
-  onChange?: () => void;
+  title: boolean;
+  onClick?: () => void;
 }
 
 export const Config: React.FC<ConfigProps> = ({
-  title
+  name
 }) => {
   return (
     <div>
