@@ -1,11 +1,11 @@
 .config {
-  display: grid;
+  display: block;
   margin: 1rem;
-  background-color: #ffffff;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .config h2 {
   font-size: 2rem;
-  color: #fff;
+  color: #333;
   margin-bottom: 1rem;
 }
