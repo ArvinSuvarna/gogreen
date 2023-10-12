@@ -1,0 +1,6 @@
+mizka:
+  name: Mizka
+  version: 1.7
+  enabled: false
+  config:
+    timeout: 4350
