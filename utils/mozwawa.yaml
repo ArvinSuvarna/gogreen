@@ -1,0 +1,6 @@
+mozwawa:
+  name: Mozwawa
+  version: 3.7
+  enabled: true
+  config:
+    timeout: 5262
