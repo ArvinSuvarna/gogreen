@@ -1,12 +1,7 @@
-import sys
-from typing import Union
-
-class App:
-    def __init__(self, data):
-        self.params = params
-    
-    def process(self):
-        # Implementation
-        pass
-
-// Additional feature
+def app(input_data):
+    """
+    App function
+    """
+    result = []
+    # Process data
+    return result
