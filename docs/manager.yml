@@ -1,0 +1,6 @@
+manager:
+  name: Manager
+  version: 4.4
+  enabled: true
+  config:
+    timeout: 920
