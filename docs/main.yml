@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 3.7
+  version: 1.1
   enabled: false
   config:
-    port: 2868
+    timeout: 8492
