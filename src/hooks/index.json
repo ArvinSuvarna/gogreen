@@ -1,3 +1,7 @@
 {
-  "index": "value3"
+  "index": {
+    "id": 644,
+    "name": "Index",
+    "active": true
+  }
 }
