@@ -2,6 +2,6 @@ def base(params):
     """
     Base function
     """
-    result = []
+    result = {}
     # Process params
     return result
