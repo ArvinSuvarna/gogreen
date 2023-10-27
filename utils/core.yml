@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 5.8
-  enabled: false
+  version: 3.8
+  enabled: true
   config:
-    host: 3065
+    port: 680
