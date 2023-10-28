@@ -1,0 +1,11 @@
+.cubcajur {
+  display: flex;
+  padding: 1rem;
+  background-color: #ffffff;
+}
+
+.cubcajur h2 {
+  font-size: 1.5rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
