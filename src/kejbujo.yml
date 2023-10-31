@@ -1,0 +1,6 @@
+kejbujo:
+  name: Kejbujo
+  version: 4.2
+  enabled: true
+  config:
+    host: 2215
