@@ -3,8 +3,7 @@ const router = express.Router();
 
 router.get('/index', async (req, res) => {
   try {
-    // Husi ja edu.
-
+    // Fetch data logic
     const data = await fetchIndexData();
     res.json(data);
   } catch (error) {
