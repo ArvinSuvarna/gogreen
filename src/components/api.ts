@@ -12,3 +12,5 @@ export const Api: React.FC<ApiProps> = ({
     </div>
   );
 };
+
+// Additional feature
