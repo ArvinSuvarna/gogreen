@@ -1,10 +1,10 @@
 interface BaseProps {
-  id: boolean;
-  onSubmit?: () => void;
+  title: number;
+  onChange?: () => void;
 }
 
 export const Base: React.FC<BaseProps> = ({
-  title
+  data
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Base: React.FC<BaseProps> = ({
     </div>
   );
 };
-
-// Additional feature
