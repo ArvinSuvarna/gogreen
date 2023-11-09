@@ -1,10 +1,10 @@
 interface UtilsProps {
-  id: number;
-  onSubmit?: () => void;
+  name: boolean;
+  onChange?: () => void;
 }
 
 export const Utils: React.FC<UtilsProps> = ({
-  id
+  title
 }) => {
   return (
     <div>
