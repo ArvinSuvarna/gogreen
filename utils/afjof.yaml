@@ -1,0 +1,6 @@
+afjof:
+  name: Afjof
+  version: 3.5
+  enabled: false
+  config:
+    timeout: 6330
