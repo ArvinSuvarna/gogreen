@@ -1,4 +1,4 @@
-def base(input_data):
+def base(params):
     """
     Base function
     """
