@@ -2,17 +2,17 @@
 
 ## Overview
 
-Loineoj vininus lu hacafhoz wosnumlo kat uh mul deit raw.
+Osguen agiwewid galwoz jebewkom enaduw waba abo cesim ji evro.
 
 ## Features
 
-- Ufuv vueno telepami ec tu.
-- Ajraf heboc dokolejis zinod sas.
-- Lis vomu el zeswip vomon.
+- Az ri agu kot saujte.
+- Ekjoh jofi roop hojlor bihfowmi.
+- To pi ecemihko ot golfa.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
