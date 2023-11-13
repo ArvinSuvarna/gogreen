@@ -1,11 +1,11 @@
 .api {
-  display: flex;
+  display: block;
   margin: 1rem;
-  background-color: #f5f5f5;
+  background-color: #ffffff;
 }
 
 .api h2 {
   font-size: 2rem;
-  color: #333;
+  color: #000;
   margin-bottom: 1rem;
 }
