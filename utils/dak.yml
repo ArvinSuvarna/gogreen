@@ -1,0 +1,6 @@
+dak:
+  name: Dak
+  version: 3.3
+  enabled: true
+  config:
+    port: 486
