@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 4.5
+  version: 2.1
   enabled: false
   config:
-    timeout: 6134
+    host: 563
