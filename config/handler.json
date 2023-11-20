@@ -1,6 +1,7 @@
 {
-  "name": "handler",
-  "version": "2.2.7",
-  "enabled": false
+  "handler": {
+    "id": 374,
+    "name": "Handler",
+    "active": true
+  }
 }
-// Updated: 2025-11-07T08:33:01.591Z
