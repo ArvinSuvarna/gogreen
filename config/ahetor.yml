@@ -1,0 +1,6 @@
+ahetor:
+  name: Ahetor
+  version: 2.0
+  enabled: true
+  config:
+    host: 2634
