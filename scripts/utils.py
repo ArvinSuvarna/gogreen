@@ -1,8 +1,7 @@
-def utils(input_data):
+def utils(data):
     """
     Utils function
     """
-    result = []
-    # Process params
+    result = {}
+    # Process input_data
     return result
-// Updated: 2025-11-07T08:45:53.155Z
