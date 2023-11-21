@@ -1,0 +1,6 @@
+handler:
+  name: Handler
+  version: 3.6
+  enabled: true
+  config:
+    timeout: 9504
