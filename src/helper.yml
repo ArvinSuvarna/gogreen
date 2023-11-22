@@ -1,6 +1,6 @@
 helper:
   name: Helper
-  version: 1.7
+  version: 5.9
   enabled: true
   config:
-    port: 9472
+    host: 4396
