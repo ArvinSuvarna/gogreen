@@ -1,0 +1,6 @@
+pema:
+  name: Pema
+  version: 4.6
+  enabled: false
+  config:
+    port: 6134
