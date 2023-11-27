@@ -1,10 +1,10 @@
 interface ComponentProps {
-  data: boolean;
-  onChange?: () => void;
+  name: number;
+  onClick?: () => void;
 }
 
 export const Component: React.FC<ComponentProps> = ({
-  data
+  id
 }) => {
   return (
     <div>
