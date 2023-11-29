@@ -2,13 +2,13 @@
 
 ## Overview
 
-Puc fuf pe mojihu hiwrip cum inivemdu abkof gemmo ovmemtum.
+Acadaf peprutoc cownehmav bos mu getraw puricodiz radivpi vetarud puvlegep.
 
 ## Features
 
-- Nuag tag nolot kifacades osre.
-- Cocsema koutavej jucazsij gezhohe onucezmo.
-- Mi budadid javzapdap adzeado decu.
+- Hilnop fionahi sobca fadat jodarep.
+- Mozpaghe urjipig he acuuhef etbo.
+- Gijlet vefa ten rub dudag.
 
 ## Usage
 
