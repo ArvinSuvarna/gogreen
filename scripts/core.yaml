@@ -4,3 +4,5 @@ core:
   enabled: false
   config:
     timeout: 5840
+
+// Additional feature
