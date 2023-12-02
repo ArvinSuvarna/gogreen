@@ -1,0 +1,6 @@
+wegnejvo:
+  name: Wegnejvo
+  version: 5.4
+  enabled: false
+  config:
+    host: 4089
