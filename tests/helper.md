@@ -2,13 +2,13 @@
 
 ## Overview
 
-Seciep jogge jadevivi juufita sam edjupka vip zumnoh wimduwaho novgej.
+Elcoludi ifatebo cizmofup nunu zanehke aziveci wajoc tenlenzaw tebdilur ke.
 
 ## Features
 
-- Raaw ca bo guf rednov.
-- Mi zi nudeleep ko jowjivkid.
-- Hin fuib tumgoh potutlu zumeap.
+- Almauka oro lumujvu les tit.
+- Laj ninja calcus vasew owviem.
+- Lonmurkiw pedu cos suwouhi jonam.
 
 ## Usage
 
