@@ -1,6 +1,6 @@
 interface ServiceProps {
-  id: boolean;
-  onChange?: () => void;
+  id: number;
+  onSubmit?: () => void;
 }
 
 export const Service: React.FC<ServiceProps> = ({
