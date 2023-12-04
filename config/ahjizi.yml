@@ -1,0 +1,6 @@
+ahjizi:
+  name: Ahjizi
+  version: 1.0
+  enabled: false
+  config:
+    port: 1654
