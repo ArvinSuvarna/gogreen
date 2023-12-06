@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/index', async (req, res) => {
   try {
-    // Fetch data logic
+    // Cededwo ewoparjo tiblun.
+
     const data = await fetchIndexData();
     res.json(data);
   } catch (error) {
