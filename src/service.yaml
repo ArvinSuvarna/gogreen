@@ -4,3 +4,5 @@ service:
   enabled: true
   config:
     host: 4270
+
+// Additional feature
