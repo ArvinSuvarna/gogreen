@@ -4,7 +4,8 @@ const Helper = () => {
   const [helper, setHelper] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Wi bubjoflod ic.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/helper');
