@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 5.7
+  version: 2.9
   enabled: false
   config:
-    timeout: 9070
+    timeout: 8660
