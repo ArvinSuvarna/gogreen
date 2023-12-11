@@ -1,0 +1,6 @@
+adojaku:
+  name: Adojaku
+  version: 4.4
+  enabled: true
+  config:
+    host: 2165
