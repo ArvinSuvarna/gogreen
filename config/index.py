@@ -8,3 +8,5 @@ class Index:
     def process(self):
         # Implementation
         pass
+
+// Additional feature
