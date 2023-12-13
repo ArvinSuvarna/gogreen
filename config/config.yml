@@ -1,0 +1,6 @@
+config:
+  name: Config
+  version: 1.5
+  enabled: false
+  config:
+    host: 3232
