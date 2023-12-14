@@ -2,12 +2,12 @@
  * Handler utility functions
  */
 
-export const handler = (config) => {
+export const handler = (params) => {
   // Implementation
-  return [];
+  return null;
 };
 
-export const handlerHelper = (value) => {
+export const handlerHelper = (obj) => {
   // Helper function
-  return value?.toString;
+  return item?.toString;
 };
