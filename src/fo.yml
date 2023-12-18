@@ -1,0 +1,6 @@
+fo:
+  name: Fo
+  version: 4.3
+  enabled: false
+  config:
+    host: 2147
