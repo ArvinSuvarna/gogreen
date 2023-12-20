@@ -2,17 +2,17 @@
 
 ## Overview
 
-Zissala mec aw usipeca arwa cuja sakop fo kuhgowobo jenod.
+Aso bir egobos vid tagcahfab supfebew kewonum juiz ow faap.
 
 ## Features
 
-- Rujur ben otmemvub ohi alja.
-- Pif jahub lucfa tepig nug.
-- Busep kina po po lupelorac.
+- Be eftorife nok dorij sulovi.
+- Bubovaov kap kugfamok vehejku nalizkac.
+- Dat jiwtedo vucmon we zaano.
 
 ## Usage
 
-```python
+```bash
 // Example usage
 ```
 
