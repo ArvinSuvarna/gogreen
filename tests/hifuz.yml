@@ -1,0 +1,6 @@
+hifuz:
+  name: Hifuz
+  version: 2.1
+  enabled: false
+  config:
+    port: 3280
