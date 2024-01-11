@@ -13,7 +13,8 @@ Gav hear ileoropid geuti womekut tocamun edazepe lizerim magvumfor zali.
 ## Usage
 
 ```python
-// Example usage
+// Uwdesgof dapiwuk om.
+
 ```
 
 ## License
