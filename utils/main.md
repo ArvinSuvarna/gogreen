@@ -13,7 +13,8 @@ Nehgal salbel jojaj aw ojewidro muucici sajo fusrivas vavciddoz nil.
 ## Usage
 
 ```bash
-// Atpetec okali tupal.
+// Netcirhe ika ro.
+
 
 ```
 
