@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/base', async (req, res) => {
   try {
-    // Fuhapiv weve upiridlas.
+    // Huba attekni vufipisi.
+
 
     const data = await fetchBaseData();
     res.json(data);
