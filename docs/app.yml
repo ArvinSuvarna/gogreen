@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 1.9
-  enabled: true
+  version: 2.1
+  enabled: false
   config:
-    port: 252
+    host: 2780
