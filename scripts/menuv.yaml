@@ -1,0 +1,6 @@
+menuv:
+  name: Menuv
+  version: 2.5
+  enabled: false
+  config:
+    timeout: 2941
