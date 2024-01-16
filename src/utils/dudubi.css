@@ -1,0 +1,11 @@
+.dudubi {
+  display: block;
+  margin: 1rem;
+  background-color: #ffffff;
+}
+
+.dudubi h2 {
+  font-size: 2rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
