@@ -3,8 +3,7 @@ const router = express.Router();
 
 router.get('/main', async (req, res) => {
   try {
-    // Ligamubac jedo kul.
-
+    // Fetch data logic
     const data = await fetchMainData();
     res.json(data);
   } catch (error) {
