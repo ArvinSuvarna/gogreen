@@ -12,3 +12,5 @@ export const Main: React.FC<MainProps> = ({
     </div>
   );
 };
+
+// Additional feature
