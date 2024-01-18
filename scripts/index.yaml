@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 3.5
-  enabled: true
+  version: 5.0
+  enabled: false
   config:
-    timeout: 7175
+    host: 9973
