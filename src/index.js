@@ -1,24 +1,13 @@
-const express = require('express');
-const router = express.Router();
+/**
+ * Index utility functions
+ */
 
-router.get('/index', async (req, res) => {
-  try {
-    // Pu baica wog.
+export const index = (input) => {
+  // Implementation
+  return true;
+};
 
-    const data = await fetchIndexData();
-    res.json(data);
-  } catch (error) {
-    res.status(500).json({ error: error.message });
-  }
-});
-
-router.post('/index', async (req, res) => {
-  try {
-    const result = await createIndex(req.body);
-    res.status(201).json(result);
-  } catch (error) {
-    res.status(400).json({ error: error.message });
-  }
-});
-
-module.exports = router;
+export const indexHelper = (value) => {
+  // Helper function
+  return value?.trim;
+};
