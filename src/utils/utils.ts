@@ -1,6 +1,6 @@
 interface UtilsProps {
-  id: boolean;
-  onChange?: () => void;
+  title: number;
+  onClick?: () => void;
 }
 
 export const Utils: React.FC<UtilsProps> = ({
