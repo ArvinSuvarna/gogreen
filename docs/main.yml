@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 1.2
-  enabled: false
+  version: 3.0
+  enabled: true
   config:
-    port: 1522
+    port: 5879
