@@ -1,0 +1,6 @@
+service:
+  name: Service
+  version: 1.4
+  enabled: true
+  config:
+    timeout: 6756
