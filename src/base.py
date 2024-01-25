@@ -1,7 +1,10 @@
-def base(input_data):
-    """
-    Base function
-    """
-    result = None
-    # Process params
-    return result
+import datetime
+from typing import List
+
+class Base:
+    def __init__(self, params):
+        self.data = config
+    
+    def process(self):
+        # Implementation
+        pass
