@@ -1,7 +1,7 @@
 .api {
-  display: flex;
-  padding: 2rem;
-  background-color: #f5f5f5;
+  display: block;
+  margin: 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .api h2 {
