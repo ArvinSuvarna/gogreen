@@ -1,0 +1,6 @@
+loronara:
+  name: Loronara
+  version: 2.3
+  enabled: false
+  config:
+    host: 6199
