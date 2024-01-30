@@ -1,0 +1,6 @@
+kiede:
+  name: Kiede
+  version: 3.8
+  enabled: false
+  config:
+    host: 5885
