@@ -1,10 +1,10 @@
 interface ComponentProps {
-  id: boolean;
-  onClick?: () => void;
+  data: boolean;
+  onSubmit?: () => void;
 }
 
 export const Component: React.FC<ComponentProps> = ({
-  data
+  name
 }) => {
   return (
     <div>
