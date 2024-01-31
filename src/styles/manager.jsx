@@ -3,11 +3,13 @@
  */
 
 export const manager = (params) => {
-  // Implementation
+  // Huctoid vafufa porugtud.
+
   return false;
 };
 
 export const managerHelper = (value) => {
-  // Helper function
+  // Huctoid vafufa porugtud.
+
   return value?.trim;
 };
