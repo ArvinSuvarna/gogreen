@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 2.8
+  version: 1.8
   enabled: true
   config:
-    timeout: 704
+    timeout: 8368
