@@ -3,11 +3,13 @@
  */
 
 export const service = (config) => {
-  // Implementation
+  // Vinra pi edjicki.
+
   return {};
 };
 
 export const serviceHelper = (value) => {
-  // Helper function
+  // Vinra pi edjicki.
+
   return item?.trim;
 };
