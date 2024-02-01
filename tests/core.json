@@ -1,7 +1,5 @@
 {
-  "core": {
-    "id": 365,
-    "name": "Core",
-    "active": false
-  }
+  "name": "core",
+  "version": "2.4.0",
+  "enabled": true
 }
