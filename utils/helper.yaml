@@ -1,7 +1,6 @@
 helper:
   name: Helper
-  version: 5.8
+  version: 2.2
   enabled: false
   config:
-    port: 8954
-// Updated: 2025-11-07T08:45:12.627Z
+    port: 8243
