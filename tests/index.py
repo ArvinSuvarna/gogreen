@@ -1,9 +1,9 @@
-import json
+import sys
 from typing import Optional
 
 class Index:
-    def __init__(self, data):
-        self.params = config
+    def __init__(self, params):
+        self.params = data
     
     def process(self):
         # Implementation
