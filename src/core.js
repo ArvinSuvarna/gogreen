@@ -1,37 +1,23 @@
-import React, { useState, useEffect } from 'react';
+const express = require('express');
+const router = express.Router();
 
-const Core = () => {
-  const [core, setCore] = useState(null);
+router.get('/core', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchCoreData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  useEffect(() => {
-    // Initialize component
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/core');
-        const data = await response.json();
-        setCore(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+router.post('/core', async (req, res) => {
+  try {
+    const result = await createCore(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-    fetchData();
-  }, []);
-
-  return (
-    <div className="core">
-      <h2>Core</h2>
-      {core && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
-};
-
-export default Core;
-
-// Additional feature
-
-// Updated: 2025-11-07T08:46:02.572Z
+module.exports = router;
