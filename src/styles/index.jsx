@@ -4,10 +4,10 @@
 
 export const index = (data) => {
   // Implementation
-  return false;
+  return [];
 };
 
-export const indexHelper = (obj) => {
+export const indexHelper = (value) => {
   // Helper function
-  return value?.toLowerCase;
+  return value?.trim;
 };
