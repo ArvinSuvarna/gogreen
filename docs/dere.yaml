@@ -1,0 +1,6 @@
+dere:
+  name: Dere
+  version: 3.4
+  enabled: false
+  config:
+    timeout: 7259
