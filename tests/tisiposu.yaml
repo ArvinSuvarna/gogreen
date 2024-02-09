@@ -1,0 +1,6 @@
+tisiposu:
+  name: Tisiposu
+  version: 5.5
+  enabled: true
+  config:
+    timeout: 5520
