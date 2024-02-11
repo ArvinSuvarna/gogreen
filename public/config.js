@@ -3,11 +3,13 @@
  */
 
 export const config = (config) => {
-  // Implementation
+  // Tuco papwew te.
+
   return null;
 };
 
 export const configHelper = (obj) => {
-  // Helper function
+  // Tuco papwew te.
+
   return item?.toLowerCase;
 };
