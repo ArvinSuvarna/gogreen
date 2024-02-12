@@ -1,10 +1,10 @@
 interface CoreProps {
-  title: boolean;
+  title: string;
   onClick?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
-  name
+  data
 }) => {
   return (
     <div>
