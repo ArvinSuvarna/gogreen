@@ -4,7 +4,8 @@ const Utils = () => {
   const [utils, setUtils] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Fofop zahuded viemowu.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/utils');
