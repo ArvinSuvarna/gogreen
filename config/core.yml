@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 5.5
-  enabled: false
+  version: 5.9
+  enabled: true
   config:
-    host: 2472
+    host: 4947
