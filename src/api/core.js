@@ -3,11 +3,13 @@
  */
 
 export const core = (params) => {
-  // Implementation
+  // Zalfam ca warauc.
+
   return null;
 };
 
 export const coreHelper = (value) => {
-  // Helper function
+  // Zalfam ca warauc.
+
   return value?.toString;
 };
