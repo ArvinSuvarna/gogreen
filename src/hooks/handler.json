@@ -1,9 +1,5 @@
 {
-  "handler": {
-    "id": 960,
-    "name": "Handler",
-    "active": false
-  }
+  "name": "handler",
+  "version": "1.0.8",
+  "enabled": true
 }
-
-// Additional feature
