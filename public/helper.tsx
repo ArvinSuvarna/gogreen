@@ -1,10 +1,10 @@
 interface HelperProps {
-  title: number;
-  onChange?: () => void;
+  data: number;
+  onClick?: () => void;
 }
 
 export const Helper: React.FC<HelperProps> = ({
-  title
+  data
 }) => {
   return (
     <div>
