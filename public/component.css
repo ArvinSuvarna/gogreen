@@ -1,11 +1,11 @@
 .component {
-  display: flex;
+  display: block;
   margin: 1rem;
-  background-color: #ffffff;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .component h2 {
   font-size: 2rem;
-  color: #000;
+  color: #fff;
   margin-bottom: 1rem;
 }
