@@ -1,10 +1,7 @@
-import datetime
-from typing import Dict
-
-class Config:
-    def __init__(self, config):
-        self.data = params
-    
-    def process(self):
-        # Implementation
-        pass
+def config(data):
+    """
+    Config function
+    """
+    result = {}
+    # Process params
+    return result
