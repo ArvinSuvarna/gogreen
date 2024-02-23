@@ -1,0 +1,6 @@
+main:
+  name: Main
+  version: 4.2
+  enabled: false
+  config:
+    port: 8944
