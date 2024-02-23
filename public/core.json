@@ -1,5 +1,3 @@
 {
-  "name": "core",
-  "version": "3.5.3",
-  "enabled": true
+  "core": "value3"
 }
