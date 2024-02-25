@@ -4,3 +4,5 @@ base:
   enabled: true
   config:
     host: 5303
+
+// Additional feature
