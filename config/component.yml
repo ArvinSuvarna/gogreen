@@ -1,0 +1,6 @@
+component:
+  name: Component
+  version: 1.5
+  enabled: true
+  config:
+    timeout: 9730
