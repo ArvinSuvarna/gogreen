@@ -1,0 +1,6 @@
+us:
+  name: Us
+  version: 1.7
+  enabled: false
+  config:
+    port: 7362
