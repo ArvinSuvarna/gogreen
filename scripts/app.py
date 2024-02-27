@@ -1,10 +1,7 @@
-import sys
-from typing import Dict
-
-class App:
-    def __init__(self, params):
-        self.config = data
-    
-    def process(self):
-        # Implementation
-        pass
+def app(params):
+    """
+    App function
+    """
+    result = None
+    # Process input_data
+    return result
