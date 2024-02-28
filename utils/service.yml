@@ -1,0 +1,6 @@
+service:
+  name: Service
+  version: 4.2
+  enabled: false
+  config:
+    timeout: 878
