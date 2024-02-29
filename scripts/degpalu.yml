@@ -1,0 +1,6 @@
+degpalu:
+  name: Degpalu
+  version: 2.7
+  enabled: true
+  config:
+    host: 2860
