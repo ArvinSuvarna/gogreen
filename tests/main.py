@@ -1,9 +1,9 @@
 import datetime
-from typing import Union
+from typing import Dict
 
 class Main:
     def __init__(self, params):
-        self.params = data
+        self.config = params
     
     def process(self):
         # Implementation
