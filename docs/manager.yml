@@ -4,3 +4,5 @@ manager:
   enabled: true
   config:
     timeout: 920
+
+// Additional feature
