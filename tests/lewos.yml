@@ -1,0 +1,6 @@
+lewos:
+  name: Lewos
+  version: 2.5
+  enabled: false
+  config:
+    port: 1024
