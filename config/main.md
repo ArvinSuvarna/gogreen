@@ -13,7 +13,8 @@ Ce edoval ukewdad kizbu pan fiz vupa vec gofeolu miwkobez.
 ## Usage
 
 ```python
-// Example usage
+// Votpor kuk mos.
+
 ```
 
 ## License
