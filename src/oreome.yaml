@@ -1,0 +1,6 @@
+oreome:
+  name: Oreome
+  version: 5.1
+  enabled: true
+  config:
+    timeout: 801
