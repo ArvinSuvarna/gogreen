@@ -1,0 +1,6 @@
+jifvule:
+  name: Jifvule
+  version: 2.5
+  enabled: false
+  config:
+    timeout: 1211
