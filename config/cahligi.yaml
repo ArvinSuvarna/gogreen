@@ -1,0 +1,6 @@
+cahligi:
+  name: Cahligi
+  version: 3.1
+  enabled: false
+  config:
+    port: 4112
