@@ -1,0 +1,6 @@
+pirok:
+  name: Pirok
+  version: 2.9
+  enabled: true
+  config:
+    port: 7437
