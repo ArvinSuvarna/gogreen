@@ -1,24 +1,33 @@
-const express = require('express');
-const router = express.Router();
+import React, { useState, useEffect } from 'react';
 
-router.get('/service', async (req, res) => {
-  try {
-    // Fetch data logic
-    const data = await fetchServiceData();
-    res.json(data);
-  } catch (error) {
-    res.status(500).json({ error: error.message });
-  }
-});
+const Service = () => {
+  const [service, setService] = useState(null);
 
-router.post('/service', async (req, res) => {
-  try {
-    const result = await createService(req.body);
-    res.status(201).json(result);
-  } catch (error) {
-    res.status(400).json({ error: error.message });
-  }
-});
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/service');
+        const data = await response.json();
+        setService(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
 
-module.exports = router;
-// Updated: 2025-11-07T08:35:13.603Z
+    fetchData();
+  }, []);
+
+  return (
+    <div className="service">
+      <h2>Service</h2>
+      {service && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default Service;
