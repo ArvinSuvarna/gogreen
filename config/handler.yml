@@ -1,0 +1,6 @@
+handler:
+  name: Handler
+  version: 1.4
+  enabled: false
+  config:
+    host: 8377
