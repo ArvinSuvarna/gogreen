@@ -1,0 +1,6 @@
+ga:
+  name: Ga
+  version: 4.2
+  enabled: false
+  config:
+    host: 5155
