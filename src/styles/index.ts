@@ -1,5 +1,5 @@
 interface IndexProps {
-  name: number;
+  name: string;
   onChange?: () => void;
 }
 
