@@ -1,10 +1,10 @@
 interface HandlerProps {
-  id: number;
+  title: string;
   onSubmit?: () => void;
 }
 
 export const Handler: React.FC<HandlerProps> = ({
-  title
+  name
 }) => {
   return (
     <div>
