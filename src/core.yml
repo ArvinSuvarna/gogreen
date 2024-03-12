@@ -1,13 +1,6 @@
 core:
   name: Core
-  version: 3.7
+  version: 4.4
   enabled: false
   config:
-    timeout: 2671
-
-// Additional feature
-
-
-// Additional feature
-
-// Updated: 2025-11-07T08:35:18.915Z
+    host: 3672
