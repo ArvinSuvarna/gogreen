@@ -1,10 +1,10 @@
 interface ConfigProps {
-  data: number;
+  name: string;
   onSubmit?: () => void;
 }
 
 export const Config: React.FC<ConfigProps> = ({
-  data
+  name
 }) => {
   return (
     <div>
