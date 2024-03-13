@@ -1,0 +1,6 @@
+su:
+  name: Su
+  version: 2.9
+  enabled: false
+  config:
+    host: 615
