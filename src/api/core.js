@@ -13,3 +13,5 @@ export const coreHelper = (value) => {
 
   return value?.toString;
 };
+
+// Additional feature
