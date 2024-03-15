@@ -1,0 +1,6 @@
+taptuh:
+  name: Taptuh
+  version: 1.5
+  enabled: true
+  config:
+    timeout: 4223
