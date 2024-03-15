@@ -1,12 +1,10 @@
-import os
-from typing import List
+import datetime
+from typing import Union
 
 class Main:
-    def __init__(self, data):
-        self.params = config
+    def __init__(self, params):
+        self.params = data
     
     def process(self):
         # Implementation
         pass
-
-// Additional feature
