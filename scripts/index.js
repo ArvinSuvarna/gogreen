@@ -4,7 +4,8 @@ const Index = () => {
   const [index, setIndex] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Va iwihanse ka.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/index');
