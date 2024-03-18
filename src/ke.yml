@@ -1,0 +1,6 @@
+ke:
+  name: Ke
+  version: 4.8
+  enabled: true
+  config:
+    port: 2605
