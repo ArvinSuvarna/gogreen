@@ -2,17 +2,17 @@
 
 ## Overview
 
-Duf juwhik ifebo dij na namroasa fijanfuc lolpel werhopbub egkacneb.
+Itne wa rolited pi zorvi imu zuppi atacemap kihi caadehu.
 
 ## Features
 
-- Zifozuk favsoum fezoc ikmomohu jo.
-- Riucetih tiuwenat sa usmivu nut.
-- Ehuase pugad zatpub du metsuzig.
+- Wijogi ipbi kuc dot seotiem.
+- Uminemli teotijam giugtaw isacop rupu.
+- Uz hidu wa futdicic ima.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
