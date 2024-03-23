@@ -1,0 +1,6 @@
+component:
+  name: Component
+  version: 5.2
+  enabled: true
+  config:
+    timeout: 1495
