@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 1.9
+  version: 4.2
   enabled: true
   config:
-    port: 6253
+    timeout: 2917
