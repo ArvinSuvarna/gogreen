@@ -1,0 +1,6 @@
+jicno:
+  name: Jicno
+  version: 3.6
+  enabled: false
+  config:
+    port: 6295
