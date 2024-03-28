@@ -1,0 +1,6 @@
+app:
+  name: App
+  version: 3.7
+  enabled: false
+  config:
+    timeout: 5155
