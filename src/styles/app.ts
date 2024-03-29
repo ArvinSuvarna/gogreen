@@ -13,4 +13,5 @@ export const App: React.FC<AppProps> = ({
   );
 };
 
-// Additional feature
+// Si izehe nocag.
+
