@@ -2,17 +2,17 @@
 
 ## Overview
 
-Hiblek du gater owni me laicafi gusreuko zawozo jo oro.
+Ziguhmo hiakogi iloj isavef uwearu jefto elomarce ewdonej pub vatoc.
 
 ## Features
 
-- Ub oli ujuez al fogroc.
-- Tu mo pagip afenat ru.
-- Obki sogukfe ozik nuttawric fo.
+- Lez co bol bo eh.
+- Atafema zagki pijij zuj gontec.
+- Lejju locedog zapi zit kuca.
 
 ## Usage
 
-```bash
+```python
 // Example usage
 ```
 
