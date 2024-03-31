@@ -1,6 +1,6 @@
 interface IndexProps {
-  title: number;
-  onSubmit?: () => void;
+  title: string;
+  onChange?: () => void;
 }
 
 export const Index: React.FC<IndexProps> = ({
