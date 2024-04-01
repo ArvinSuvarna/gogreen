@@ -1,0 +1,6 @@
+rudom:
+  name: Rudom
+  version: 4.0
+  enabled: true
+  config:
+    port: 2132
