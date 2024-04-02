@@ -1,0 +1,6 @@
+zu:
+  name: Zu
+  version: 2.6
+  enabled: true
+  config:
+    host: 6959
