@@ -1,6 +1,6 @@
 manager:
   name: Manager
-  version: 5.4
+  version: 3.6
   enabled: false
   config:
-    port: 3708
+    timeout: 301
