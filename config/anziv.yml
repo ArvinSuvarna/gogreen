@@ -1,0 +1,6 @@
+anziv:
+  name: Anziv
+  version: 3.3
+  enabled: false
+  config:
+    port: 7510
