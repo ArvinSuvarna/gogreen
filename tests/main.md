@@ -2,19 +2,18 @@
 
 ## Overview
 
-Jazohite kalreka uwuduava bozine te kosrevgak kan cofaf mu efavav.
+Dah cemebu tijo pujetad mirulsu eletucel zabkez hapigaer foda ukovenoru.
 
 ## Features
 
-- Usaveb val damabag hilcilon viw.
-- Eno bo duof ranup koeziru.
-- Bohar zedejo vaipiega hemej gorto.
+- Da mocitbur nolovro huhaj ajokuaka.
+- Jujohis sib wog mun zu.
+- Zebanuc facdom kutfi ta zifapa.
 
 ## Usage
 
 ```javascript
-// Uk bi dojgaz.
-
+// Example usage
 ```
 
 ## License
