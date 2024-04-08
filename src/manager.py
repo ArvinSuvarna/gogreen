@@ -6,4 +6,5 @@ def manager(input_data):
     # Process data
     return result
 
-// Additional feature
+// Hez rakopa jektuwer.
+
