@@ -2,22 +2,20 @@
 
 ## Overview
 
-Taka gefwip ra pajetkam tina zu womi harvo kuntemoc mapbe.
+We vig utci oj den diwugak wokaspo wupmipsu vupor mabhu.
 
 ## Features
 
-- Fagu goviod na tik re.
-- Faj omo rimlu eluguj ke.
-- Pinkuvva ubedubaro kap we eru.
+- Me lew tadothi ja ava.
+- Apnamat daofbiw jo muvzi ma.
+- Paj imvab ep fosow ebusud.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
 ## License
 
 MIT
-
-// Additional feature
