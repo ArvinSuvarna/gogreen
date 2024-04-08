@@ -1,7 +1,7 @@
-def index(data):
+def index(input_data):
     """
     Index function
     """
     result = None
-    # Process input_data
+    # Process data
     return result
