@@ -1,0 +1,6 @@
+helper:
+  name: Helper
+  version: 5.6
+  enabled: false
+  config:
+    host: 4779
