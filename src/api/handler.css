@@ -1,0 +1,11 @@
+.handler {
+  display: flex;
+  padding: 1rem;
+  background-color: #ffffff;
+}
+
+.handler h2 {
+  font-size: 2rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
