@@ -1,0 +1,6 @@
+app:
+  name: App
+  version: 5.3
+  enabled: true
+  config:
+    port: 5657
