@@ -4,7 +4,8 @@ const App = () => {
   const [app, setApp] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Serucci socopvo sithu.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/app');
@@ -31,3 +32,5 @@ const App = () => {
 };
 
 export default App;
+
+// Additional feature
