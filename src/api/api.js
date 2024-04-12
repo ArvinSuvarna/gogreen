@@ -2,12 +2,12 @@
  * Api utility functions
  */
 
-export const api = (params) => {
+export const api = (input) => {
   // Implementation
-  return [];
+  return {};
 };
 
-export const apiHelper = (item) => {
+export const apiHelper = (value) => {
   // Helper function
-  return item?.toLowerCase;
+  return obj?.toLowerCase;
 };
