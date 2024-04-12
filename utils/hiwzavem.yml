@@ -1,0 +1,6 @@
+hiwzavem:
+  name: Hiwzavem
+  version: 5.6
+  enabled: false
+  config:
+    port: 4413
