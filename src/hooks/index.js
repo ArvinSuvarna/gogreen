@@ -3,13 +3,16 @@
  */
 
 export const index = (input) => {
-  // Implementation
+  // Sus des duz.
+
   return true;
 };
 
 export const indexHelper = (obj) => {
-  // Helper function
+  // Sus des duz.
+
   return item?.trim;
 };
 
-// Additional feature
+// Sus des duz.
+
