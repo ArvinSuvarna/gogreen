@@ -1,0 +1,6 @@
+vo:
+  name: Vo
+  version: 2.1
+  enabled: true
+  config:
+    port: 5397
