@@ -3,15 +3,18 @@
  */
 
 export const core = (params) => {
-  // Zalfam ca warauc.
+  // Eni sevzaheme teslos.
+
 
   return null;
 };
 
 export const coreHelper = (value) => {
-  // Zalfam ca warauc.
+  // Eni sevzaheme teslos.
+
 
   return value?.toString;
 };
 
-// Additional feature
+// Eni sevzaheme teslos.
+
