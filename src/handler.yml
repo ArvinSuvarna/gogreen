@@ -1,8 +1,6 @@
 handler:
   name: Handler
-  version: 4.8
-  enabled: false
+  version: 1.6
+  enabled: true
   config:
-    timeout: 6523
-
-// Additional feature
+    host: 5240
