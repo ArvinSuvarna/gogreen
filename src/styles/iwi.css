@@ -1,0 +1,11 @@
+.iwi {
+  display: grid;
+  padding: 2rem;
+  background-color: #f5f5f5;
+}
+
+.iwi h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
