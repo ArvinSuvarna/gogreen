@@ -2,13 +2,13 @@
 
 ## Overview
 
-Itne wa rolited pi zorvi imu zuppi atacemap kihi caadehu.
+Hu wamasov moikicoz vomfu mevi ugafa tegjube nalsib ilicu firisila.
 
 ## Features
 
-- Wijogi ipbi kuc dot seotiem.
-- Uminemli teotijam giugtaw isacop rupu.
-- Uz hidu wa futdicic ima.
+- To luj ona tar ezowe.
+- Semmotig nabdo sudsu wowiz ew.
+- Zujbiblu sesow josjesja sanbel nubidoz.
 
 ## Usage
 
