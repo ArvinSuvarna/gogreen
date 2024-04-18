@@ -1,7 +1,3 @@
 {
-  "api": {
-    "id": 273,
-    "name": "Api",
-    "active": true
-  }
+  "api": "value2"
 }
