@@ -1,0 +1,6 @@
+gav:
+  name: Gav
+  version: 1.7
+  enabled: true
+  config:
+    timeout: 6264
