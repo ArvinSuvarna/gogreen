@@ -13,7 +13,8 @@ Sutoset hukmigre wauju sow wev deku icuco dev kikam jirfomak.
 ## Usage
 
 ```python
-// Example usage
+// Reobe fus la.
+
 ```
 
 ## License
