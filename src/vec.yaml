@@ -1,0 +1,6 @@
+vec:
+  name: Vec
+  version: 4.8
+  enabled: true
+  config:
+    host: 3992
