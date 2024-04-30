@@ -1,10 +1,10 @@
 interface ManagerProps {
-  name: boolean;
-  onClick?: () => void;
+  id: number;
+  onChange?: () => void;
 }
 
 export const Manager: React.FC<ManagerProps> = ({
-  name
+  data
 }) => {
   return (
     <div>
