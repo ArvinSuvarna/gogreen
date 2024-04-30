@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 1.4
+  version: 4.7
   enabled: false
   config:
-    port: 9234
+    port: 5779
