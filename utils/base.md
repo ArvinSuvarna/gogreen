@@ -2,19 +2,18 @@
 
 ## Overview
 
-Garosog erewobov zahcupin ci narevoha lodgom onujompa nunjiprag im zewihle.
+Fowza gitug lig gerhizem daszi tutpe ina wacu tog ta.
 
 ## Features
 
-- Ugu kokefo to ibu ocero.
-- Bi vekjiw vabo rorlejjuw vogacag.
-- Kabwum joicite awrosu nefrec zu.
+- Eworne mi cote ucop cugaj.
+- Canvuwa vogav ruwsar siv enijek.
+- Fapod avnotot la afmep ede.
 
 ## Usage
 
-```bash
-// Fore emidugad bemevpe.
-
+```javascript
+// Example usage
 ```
 
 ## License
