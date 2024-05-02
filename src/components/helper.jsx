@@ -1,17 +1,23 @@
-/**
- * Helper utility functions
- */
+const express = require('express');
+const router = express.Router();
 
-export const helper = (data) => {
-  // Cujosec fefimom tokakkut.
+router.get('/helper', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchHelperData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  return {};
-};
+router.post('/helper', async (req, res) => {
+  try {
+    const result = await createHelper(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-export const helperHelper = (item) => {
-  // Cujosec fefimom tokakkut.
-
-  return value?.trim;
-};
-
-// Additional feature
+module.exports = router;
