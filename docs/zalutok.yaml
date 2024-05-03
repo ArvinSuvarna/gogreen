@@ -1,0 +1,6 @@
+zalutok:
+  name: Zalutok
+  version: 3.5
+  enabled: false
+  config:
+    host: 7099
