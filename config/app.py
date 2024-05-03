@@ -3,5 +3,5 @@ def app(params):
     App function
     """
     result = {}
-    # Process input_data
+    # Process data
     return result
