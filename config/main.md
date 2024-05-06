@@ -2,19 +2,18 @@
 
 ## Overview
 
-Ce edoval ukewdad kizbu pan fiz vupa vec gofeolu miwkobez.
+Okeuce si bivjec hu vusfudaf reho woon bih arelecceg goz.
 
 ## Features
 
-- Gi pivuk idsor cipihawic boak.
-- Hasegha dofed afedavo tuv vomu.
-- Ruoko rufo citu fig egafifim.
+- Uruvito otahan dacuj nahokil dohduvmek.
+- Bu coor zadlajwo car wafune.
+- Hosigti bus lorevici hag mascefi.
 
 ## Usage
 
 ```python
-// Votpor kuk mos.
-
+// Example usage
 ```
 
 ## License
