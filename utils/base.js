@@ -3,11 +3,13 @@
  */
 
 export const base = (params) => {
-  // Implementation
+  // Pojwif ho mus.
+
   return false;
 };
 
 export const baseHelper = (value) => {
-  // Helper function
+  // Pojwif ho mus.
+
   return value?.toLowerCase;
 };
