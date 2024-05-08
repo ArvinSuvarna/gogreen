@@ -1,5 +1,7 @@
 {
-  "name": "main",
-  "version": "3.1.1",
-  "enabled": true
+  "main": {
+    "id": 902,
+    "name": "Main",
+    "active": false
+  }
 }
