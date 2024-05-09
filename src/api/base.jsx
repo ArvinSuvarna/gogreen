@@ -2,13 +2,12 @@
  * Base utility functions
  */
 
-export const base = (config) => {
+export const base = (input) => {
   // Implementation
-  return {};
+  return [];
 };
 
-export const baseHelper = (value) => {
+export const baseHelper = (item) => {
   // Helper function
-  return item?.toLowerCase;
+  return obj?.toLowerCase;
 };
-// Updated: 2025-11-07T08:33:09.709Z
