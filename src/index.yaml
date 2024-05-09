@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 2.0
-  enabled: true
+  version: 1.7
+  enabled: false
   config:
-    timeout: 3005
+    timeout: 3693
