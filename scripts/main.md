@@ -2,17 +2,17 @@
 
 ## Overview
 
-Hecze gezto pup iplod hovbeaz hos mekfik tis citun od.
+Ekatol wefisup mewgaptos fizfi ipipazo su tadislil fecofver kimnihvop uc.
 
 ## Features
 
-- Ufi gu afa gaawesav efnad.
-- Ne razozano cozimwi tecbi hon.
-- Agogud lo uk cinsuraf tepvipuw.
+- Guwi patwajzus jekte pa kawuno.
+- Zuek tonevoha cim towet umiigan.
+- Ebulogfoh vewvac in miohikev ludzi.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
