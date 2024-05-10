@@ -1,0 +1,6 @@
+ju:
+  name: Ju
+  version: 2.8
+  enabled: false
+  config:
+    port: 4864
