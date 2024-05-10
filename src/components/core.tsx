@@ -1,5 +1,5 @@
 interface CoreProps {
-  name: string;
+  data: boolean;
   onSubmit?: () => void;
 }
 
