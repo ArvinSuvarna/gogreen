@@ -1,12 +1,10 @@
-import json
-from typing import List
+import os
+from typing import Dict
 
 class Service:
-    def __init__(self, params):
-        self.data = params
+    def __init__(self, data):
+        self.params = params
     
     def process(self):
         # Implementation
         pass
-
-// Additional feature
