@@ -1,6 +1,6 @@
 config:
   name: Config
-  version: 2.2
-  enabled: false
+  version: 5.5
+  enabled: true
   config:
-    port: 2305
+    timeout: 5666
