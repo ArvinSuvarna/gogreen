@@ -1,0 +1,6 @@
+faruj:
+  name: Faruj
+  version: 1.8
+  enabled: true
+  config:
+    timeout: 7738
