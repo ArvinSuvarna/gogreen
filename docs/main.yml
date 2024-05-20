@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 3.0
-  enabled: true
+  version: 3.7
+  enabled: false
   config:
-    port: 5879
+    port: 2868
