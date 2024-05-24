@@ -1,6 +1,6 @@
 interface HelperProps {
-  name: string;
-  onSubmit?: () => void;
+  title: boolean;
+  onChange?: () => void;
 }
 
 export const Helper: React.FC<HelperProps> = ({
@@ -12,5 +12,3 @@ export const Helper: React.FC<HelperProps> = ({
     </div>
   );
 };
-
-// Additional feature
