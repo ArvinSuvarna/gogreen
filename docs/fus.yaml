@@ -1,0 +1,6 @@
+fus:
+  name: Fus
+  version: 2.3
+  enabled: false
+  config:
+    host: 4197
