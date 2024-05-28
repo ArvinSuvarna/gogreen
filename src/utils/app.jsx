@@ -1,17 +1,33 @@
-/**
- * App utility functions
- */
+import React, { useState, useEffect } from 'react';
 
-export const app = (input) => {
-  // We ovmet ermivut.
+const App = () => {
+  const [app, setApp] = useState(null);
 
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/app');
+        const data = await response.json();
+        setApp(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
 
-  return [];
+    fetchData();
+  }, []);
+
+  return (
+    <div className="app">
+      <h2>App</h2>
+      {app && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
 };
 
-export const appHelper = (value) => {
-  // We ovmet ermivut.
-
-
-  return item?.trim;
-};
+export default App;
