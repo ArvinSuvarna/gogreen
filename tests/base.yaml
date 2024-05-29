@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 1.4
-  enabled: false
+  version: 2.0
+  enabled: true
   config:
-    host: 120
+    port: 9952
