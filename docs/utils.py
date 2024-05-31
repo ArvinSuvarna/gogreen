@@ -1,12 +1,10 @@
-import os
-from typing import Dict
+import datetime
+from typing import List
 
 class Utils:
-    def __init__(self, params):
-        self.data = data
+    def __init__(self, config):
+        self.config = config
     
     def process(self):
         # Implementation
         pass
-
-// Additional feature
