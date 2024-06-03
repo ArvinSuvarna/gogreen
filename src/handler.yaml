@@ -4,3 +4,5 @@ handler:
   enabled: false
   config:
     timeout: 9510
+
+// Additional feature
