@@ -13,7 +13,8 @@ Ak lonluka wag bob cednewac bel tu ohki zumsigog ohi.
 ## Usage
 
 ```python
-// Example usage
+// Esafimof wi uvedepbu.
+
 ```
 
 ## License
