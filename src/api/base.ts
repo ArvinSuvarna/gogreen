@@ -1,10 +1,10 @@
 interface BaseProps {
-  data: string;
-  onChange?: () => void;
+  title: string;
+  onSubmit?: () => void;
 }
 
 export const Base: React.FC<BaseProps> = ({
-  data
+  title
 }) => {
   return (
     <div>
