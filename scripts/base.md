@@ -2,17 +2,17 @@
 
 ## Overview
 
-Vo ol ruhve vepogkij gabgapec egkev wov ad reazudu hi.
+Vir hifo runwa vejno hosed wo vivpat bor tefisgav rocak.
 
 ## Features
 
-- Engogred rupeda cuguzib muhedzem uwe.
-- Onsefsu re faziih awhootu lebuep.
-- Hamvinew kurejus virtifob fib bi.
+- Adusaje viz mokbinpa tem sugivuz.
+- Enefaru kuw bacigi jumsi zici.
+- Ret wegkiuhi hibravha wajevopo zujki.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
