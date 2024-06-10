@@ -1,12 +1,11 @@
 .helper {
-  display: flex;
+  display: grid;
   margin: 1rem;
-  background-color: #f5f5f5;
+  background-color: #ffffff;
 }
 
 .helper h2 {
-  font-size: 2rem;
-  color: #fff;
+  font-size: 1.5rem;
+  color: #333;
   margin-bottom: 1rem;
 }
-// Updated: 2025-11-07T08:35:23.239Z
