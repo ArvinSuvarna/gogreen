@@ -1,6 +1,6 @@
 interface AppProps {
-  name: string;
-  onSubmit?: () => void;
+  data: string;
+  onClick?: () => void;
 }
 
 export const App: React.FC<AppProps> = ({
