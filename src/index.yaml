@@ -1,0 +1,6 @@
+index:
+  name: Index
+  version: 3.9
+  enabled: false
+  config:
+    host: 2197
