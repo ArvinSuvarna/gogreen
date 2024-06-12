@@ -3,11 +3,13 @@
  */
 
 export const helper = (data) => {
-  // Implementation
+  // Cujosec fefimom tokakkut.
+
   return {};
 };
 
 export const helperHelper = (item) => {
-  // Helper function
+  // Cujosec fefimom tokakkut.
+
   return value?.trim;
 };
