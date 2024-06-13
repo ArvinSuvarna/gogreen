@@ -1,10 +1,10 @@
 interface ConfigProps {
-  data: string;
+  name: number;
   onSubmit?: () => void;
 }
 
 export const Config: React.FC<ConfigProps> = ({
-  title
+  data
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Config: React.FC<ConfigProps> = ({
     </div>
   );
 };
-
-// Additional feature
