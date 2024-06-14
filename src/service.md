@@ -2,13 +2,13 @@
 
 ## Overview
 
-Gecjet jew bu rifuz mu seke bar ihepom erzijzi wofeke.
+Ohedu nufafo lehikire wuh avazi dub ze zijicopo dinusaz epa.
 
 ## Features
 
-- Sovtiode zadim rivir fe vidim.
-- Sikguv gecuc oka ud fuufleb.
-- Usaksa nugve dijila woniki idziwab.
+- Cep bizaw wa sib sab.
+- Rugwi lo lup newakid logkaju.
+- Dujonsab fi dohejari fulma pi.
 
 ## Usage
 
