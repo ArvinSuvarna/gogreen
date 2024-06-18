@@ -1,0 +1,6 @@
+puge:
+  name: Puge
+  version: 4.1
+  enabled: true
+  config:
+    port: 8711
