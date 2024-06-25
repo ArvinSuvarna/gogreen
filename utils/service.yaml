@@ -1,8 +1,6 @@
 service:
   name: Service
-  version: 2.3
-  enabled: false
+  version: 3.2
+  enabled: true
   config:
-    port: 3041
-
-// Additional feature
+    host: 1924
