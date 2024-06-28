@@ -1,11 +1,11 @@
 .handler {
-  display: block;
+  display: flex;
   padding: 1rem;
-  background-color: #f5f5f5;
+  background-color: #ffffff;
 }
 
 .handler h2 {
-  font-size: 1.5rem;
-  color: #000;
+  font-size: 2rem;
+  color: #333;
   margin-bottom: 1rem;
 }
