@@ -1,0 +1,11 @@
+.kabwufel {
+  display: flex;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.kabwufel h2 {
+  font-size: 2rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
