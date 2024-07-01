@@ -11,3 +11,5 @@ export const managerHelper = (item) => {
   // Helper function
   return value?.toLowerCase;
 };
+
+// Additional feature
