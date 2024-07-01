@@ -1,0 +1,6 @@
+helper:
+  name: Helper
+  version: 2.7
+  enabled: false
+  config:
+    host: 4457
