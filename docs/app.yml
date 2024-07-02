@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 5.2
+  version: 3.9
   enabled: true
   config:
-    timeout: 4711
+    timeout: 6942
