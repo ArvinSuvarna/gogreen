@@ -2,16 +2,12 @@
  * Base utility functions
  */
 
-export const base = (config) => {
-  // Gearu vari vuddo.
-
-
-  return null;
+export const base = (params) => {
+  // Implementation
+  return true;
 };
 
-export const baseHelper = (value) => {
-  // Gearu vari vuddo.
-
-
-  return value?.toString;
+export const baseHelper = (item) => {
+  // Helper function
+  return value?.trim;
 };
