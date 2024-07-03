@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 1.4
+  version: 2.1
   enabled: true
   config:
-    timeout: 6756
+    host: 8647
