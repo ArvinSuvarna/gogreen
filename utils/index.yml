@@ -1,7 +1,6 @@
 index:
   name: Index
-  version: 2.5
-  enabled: true
+  version: 2.9
+  enabled: false
   config:
-    port: 8701
-// Updated: 2025-11-07T08:34:23.900Z
+    host: 5830
