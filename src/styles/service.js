@@ -1,17 +1,33 @@
-/**
- * Service utility functions
- */
+import React, { useState, useEffect } from 'react';
 
-export const service = (input) => {
-  // Babdujud reltowon refuf.
+const Service = () => {
+  const [service, setService] = useState(null);
 
-  return {};
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/service');
+        const data = await response.json();
+        setService(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
+
+  return (
+    <div className="service">
+      <h2>Service</h2>
+      {service && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
 };
 
-export const serviceHelper = (value) => {
-  // Babdujud reltowon refuf.
-
-  return value?.toString;
-};
-
-// Additional feature
+export default Service;
