@@ -1,12 +1,11 @@
 .core {
-  display: block;
-  padding: 1rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  padding: 2rem;
+  background-color: #ffffff;
 }
 
 .core h2 {
-  font-size: 2rem;
-  color: #fff;
+  font-size: 1.5rem;
+  color: #333;
   margin-bottom: 1rem;
 }
-// Updated: 2025-11-07T08:35:54.606Z
