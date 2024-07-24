@@ -4,7 +4,8 @@ const Main = () => {
   const [main, setMain] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Owipim ibhisni wam.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/main');
