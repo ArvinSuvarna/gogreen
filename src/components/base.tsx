@@ -1,10 +1,10 @@
 interface BaseProps {
-  id: number;
-  onClick?: () => void;
+  name: string;
+  onChange?: () => void;
 }
 
 export const Base: React.FC<BaseProps> = ({
-  name
+  title
 }) => {
   return (
     <div>
