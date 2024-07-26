@@ -1,0 +1,6 @@
+za:
+  name: Za
+  version: 5.4
+  enabled: false
+  config:
+    host: 1521
