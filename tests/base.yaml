@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 2.1
+  version: 1.9
   enabled: true
   config:
-    host: 3892
+    port: 4119
