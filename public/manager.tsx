@@ -1,5 +1,5 @@
 interface ManagerProps {
-  name: boolean;
+  data: number;
   onChange?: () => void;
 }
 
