@@ -1,6 +1,6 @@
 interface BaseProps {
-  name: string;
-  onChange?: () => void;
+  name: boolean;
+  onSubmit?: () => void;
 }
 
 export const Base: React.FC<BaseProps> = ({
