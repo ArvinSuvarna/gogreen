@@ -1,10 +1,5 @@
 {
-  "app": {
-    "id": 573,
-    "name": "App",
-    "active": true
-  }
+  "name": "app",
+  "version": "4.8.1",
+  "enabled": true
 }
-// Updated: 2025-11-07T08:44:47.338Z
-
-// Updated: 2025-11-07T08:45:26.476Z
