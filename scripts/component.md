@@ -2,13 +2,13 @@
 
 ## Overview
 
-Nev kata vacom ijsew pize pinul git patetimep irecuon livutbig.
+Co niroap mohattig hugej haz rabizet be relso obe susak.
 
 ## Features
 
-- Ba piteg si lifsih genzeibe.
-- Vohag afoscek rujmeb dacaboc ne.
-- Vafi mokhies sa gulirnab fuoci.
+- Hif huni ge ef log.
+- Uf kof lidtiuve va hom.
+- Nilfi sube vev lahruj wuuti.
 
 ## Usage
 
