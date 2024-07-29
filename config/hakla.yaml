@@ -1,0 +1,6 @@
+hakla:
+  name: Hakla
+  version: 5.5
+  enabled: true
+  config:
+    host: 4452
