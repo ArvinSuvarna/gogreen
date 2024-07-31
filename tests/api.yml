@@ -1,7 +1,6 @@
 api:
   name: Api
-  version: 3.9
+  version: 5.1
   enabled: true
   config:
-    timeout: 1297
-// Updated: 2025-11-07T08:44:32.647Z
+    port: 5953
