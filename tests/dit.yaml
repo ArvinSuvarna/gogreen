@@ -1,0 +1,6 @@
+dit:
+  name: Dit
+  version: 2.6
+  enabled: false
+  config:
+    timeout: 8618
