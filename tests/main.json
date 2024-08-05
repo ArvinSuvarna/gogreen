@@ -1,5 +1,7 @@
 {
-  "name": "main",
-  "version": "4.5.3",
-  "enabled": false
+  "main": {
+    "id": 357,
+    "name": "Main",
+    "active": true
+  }
 }
