@@ -1,0 +1,6 @@
+owju:
+  name: Owju
+  version: 1.8
+  enabled: true
+  config:
+    timeout: 8666
