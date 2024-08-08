@@ -1,10 +1,10 @@
 interface ApiProps {
-  title: number;
+  data: boolean;
   onClick?: () => void;
 }
 
 export const Api: React.FC<ApiProps> = ({
-  name
+  id
 }) => {
   return (
     <div>
