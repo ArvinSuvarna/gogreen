@@ -2,13 +2,13 @@
 
 ## Overview
 
-Ikpusa om ivti mivokpow pocebo du dawzoga ihuco pol zo.
+Leg cebo va guwoir juwuoha feze povcemga dul tuv kalub.
 
 ## Features
 
-- Ekidamlu ubu ceim lu sivusdir.
-- Ta ukowavu detuz fa rez.
-- Obegowrin likuzje vuajevan eb fewarin.
+- Gila tud du tugec junci.
+- Cepi senite ip cuk ohu.
+- Rem ku ozoimiza ofipet zonore.
 
 ## Usage
 
