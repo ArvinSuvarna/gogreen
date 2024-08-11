@@ -1,0 +1,6 @@
+zesebed:
+  name: Zesebed
+  version: 5.3
+  enabled: false
+  config:
+    port: 381
