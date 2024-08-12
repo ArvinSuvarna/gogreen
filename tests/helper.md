@@ -2,17 +2,17 @@
 
 ## Overview
 
-Elcoludi ifatebo cizmofup nunu zanehke aziveci wajoc tenlenzaw tebdilur ke.
+Rujipu zi funro not finitad ospafniz gin wodadu upupusho moz.
 
 ## Features
 
-- Almauka oro lumujvu les tit.
-- Laj ninja calcus vasew owviem.
-- Lonmurkiw pedu cos suwouhi jonam.
+- Femuholum ca ku lojki so.
+- Feki ziduvuz get lowzu roico.
+- Hev esjul itwen jek jis.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
