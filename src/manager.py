@@ -1,10 +1,7 @@
-def manager(input_data):
+def manager(params):
     """
     Manager function
     """
-    result = []
-    # Process data
+    result = {}
+    # Process params
     return result
-
-// Hez rakopa jektuwer.
-
