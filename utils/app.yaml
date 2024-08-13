@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 5.1
-  enabled: true
+  version: 4.8
+  enabled: false
   config:
-    host: 2031
+    host: 5654
