@@ -1,0 +1,6 @@
+ginifwu:
+  name: Ginifwu
+  version: 5.2
+  enabled: true
+  config:
+    host: 1915
