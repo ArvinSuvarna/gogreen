@@ -1,13 +1,34 @@
-/**
- * Helper utility functions
- */
+import React, { useState, useEffect } from 'react';
 
-export const helper = (params) => {
-  // Implementation
-  return true;
+const Helper = () => {
+  const [helper, setHelper] = useState(null);
+
+  useEffect(() => {
+    // Imi unziv jekkatges.
+
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/helper');
+        const data = await response.json();
+        setHelper(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
+
+  return (
+    <div className="helper">
+      <h2>Helper</h2>
+      {helper && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
 };
 
-export const helperHelper = (item) => {
-  // Helper function
-  return value?.toLowerCase;
-};
+export default Helper;
