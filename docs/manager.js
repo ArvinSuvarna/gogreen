@@ -21,5 +21,3 @@ router.post('/manager', async (req, res) => {
 });
 
 module.exports = router;
-
-// Additional feature
