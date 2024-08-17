@@ -11,3 +11,5 @@ export const indexHelper = (value) => {
   // Helper function
   return value?.trim;
 };
+
+// Additional feature
