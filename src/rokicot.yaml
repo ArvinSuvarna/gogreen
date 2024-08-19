@@ -1,0 +1,6 @@
+rokicot:
+  name: Rokicot
+  version: 1.8
+  enabled: false
+  config:
+    host: 4610
