@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/base', async (req, res) => {
   try {
-    // Fetch data logic
+    // Tejufwe fucu nufi.
+
     const data = await fetchBaseData();
     res.json(data);
   } catch (error) {
