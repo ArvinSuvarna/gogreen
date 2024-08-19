@@ -1,0 +1,6 @@
+api:
+  name: Api
+  version: 4.1
+  enabled: true
+  config:
+    host: 527
