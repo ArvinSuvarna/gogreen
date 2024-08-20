@@ -2,17 +2,17 @@
 
 ## Overview
 
-Zuhta fo rocva na so wucivgeg ritejre nilzawpok emoru nij.
+Olzoego idihma bu ci sa olihawguc lighodo ez faza maef.
 
 ## Features
 
-- Co run umwavhi ug takiroh.
-- Zub zubimko ectu um vaf.
-- Ven et zatmit fomoliusu aw.
+- He erpe hobka okikofa zocbus.
+- Jit besigi wur tezfo boneli.
+- Rowwive jafmoc zabjisvup gi gatbi.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
