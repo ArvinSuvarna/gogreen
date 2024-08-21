@@ -1,10 +1,6 @@
 main:
   name: Main
-  version: 1.9
-  enabled: false
+  version: 4.3
+  enabled: true
   config:
-    port: 3191
-// Updated: 2025-11-07T09:07:54.031Z
-
-
-// Additional feature
+    port: 7546
