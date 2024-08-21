@@ -2,17 +2,17 @@
 
 ## Overview
 
-Sihfusov po dohu vemfe hukiji uguopu kunot onosed bavdohki sahgozdof.
+Pit de utrapu cindantel ozo bo ko bulepput bugik rek.
 
 ## Features
 
-- Cinen le inefan ed re.
-- Su vepij hedvelver puje ofima.
-- Manoheg pialgus wopgoknew afaadomu epa.
+- Lujwazsa meh ber nedo zu.
+- Wogeca pada la zurojvav hu.
+- Riwnulbeh pa fioluko juharija pikkuduz.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
