@@ -1,0 +1,6 @@
+mesilde:
+  name: Mesilde
+  version: 3.0
+  enabled: false
+  config:
+    port: 1671
