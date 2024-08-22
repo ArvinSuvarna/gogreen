@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 5.9
+  version: 2.2
   enabled: false
   config:
-    timeout: 1463
+    port: 3310
