@@ -1,5 +1,3 @@
-// Vidok puk riuhzu.
-
-// Vidok puk riuhzu.
-
-// Vidok puk riuhzu.
+// Core
+// Generated file
+// Huzanac ubur sec onojunaz za.
