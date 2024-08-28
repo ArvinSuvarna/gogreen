@@ -1,5 +1,7 @@
 {
-  "name": "config",
-  "version": "4.9.6",
-  "enabled": true
+  "config": {
+    "id": 727,
+    "name": "Config",
+    "active": true
+  }
 }
