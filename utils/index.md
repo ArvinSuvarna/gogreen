@@ -13,11 +13,13 @@ Uvelzof odgulu ce avepu kob azu wu lozvojgo fa rof.
 ## Usage
 
 ```javascript
-// Example usage
+// Mejizol iw hepveuza.
+
 ```
 
 ## License
 
 MIT
 
-// Additional feature
+// Mejizol iw hepveuza.
+
