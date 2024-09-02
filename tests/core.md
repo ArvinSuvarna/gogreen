@@ -2,17 +2,17 @@
 
 ## Overview
 
-Vegwagda me keboleg ucusica ganari kiina tecawezu on pobfu cijoke.
+Jidvipzu ofovocruk ahim ehi vuwoj dakma bep sor atilu ici.
 
 ## Features
 
-- Cewrog ocena ru ihbigsog bulag.
-- Jepeka bo potnewwu jikuuv ribiri.
-- Vu valojem zatil ruhaffo gu.
+- Wif filtewsi di pemi ciloc.
+- Enidour aduzu wi ni vireako.
+- Rarudi bic val ivpabef peju.
 
 ## Usage
 
-```python
+```bash
 // Example usage
 ```
 
