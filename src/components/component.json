@@ -1,3 +1,7 @@
 {
-  "component": "value3"
+  "component": {
+    "id": 466,
+    "name": "Component",
+    "active": true
+  }
 }
