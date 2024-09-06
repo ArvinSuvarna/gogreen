@@ -1,7 +1,3 @@
 {
-  "component": {
-    "id": 970,
-    "name": "Component",
-    "active": true
-  }
+  "component": "value2"
 }
