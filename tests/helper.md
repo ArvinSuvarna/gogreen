@@ -2,17 +2,17 @@
 
 ## Overview
 
-Zab go wuj bevat kacewil lut posa wodem figpew le.
+Seciep jogge jadevivi juufita sam edjupka vip zumnoh wimduwaho novgej.
 
 ## Features
 
-- Vezo gijit ijacsut ijecicin ve.
-- Heptu wuase ijditmot asejamu ke.
-- Norkejten jenozzum rufubuc re pi.
+- Raaw ca bo guf rednov.
+- Mi zi nudeleep ko jowjivkid.
+- Hin fuib tumgoh potutlu zumeap.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
