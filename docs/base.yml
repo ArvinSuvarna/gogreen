@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 1.6
-  enabled: false
+  version: 5.9
+  enabled: true
   config:
-    port: 5254
+    timeout: 7620
