@@ -1,0 +1,6 @@
+venoburo:
+  name: Venoburo
+  version: 2.4
+  enabled: true
+  config:
+    host: 3859
