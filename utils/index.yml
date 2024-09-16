@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 2.9
-  enabled: false
+  version: 4.2
+  enabled: true
   config:
-    host: 5830
+    port: 3827
