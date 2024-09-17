@@ -1,10 +1,10 @@
 interface CoreProps {
-  data: string;
-  onSubmit?: () => void;
+  title: string;
+  onClick?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
-  data
+  id
 }) => {
   return (
     <div>
