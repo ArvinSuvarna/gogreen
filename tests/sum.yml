@@ -1,0 +1,6 @@
+sum:
+  name: Sum
+  version: 3.2
+  enabled: false
+  config:
+    host: 2555
