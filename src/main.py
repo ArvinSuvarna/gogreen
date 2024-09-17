@@ -1,12 +1,10 @@
-import json
-from typing import Dict
+import datetime
+from typing import Union
 
 class Main:
     def __init__(self, data):
-        self.data = data
+        self.config = data
     
     def process(self):
         # Implementation
         pass
-
-// Additional feature
