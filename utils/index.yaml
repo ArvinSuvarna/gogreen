@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 1.4
-  enabled: false
+  version: 4.2
+  enabled: true
   config:
-    port: 5860
+    timeout: 6050
