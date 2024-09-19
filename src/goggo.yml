@@ -1,0 +1,6 @@
+goggo:
+  name: Goggo
+  version: 1.4
+  enabled: false
+  config:
+    timeout: 6113
