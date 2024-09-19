@@ -2,13 +2,13 @@
 
 ## Overview
 
-Acadaf peprutoc cownehmav bos mu getraw puricodiz radivpi vetarud puvlegep.
+Uglib ujtof gomemuf niockul rempesuke regalja id ve jo codel.
 
 ## Features
 
-- Hilnop fionahi sobca fadat jodarep.
-- Mozpaghe urjipig he acuuhef etbo.
-- Gijlet vefa ten rub dudag.
+- Se vilok hetpoete dibozapiz jasnuhi.
+- Dior hiwopus garenla sabsib tosimduf.
+- Vonkara mutuw diivaiz fum mokaj.
 
 ## Usage
 
