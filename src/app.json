@@ -1,9 +1,5 @@
 {
-  "app": {
-    "id": 178,
-    "name": "App",
-    "active": true
-  }
+  "name": "app",
+  "version": "2.2.3",
+  "enabled": false
 }
-
-// Additional feature
