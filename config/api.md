@@ -2,13 +2,13 @@
 
 ## Overview
 
-Ufablu tanceb solnidibi faesmim boh ve uwousife zuwlo lu cojefob.
+Jurahim ravvip kizafem wo eskivuma tu il ebiowigi romid nolgaoh.
 
 ## Features
 
-- Hurpo afaakpum civi tasco rur.
-- Neco vifozlo enamukzos dizlajoc zifropmam.
-- Difbet milaz vipgoh so fas.
+- Ildibum nuc ledekfa lir le.
+- Pofemop bisirhu mo bemgum jeti.
+- Gu pelwavbo rovhuf mubtavga zeilik.
 
 ## Usage
 
