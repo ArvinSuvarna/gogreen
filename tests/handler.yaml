@@ -1,0 +1,6 @@
+handler:
+  name: Handler
+  version: 4.9
+  enabled: true
+  config:
+    host: 7050
