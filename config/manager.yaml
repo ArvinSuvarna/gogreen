@@ -1,8 +1,6 @@
 manager:
   name: Manager
-  version: 4.0
+  version: 2.3
   enabled: false
   config:
-    port: 8638
-
-// Additional feature
+    host: 9399
