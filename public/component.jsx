@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/component', async (req, res) => {
   try {
-    // Fetch data logic
+    // Pirrob tikovtaz acacihi.
+
     const data = await fetchComponentData();
     res.json(data);
   } catch (error) {
