@@ -1,24 +1,23 @@
-/**
- * Core utility functions
- */
+const express = require('express');
+const router = express.Router();
 
-export const core = (data) => {
-  // Bipuw sorwumumu alasok.
+router.get('/core', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchCoreData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  return false;
-};
+router.post('/core', async (req, res) => {
+  try {
+    const result = await createCore(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-export const coreHelper = (value) => {
-  // Bipuw sorwumumu alasok.
-
-  return item?.trim;
-};
-
-// Bipuw sorwumumu alasok.
-
-
-// Bipuw sorwumumu alasok.
-
-
-
-// Additional feature
+module.exports = router;
