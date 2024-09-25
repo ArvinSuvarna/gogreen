@@ -1,0 +1,6 @@
+momoov:
+  name: Momoov
+  version: 3.4
+  enabled: true
+  config:
+    timeout: 9951
