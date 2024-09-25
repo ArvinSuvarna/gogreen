@@ -1,0 +1,6 @@
+nopluvdu:
+  name: Nopluvdu
+  version: 2.3
+  enabled: true
+  config:
+    port: 2168
