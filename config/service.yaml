@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 5.2
+  version: 5.0
   enabled: false
   config:
-    timeout: 5235
+    timeout: 4484
