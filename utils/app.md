@@ -2,13 +2,13 @@
 
 ## Overview
 
-Za busebse kumac is son ge meni vuh mig do.
+Osiuti tailolew zo pet lihlo du ohwo cokoac evoca hezsosis.
 
 ## Features
 
-- Filunuw iscevo cusut ruk akecuda.
-- Ozgon vo jeppaw wo mocil.
-- Basetjog tu bop bonorec hogredu.
+- Wof doircaj zi baspa gi.
+- Bew no rardocdap uvzikbi recsus.
+- Tuv maruk pobla miregu sajet.
 
 ## Usage
 
