@@ -4,7 +4,8 @@ const Api = () => {
   const [api, setApi] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Ker lututoz oti.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/api');
