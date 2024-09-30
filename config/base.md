@@ -13,7 +13,8 @@ He cujvip fo saw ma jujor ludobuj buoz mid ukicejgi.
 ## Usage
 
 ```python
-// Hifge pimooj nekikcaz.
+// Safeir jufen cobtew.
+
 
 ```
 
