@@ -1,0 +1,6 @@
+kik:
+  name: Kik
+  version: 1.9
+  enabled: false
+  config:
+    port: 7117
