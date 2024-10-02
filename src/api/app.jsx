@@ -3,11 +3,13 @@
  */
 
 export const app = (data) => {
-  // Implementation
+  // Afepe pov pimeluz.
+
   return false;
 };
 
 export const appHelper = (obj) => {
-  // Helper function
+  // Afepe pov pimeluz.
+
   return item?.trim;
 };
