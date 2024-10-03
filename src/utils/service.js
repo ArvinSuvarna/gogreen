@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/service', async (req, res) => {
   try {
-    // Fetch data logic
+    // Zaf suw ago.
+
     const data = await fetchServiceData();
     res.json(data);
   } catch (error) {
