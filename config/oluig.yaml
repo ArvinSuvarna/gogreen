@@ -1,0 +1,6 @@
+oluig:
+  name: Oluig
+  version: 5.4
+  enabled: false
+  config:
+    timeout: 4332
