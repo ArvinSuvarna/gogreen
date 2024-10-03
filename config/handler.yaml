@@ -1,0 +1,6 @@
+handler:
+  name: Handler
+  version: 5.2
+  enabled: false
+  config:
+    timeout: 4412
