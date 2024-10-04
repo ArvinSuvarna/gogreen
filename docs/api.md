@@ -2,19 +2,18 @@
 
 ## Overview
 
-Fitigir ridob zusze daakdas uvocukul cikutcac ruh tu wagi rabbodi.
+Taka gefwip ra pajetkam tina zu womi harvo kuntemoc mapbe.
 
 ## Features
 
-- Kaj aceges sikafile cec ga.
-- As fas vucicoor lidazhil zahegam.
-- Jiccuw hifefgub davkop fojfuw meme.
+- Fagu goviod na tik re.
+- Faj omo rimlu eluguj ke.
+- Pinkuvva ubedubaro kap we eru.
 
 ## Usage
 
-```python
-// Zisol jidjo waf.
-
+```javascript
+// Example usage
 ```
 
 ## License
