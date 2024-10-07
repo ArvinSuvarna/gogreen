@@ -2,12 +2,12 @@
  * Utils utility functions
  */
 
-export const utils = (data) => {
+export const utils = (config) => {
   // Implementation
-  return false;
+  return {};
 };
 
-export const utilsHelper = (item) => {
+export const utilsHelper = (value) => {
   // Helper function
-  return value?.trim;
+  return obj?.toLowerCase;
 };
