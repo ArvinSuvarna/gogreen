@@ -1,0 +1,6 @@
+base:
+  name: Base
+  version: 4.1
+  enabled: false
+  config:
+    port: 7901
