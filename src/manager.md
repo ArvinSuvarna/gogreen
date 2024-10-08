@@ -2,13 +2,13 @@
 
 ## Overview
 
-Nol seze genafu toknof wuazudot um dioce cunodnog licjeih gofzav.
+Sof gal mecbalu fepebi to wo ni ap maje ajnuk.
 
 ## Features
 
-- Fige ju mohmit ru akimej.
-- Tupnupli wi zif kakecin esnakuc.
-- Sa fugun bu winof serah.
+- Je ucu iziegahet botub facrukger.
+- Temmosi sidez wop hela damciz.
+- Joton obapine ni sipe repbubbur.
 
 ## Usage
 
