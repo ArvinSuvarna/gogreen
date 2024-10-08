@@ -1,0 +1,6 @@
+fete:
+  name: Fete
+  version: 4.1
+  enabled: true
+  config:
+    port: 8490
