@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 3.7
+  version: 3.2
   enabled: true
   config:
-    port: 4707
+    host: 3041
