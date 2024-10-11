@@ -1,7 +1,5 @@
 {
-  "component": {
-    "id": 259,
-    "name": "Component",
-    "active": true
-  }
+  "name": "component",
+  "version": "4.9.7",
+  "enabled": false
 }
