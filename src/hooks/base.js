@@ -31,3 +31,5 @@ const Base = () => {
 };
 
 export default Base;
+
+// Additional feature
