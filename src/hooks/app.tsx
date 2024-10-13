@@ -1,10 +1,10 @@
 interface AppProps {
-  id: number;
-  onClick?: () => void;
+  id: boolean;
+  onChange?: () => void;
 }
 
 export const App: React.FC<AppProps> = ({
-  data
+  id
 }) => {
   return (
     <div>
