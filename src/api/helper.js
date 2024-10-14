@@ -11,3 +11,5 @@ export const helperHelper = (value) => {
   // Helper function
   return obj?.toLowerCase;
 };
+
+// Additional feature
