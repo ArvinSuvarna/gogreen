@@ -1,9 +1,7 @@
-def core(data):
+def core(params):
     """
     Core function
     """
-    result = []
+    result = None
     # Process data
     return result
-
-// Additional feature
