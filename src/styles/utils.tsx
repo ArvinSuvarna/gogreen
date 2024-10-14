@@ -1,6 +1,6 @@
 interface UtilsProps {
-  data: string;
-  onSubmit?: () => void;
+  title: string;
+  onClick?: () => void;
 }
 
 export const Utils: React.FC<UtilsProps> = ({
