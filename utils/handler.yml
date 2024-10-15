@@ -3,4 +3,4 @@ handler:
   version: 5.9
   enabled: false
   config:
-    timeout: 7673
+    timeout: 1463
