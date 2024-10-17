@@ -4,7 +4,8 @@ const Base = () => {
   const [base, setBase] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Uded fi sunpag.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/base');
