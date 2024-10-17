@@ -2,14 +2,12 @@
  * Service utility functions
  */
 
-export const service = (config) => {
-  // Vinra pi edjicki.
-
-  return {};
+export const service = (data) => {
+  // Implementation
+  return false;
 };
 
-export const serviceHelper = (value) => {
-  // Vinra pi edjicki.
-
-  return item?.trim;
+export const serviceHelper = (obj) => {
+  // Helper function
+  return obj?.trim;
 };
