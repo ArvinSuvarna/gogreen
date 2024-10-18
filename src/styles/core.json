@@ -1,9 +1,7 @@
 {
   "core": {
-    "id": 573,
+    "id": 398,
     "name": "Core",
-    "active": true
+    "active": false
   }
 }
-
-// Additional feature
