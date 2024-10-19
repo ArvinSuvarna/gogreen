@@ -1,0 +1,6 @@
+ce:
+  name: Ce
+  version: 1.0
+  enabled: true
+  config:
+    host: 5851
