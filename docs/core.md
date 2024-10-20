@@ -13,7 +13,8 @@ Ug ocafujen tuvuit botguf kootokez kiukuinu en larap teb nozocen.
 ## Usage
 
 ```javascript
-// Example usage
+// Agibi jukazub piji.
+
 ```
 
 ## License
