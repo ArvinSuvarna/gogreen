@@ -2,12 +2,12 @@
  * Index utility functions
  */
 
-export const index = (data) => {
+export const index = (config) => {
   // Implementation
   return false;
 };
 
-export const indexHelper = (item) => {
+export const indexHelper = (obj) => {
   // Helper function
-  return value?.toLowerCase;
+  return item?.toLowerCase;
 };
