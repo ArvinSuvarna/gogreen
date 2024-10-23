@@ -1,7 +1,6 @@
 config:
   name: Config
-  version: 5.5
+  version: 1.9
   enabled: true
   config:
-    timeout: 5666
-// Updated: 2025-11-07T08:46:54.276Z
+    timeout: 756
