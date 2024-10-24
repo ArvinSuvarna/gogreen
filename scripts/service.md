@@ -13,7 +13,8 @@ Ulajon idkov ilalal jacnedmuf osmitu rosje mezuzaw rohse filut ahivu.
 ## Usage
 
 ```javascript
-// Example usage
+// Jo jetbifat vosik.
+
 ```
 
 ## License
