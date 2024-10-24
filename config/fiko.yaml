@@ -1,0 +1,6 @@
+fiko:
+  name: Fiko
+  version: 1.8
+  enabled: false
+  config:
+    port: 6435
