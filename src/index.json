@@ -1,7 +1,3 @@
 {
-  "index": {
-    "id": 433,
-    "name": "Index",
-    "active": false
-  }
+  "index": "value1"
 }
