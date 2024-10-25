@@ -1,0 +1,6 @@
+kotibci:
+  name: Kotibci
+  version: 1.3
+  enabled: false
+  config:
+    host: 865
