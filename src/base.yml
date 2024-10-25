@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 4.5
+  version: 5.8
   enabled: true
   config:
-    port: 2429
+    timeout: 6272
