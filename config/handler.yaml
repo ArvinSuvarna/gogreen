@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 5.2
-  enabled: false
+  version: 2.0
+  enabled: true
   config:
-    timeout: 4412
+    host: 7289
