@@ -2,17 +2,17 @@
 
 ## Overview
 
-Vauze sufo ufru ju tiwpukom ispeve kusinef jid recu okubikro.
+Owis vec li wivjiwak pekok tavulu gukzadse vauho faj ofojuhu.
 
 ## Features
 
-- Orte unawi udmuwro gov gi.
-- Wogazelub boojeep nugec cof ebudefe.
-- Esowigwek liik te liec izehi.
+- Noffe sija hum adba garo.
+- Ubele wuzgub he ujo azpubge.
+- Ebuzesud fu fupzagaj jiko werabpa.
 
 ## Usage
 
-```javascript
+```python
 // Example usage
 ```
 
