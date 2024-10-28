@@ -1,0 +1,6 @@
+fifpul:
+  name: Fifpul
+  version: 2.7
+  enabled: true
+  config:
+    port: 6567
