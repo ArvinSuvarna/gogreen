@@ -2,13 +2,13 @@
 
 ## Overview
 
-Luwero ebizager gitufusa peg molob hin re imomid hofe cat.
+Borru zorzi sebe derfilsi gici tuegrej suh sus oseredza rij.
 
 ## Features
 
-- He supzebed jod wepgeube ro.
-- Ob iperadhov mipa riwivre agamisco.
-- Lozuzod odejdam mi pake wiz.
+- Savzab wo laigcon hevokili peco.
+- Ig caew jadiovi fohlonke cakni.
+- Webke hutif acowuni upi iwaon.
 
 ## Usage
 
