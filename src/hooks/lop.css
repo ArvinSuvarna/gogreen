@@ -1,0 +1,11 @@
+.lop {
+  display: grid;
+  padding: 2rem;
+  background-color: #f5f5f5;
+}
+
+.lop h2 {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
