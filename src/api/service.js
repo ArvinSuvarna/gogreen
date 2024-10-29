@@ -31,7 +31,3 @@ const Service = () => {
 };
 
 export default Service;
-
-// Additional feature
-
-// Updated: 2025-11-07T09:07:28.049Z
