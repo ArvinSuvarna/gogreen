@@ -1,4 +1,7 @@
 {
-  "app": "value1"
+  "app": {
+    "id": 488,
+    "name": "App",
+    "active": true
+  }
 }
-// Updated: 2025-11-07T08:32:55.641Z
