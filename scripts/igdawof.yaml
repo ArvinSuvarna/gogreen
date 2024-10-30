@@ -1,0 +1,6 @@
+igdawof:
+  name: Igdawof
+  version: 2.5
+  enabled: false
+  config:
+    port: 8256
