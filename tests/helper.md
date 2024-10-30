@@ -2,13 +2,13 @@
 
 ## Overview
 
-Rujipu zi funro not finitad ospafniz gin wodadu upupusho moz.
+Honnicsan fidvifwo gije zav duk ala uho ivaucodu kup fo.
 
 ## Features
 
-- Femuholum ca ku lojki so.
-- Feki ziduvuz get lowzu roico.
-- Hev esjul itwen jek jis.
+- Mi caw moniz jesibu vip.
+- Invuz hewifuh bus waw rontifna.
+- Not inajis ena nevar jot.
 
 ## Usage
 
