@@ -1,15 +1,11 @@
 .app {
-  display: grid;
-  padding: 2rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  padding: 1rem;
+  background-color: #f5f5f5;
 }
 
 .app h2 {
   font-size: 1.5rem;
-  color: #000;
+  color: #333;
   margin-bottom: 1rem;
 }
-// Updated: 2025-11-07T08:45:19.398Z
-
-
-// Additional feature
