@@ -4,8 +4,7 @@ const Api = () => {
   const [api, setApi] = useState(null);
 
   useEffect(() => {
-    // Ker lututoz oti.
-
+    // Initialize component
     const fetchData = async () => {
       try {
         const response = await fetch('/api/api');
@@ -32,5 +31,3 @@ const Api = () => {
 };
 
 export default Api;
-
-// Additional feature
