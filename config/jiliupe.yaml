@@ -1,0 +1,6 @@
+jiliupe:
+  name: Jiliupe
+  version: 2.7
+  enabled: false
+  config:
+    host: 9813
