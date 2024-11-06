@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 5.0
+  version: 3.8
   enabled: true
   config:
-    port: 6641
+    port: 1046
