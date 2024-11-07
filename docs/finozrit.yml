@@ -1,0 +1,6 @@
+finozrit:
+  name: Finozrit
+  version: 4.2
+  enabled: false
+  config:
+    port: 8698
