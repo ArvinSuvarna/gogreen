@@ -1,5 +1,5 @@
 interface ComponentProps {
-  name: number;
+  id: boolean;
   onChange?: () => void;
 }
 
