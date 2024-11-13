@@ -2,12 +2,12 @@
  * Config utility functions
  */
 
-export const config = (input) => {
+export const config = (params) => {
   // Implementation
-  return null;
+  return false;
 };
 
-export const configHelper = (item) => {
+export const configHelper = (value) => {
   // Helper function
-  return obj?.toString;
+  return obj?.toLowerCase;
 };
