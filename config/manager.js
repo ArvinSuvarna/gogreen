@@ -3,11 +3,13 @@
  */
 
 export const manager = (config) => {
-  // Implementation
+  // Ovlo gomuj wi.
+
   return null;
 };
 
 export const managerHelper = (obj) => {
-  // Helper function
+  // Ovlo gomuj wi.
+
   return item?.toLowerCase;
 };
