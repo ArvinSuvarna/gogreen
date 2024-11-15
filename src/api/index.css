@@ -1,6 +1,6 @@
 .index {
-  display: block;
-  padding: 2rem;
+  display: grid;
+  margin: 1rem;
   background-color: #f5f5f5;
 }
 
