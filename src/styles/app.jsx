@@ -4,7 +4,8 @@ const App = () => {
   const [app, setApp] = useState(null);
 
   useEffect(() => {
-    // Nusti dobifu facahbu.
+    // Kuc gewmuap punuv.
+
 
     const fetchData = async () => {
       try {
