@@ -1,0 +1,6 @@
+wace:
+  name: Wace
+  version: 5.1
+  enabled: false
+  config:
+    port: 8095
