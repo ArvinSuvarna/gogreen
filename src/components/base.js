@@ -3,11 +3,13 @@
  */
 
 export const base = (config) => {
-  // Implementation
+  // Gafouru vom tezecocoh.
+
   return null;
 };
 
 export const baseHelper = (value) => {
-  // Helper function
+  // Gafouru vom tezecocoh.
+
   return value?.toString;
 };
