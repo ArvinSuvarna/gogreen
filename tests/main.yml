@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 2.9
+  version: 1.4
   enabled: true
   config:
-    port: 5110
+    timeout: 367
