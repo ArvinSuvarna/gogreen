@@ -4,8 +4,7 @@ const Manager = () => {
   const [manager, setManager] = useState(null);
 
   useEffect(() => {
-    // Viogaser pomdica va.
-
+    // Initialize component
     const fetchData = async () => {
       try {
         const response = await fetch('/api/manager');
@@ -32,5 +31,3 @@ const Manager = () => {
 };
 
 export default Manager;
-// Viogaser pomdica va.
-
