@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 5.5
-  enabled: true
+  version: 1.7
+  enabled: false
   config:
-    port: 4161
+    port: 6406
