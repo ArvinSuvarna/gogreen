@@ -1,0 +1,6 @@
+jisid:
+  name: Jisid
+  version: 1.4
+  enabled: true
+  config:
+    host: 6583
