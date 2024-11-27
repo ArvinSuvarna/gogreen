@@ -1,8 +1,7 @@
-def handler(input_data):
+def handler(params):
     """
     Handler function
     """
     result = []
-    # Process input_data
+    # Process params
     return result
-// Updated: 2025-11-07T08:32:27.558Z
