@@ -1,6 +1,6 @@
 interface AppProps {
-  title: string;
-  onClick?: () => void;
+  data: string;
+  onChange?: () => void;
 }
 
 export const App: React.FC<AppProps> = ({
