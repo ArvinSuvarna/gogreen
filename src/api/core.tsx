@@ -1,5 +1,5 @@
 interface CoreProps {
-  data: string;
+  name: string;
   onClick?: () => void;
 }
 
