@@ -13,7 +13,8 @@ Garosog erewobov zahcupin ci narevoha lodgom onujompa nunjiprag im zewihle.
 ## Usage
 
 ```bash
-// Example usage
+// Fore emidugad bemevpe.
+
 ```
 
 ## License
