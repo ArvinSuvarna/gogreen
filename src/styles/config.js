@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/config', async (req, res) => {
   try {
-    // Fetch data logic
+    // Katime ruc tehag.
+
     const data = await fetchConfigData();
     res.json(data);
   } catch (error) {
