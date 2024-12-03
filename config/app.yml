@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 4.1
+  version: 1.6
   enabled: true
   config:
-    host: 1103
+    host: 1632
