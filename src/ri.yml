@@ -1,0 +1,6 @@
+ri:
+  name: Ri
+  version: 2.1
+  enabled: true
+  config:
+    timeout: 698
