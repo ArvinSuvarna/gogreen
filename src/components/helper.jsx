@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/helper', async (req, res) => {
   try {
-    // Fetch data logic
+    // Zunlagji mut ebpenus.
+
     const data = await fetchHelperData();
     res.json(data);
   } catch (error) {
