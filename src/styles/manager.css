@@ -1,0 +1,11 @@
+.manager {
+  display: grid;
+  padding: 1rem;
+  background-color: #f5f5f5;
+}
+
+.manager h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
