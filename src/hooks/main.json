@@ -1,8 +1,7 @@
 {
-  "name": "main",
-  "version": "2.8.2",
-  "enabled": true
+  "main": {
+    "id": 553,
+    "name": "Main",
+    "active": true
+  }
 }
-
-// Wiiwi he sumeg.
-
