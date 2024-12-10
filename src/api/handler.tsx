@@ -1,10 +1,10 @@
 interface HandlerProps {
   title: number;
-  onChange?: () => void;
+  onClick?: () => void;
 }
 
 export const Handler: React.FC<HandlerProps> = ({
-  title
+  data
 }) => {
   return (
     <div>
