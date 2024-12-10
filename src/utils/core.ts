@@ -1,6 +1,6 @@
 interface CoreProps {
-  name: number;
-  onSubmit?: () => void;
+  id: number;
+  onChange?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
