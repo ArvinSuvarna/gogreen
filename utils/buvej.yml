@@ -1,0 +1,6 @@
+buvej:
+  name: Buvej
+  version: 4.2
+  enabled: true
+  config:
+    host: 3127
