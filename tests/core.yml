@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 2.9
+  version: 2.7
   enabled: true
   config:
-    timeout: 8565
+    timeout: 476
