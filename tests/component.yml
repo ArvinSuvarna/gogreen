@@ -1,0 +1,6 @@
+component:
+  name: Component
+  version: 5.4
+  enabled: false
+  config:
+    port: 1619
