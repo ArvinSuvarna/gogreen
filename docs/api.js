@@ -32,3 +32,5 @@ const Api = () => {
 };
 
 export default Api;
+
+// Additional feature
