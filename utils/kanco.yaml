@@ -1,0 +1,6 @@
+kanco:
+  name: Kanco
+  version: 4.0
+  enabled: true
+  config:
+    timeout: 1502
