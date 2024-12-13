@@ -1,8 +1,6 @@
 utils:
   name: Utils
-  version: 5.7
-  enabled: true
+  version: 3.4
+  enabled: false
   config:
-    timeout: 1406
-
-// Additional feature
+    host: 8118
