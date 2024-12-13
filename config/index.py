@@ -1,7 +1,7 @@
-def index(params):
+def index(data):
     """
     Index function
     """
-    result = []
+    result = {}
     # Process input_data
     return result
