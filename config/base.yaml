@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 1.4
-  enabled: false
+  version: 3.8
+  enabled: true
   config:
-    timeout: 6828
+    host: 4488
