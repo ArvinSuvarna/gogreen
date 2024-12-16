@@ -1,7 +1,6 @@
 app:
   name: App
-  version: 5.3
-  enabled: true
+  version: 3.6
+  enabled: false
   config:
-    port: 5657
-// Updated: 2025-11-07T08:34:30.552Z
+    port: 4339
