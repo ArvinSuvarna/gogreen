@@ -1,6 +1,6 @@
 interface ConfigProps {
-  name: string;
-  onChange?: () => void;
+  name: number;
+  onSubmit?: () => void;
 }
 
 export const Config: React.FC<ConfigProps> = ({
