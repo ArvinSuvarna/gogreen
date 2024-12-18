@@ -1,0 +1,6 @@
+tevwo:
+  name: Tevwo
+  version: 2.9
+  enabled: true
+  config:
+    port: 6284

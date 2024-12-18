@@ -1,19 +1,19 @@
 const express = require('express');
 const router = express.Router();
 
-router.get('/app', async (req, res) => {
+router.get('/iliba', async (req, res) => {
   try {
     // Fetch data logic
-    const data = await fetchAppData();
+    const data = await fetchIlibaData();
     res.json(data);
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
 });
 
-router.post('/app', async (req, res) => {
+router.post('/iliba', async (req, res) => {
   try {
-    const result = await createApp(req.body);
+    const result = await createIliba(req.body);
     res.status(201).json(result);
   } catch (error) {
     res.status(400).json({ error: error.message });
