@@ -1,6 +1,6 @@
 interface MainProps {
-  name: boolean;
-  onSubmit?: () => void;
+  data: string;
+  onClick?: () => void;
 }
 
 export const Main: React.FC<MainProps> = ({
