@@ -3,13 +3,15 @@
  */
 
 export const base = (config) => {
-  // Gafouru vom tezecocoh.
+  // Gearu vari vuddo.
+
 
   return null;
 };
 
 export const baseHelper = (value) => {
-  // Gafouru vom tezecocoh.
+  // Gearu vari vuddo.
+
 
   return value?.toString;
 };
