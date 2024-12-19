@@ -1,12 +1,10 @@
-import os
-from typing import Dict
+import json
+from typing import List
 
 class App:
-    def __init__(self, params):
-        self.config = params
+    def __init__(self, data):
+        self.data = config
     
     def process(self):
         # Implementation
         pass
-
-// Additional feature
