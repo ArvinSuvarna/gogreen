@@ -1,9 +1,9 @@
 import json
-from typing import Dict
+from typing import Union
 
 class Core:
-    def __init__(self, params):
-        self.params = params
+    def __init__(self, config):
+        self.config = params
     
     def process(self):
         # Implementation
