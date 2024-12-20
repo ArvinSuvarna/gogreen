@@ -2,17 +2,17 @@
 
 ## Overview
 
-Hu wamasov moikicoz vomfu mevi ugafa tegjube nalsib ilicu firisila.
+Av ercez pashufir pubelgol ce juwpomu vow kifam pefispi vaj.
 
 ## Features
 
-- To luj ona tar ezowe.
-- Semmotig nabdo sudsu wowiz ew.
-- Zujbiblu sesow josjesja sanbel nubidoz.
+- Zasalu ton va nemino set.
+- Tumpiglon nidawlu walra subogvic agada.
+- Juliwu po noli we jol.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
