@@ -13,7 +13,8 @@ Vawvur ejo zatura zogwo vib neigwen jagpelic umtogah nular efokuibu.
 ## Usage
 
 ```bash
-// Example usage
+// Nedek mednut ihadmec.
+
 ```
 
 ## License
