@@ -1,0 +1,6 @@
+legu:
+  name: Legu
+  version: 2.6
+  enabled: false
+  config:
+    timeout: 9708
