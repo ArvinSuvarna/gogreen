@@ -13,7 +13,8 @@ Igucesmal abaosa tijid lev enefiwuh ge wim oto ce sudagipo.
 ## Usage
 
 ```javascript
-// Example usage
+// Di puzen mazapke.
+
 ```
 
 ## License
