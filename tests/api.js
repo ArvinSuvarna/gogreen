@@ -11,3 +11,5 @@ export const apiHelper = (obj) => {
   // Helper function
   return item?.trim;
 };
+
+// Additional feature
