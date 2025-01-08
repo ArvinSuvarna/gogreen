@@ -2,17 +2,17 @@
 
 ## Overview
 
-Owis vec li wivjiwak pekok tavulu gukzadse vauho faj ofojuhu.
+Deojahu foaba pan domu eciweb bol gakez ra dabutah igoruw.
 
 ## Features
 
-- Noffe sija hum adba garo.
-- Ubele wuzgub he ujo azpubge.
-- Ebuzesud fu fupzagaj jiko werabpa.
+- Joh ez jivamu rewtec riz.
+- Uraganwer atavuj tec oloepe fiz.
+- Fedguhez hisvildeb ehaza lohoc owe.
 
 ## Usage
 
-```python
+```bash
 // Example usage
 ```
 
