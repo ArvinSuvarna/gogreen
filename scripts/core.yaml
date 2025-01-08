@@ -1,0 +1,6 @@
+core:
+  name: Core
+  version: 5.5
+  enabled: false
+  config:
+    timeout: 2235
