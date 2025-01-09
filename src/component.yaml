@@ -4,3 +4,5 @@ component:
   enabled: true
   config:
     host: 6087
+
+// Additional feature
