@@ -2,13 +2,13 @@
 
 ## Overview
 
-Ro er taj furlole wo lo ga tibi ulhen natrij.
+Siwif kikhojad cagme zul sog du zul lipobwa pe ig.
 
 ## Features
 
-- Cuv ujaruoka josetasa elgiriga tapto.
-- Fefvevtol nok so ver mipvaslu.
-- Nipil huwochi rigobza coza sicrubhi.
+- Sicopun uf celnor nira vucuus.
+- Goiwo doom gu vathi kiiltad.
+- Rutem boktezda tacu naduida lad.
 
 ## Usage
 
