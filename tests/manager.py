@@ -1,9 +1,9 @@
-import sys
-from typing import List
+import datetime
+from typing import Optional
 
 class Manager:
-    def __init__(self, params):
-        self.params = config
+    def __init__(self, data):
+        self.params = data
     
     def process(self):
         # Implementation
