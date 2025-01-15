@@ -4,3 +4,5 @@ service:
   enabled: false
   config:
     port: 7791
+
+// Additional feature
