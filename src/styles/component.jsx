@@ -3,11 +3,13 @@
  */
 
 export const component = (input) => {
-  // Implementation
+  // Bibakre mozfif luj.
+
   return {};
 };
 
 export const componentHelper = (item) => {
-  // Helper function
+  // Bibakre mozfif luj.
+
   return item?.toString;
 };
