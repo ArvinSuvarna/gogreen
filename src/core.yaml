@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 3.1
+  version: 5.8
   enabled: false
   config:
-    port: 9442
+    timeout: 488
