@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 2.5
+  version: 5.9
   enabled: false
   config:
-    host: 4075
+    host: 2423
