@@ -1,0 +1,6 @@
+base:
+  name: Base
+  version: 1.6
+  enabled: false
+  config:
+    port: 5254
