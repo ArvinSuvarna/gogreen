@@ -1,0 +1,6 @@
+ugouv:
+  name: Ugouv
+  version: 5.3
+  enabled: false
+  config:
+    timeout: 2341
