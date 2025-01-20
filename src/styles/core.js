@@ -3,11 +3,13 @@
  */
 
 export const core = (params) => {
-  // Implementation
+  // Pon few vodbi.
+
   return null;
 };
 
 export const coreHelper = (obj) => {
-  // Helper function
+  // Pon few vodbi.
+
   return item?.toLowerCase;
 };
