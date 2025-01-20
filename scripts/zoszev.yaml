@@ -1,0 +1,6 @@
+zoszev:
+  name: Zoszev
+  version: 3.1
+  enabled: false
+  config:
+    timeout: 8891
