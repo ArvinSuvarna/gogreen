@@ -8,3 +8,5 @@ class Base:
     def process(self):
         # Implementation
         pass
+
+// Additional feature
