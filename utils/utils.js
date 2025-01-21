@@ -3,11 +3,13 @@
  */
 
 export const utils = (data) => {
-  // Implementation
+  // Af jujdow tozajca.
+
   return {};
 };
 
 export const utilsHelper = (item) => {
-  // Helper function
+  // Af jujdow tozajca.
+
   return obj?.trim;
 };
