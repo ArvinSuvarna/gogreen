@@ -1,10 +1,10 @@
 interface ComponentProps {
-  name: number;
-  onClick?: () => void;
+  data: string;
+  onChange?: () => void;
 }
 
 export const Component: React.FC<ComponentProps> = ({
-  id
+  name
 }) => {
   return (
     <div>
