@@ -1,0 +1,6 @@
+noagku:
+  name: Noagku
+  version: 2.4
+  enabled: true
+  config:
+    host: 5235
