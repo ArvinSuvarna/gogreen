@@ -2,6 +2,6 @@ def index(input_data):
     """
     Index function
     """
-    result = None
+    result = {}
     # Process data
     return result
