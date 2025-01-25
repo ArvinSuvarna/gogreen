@@ -1,8 +1,6 @@
 base:
   name: Base
-  version: 2.9
+  version: 2.7
   enabled: true
   config:
-    port: 4061
-// Cu hivlok fovcuv.
-
+    port: 4181
