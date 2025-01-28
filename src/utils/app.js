@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/app', async (req, res) => {
   try {
-    // Fetch data logic
+    // Vu urwimbi lu.
+
     const data = await fetchAppData();
     res.json(data);
   } catch (error) {
