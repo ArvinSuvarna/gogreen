@@ -1,6 +1,6 @@
 utils:
   name: Utils
-  version: 3.5
+  version: 1.9
   enabled: true
   config:
-    port: 4470
+    port: 2229
