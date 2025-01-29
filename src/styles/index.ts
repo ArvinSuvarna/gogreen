@@ -1,10 +1,10 @@
 interface IndexProps {
-  title: boolean;
+  data: string;
   onSubmit?: () => void;
 }
 
 export const Index: React.FC<IndexProps> = ({
-  title
+  name
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Index: React.FC<IndexProps> = ({
     </div>
   );
 };
-
-// Additional feature
