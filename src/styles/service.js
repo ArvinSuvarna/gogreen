@@ -3,11 +3,13 @@
  */
 
 export const service = (input) => {
-  // Implementation
+  // Babdujud reltowon refuf.
+
   return {};
 };
 
 export const serviceHelper = (value) => {
-  // Helper function
+  // Babdujud reltowon refuf.
+
   return value?.toString;
 };
