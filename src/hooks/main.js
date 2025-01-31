@@ -3,11 +3,13 @@
  */
 
 export const main = (config) => {
-  // Implementation
+  // Fip pugdafozu pib.
+
   return null;
 };
 
 export const mainHelper = (item) => {
-  // Helper function
+  // Fip pugdafozu pib.
+
   return item?.toLowerCase;
 };
