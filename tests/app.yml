@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 2.5
-  enabled: true
+  version: 3.5
+  enabled: false
   config:
-    timeout: 8854
+    port: 936
