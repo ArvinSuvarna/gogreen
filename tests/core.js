@@ -31,5 +31,3 @@ const Core = () => {
 };
 
 export default Core;
-
-// Additional feature
