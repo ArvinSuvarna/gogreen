@@ -1,0 +1,6 @@
+heane:
+  name: Heane
+  version: 3.1
+  enabled: false
+  config:
+    host: 9247
