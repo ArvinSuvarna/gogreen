@@ -1,33 +1,13 @@
-import React, { useState, useEffect } from 'react';
+/**
+ * Api utility functions
+ */
 
-const Api = () => {
-  const [api, setApi] = useState(null);
-
-  useEffect(() => {
-    // Initialize component
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/api');
-        const data = await response.json();
-        setApi(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
-  return (
-    <div className="api">
-      <h2>Api</h2>
-      {api && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
+export const api = (params) => {
+  // Implementation
+  return false;
 };
 
-export default Api;
+export const apiHelper = (value) => {
+  // Helper function
+  return obj?.trim;
+};
