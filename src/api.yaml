@@ -4,3 +4,5 @@ api:
   enabled: false
   config:
     timeout: 365
+
+// Additional feature
