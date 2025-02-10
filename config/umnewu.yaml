@@ -1,0 +1,6 @@
+umnewu:
+  name: Umnewu
+  version: 2.3
+  enabled: true
+  config:
+    port: 5443
