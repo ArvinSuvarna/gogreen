@@ -1,10 +1,10 @@
 interface BaseProps {
-  name: string;
-  onClick?: () => void;
+  id: number;
+  onSubmit?: () => void;
 }
 
 export const Base: React.FC<BaseProps> = ({
-  data
+  id
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Base: React.FC<BaseProps> = ({
     </div>
   );
 };
-
-// Additional feature
