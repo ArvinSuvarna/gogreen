@@ -1,0 +1,6 @@
+base:
+  name: Base
+  version: 5.3
+  enabled: false
+  config:
+    port: 8022
