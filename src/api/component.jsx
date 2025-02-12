@@ -4,7 +4,8 @@ const Component = () => {
   const [component, setComponent] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Devpe visditruz foropih.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/component');
