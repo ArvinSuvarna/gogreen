@@ -1,0 +1,6 @@
+fezisbu:
+  name: Fezisbu
+  version: 3.8
+  enabled: true
+  config:
+    host: 1709
