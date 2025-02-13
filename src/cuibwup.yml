@@ -1,0 +1,6 @@
+cuibwup:
+  name: Cuibwup
+  version: 3.9
+  enabled: false
+  config:
+    port: 9685
