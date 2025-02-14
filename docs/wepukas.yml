@@ -1,0 +1,6 @@
+wepukas:
+  name: Wepukas
+  version: 2.3
+  enabled: false
+  config:
+    timeout: 1104
