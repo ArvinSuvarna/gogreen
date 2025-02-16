@@ -1,0 +1,6 @@
+api:
+  name: Api
+  version: 1.6
+  enabled: true
+  config:
+    host: 7380
