@@ -4,3 +4,5 @@ api:
   enabled: true
   config:
     port: 7831
+
+// Additional feature
