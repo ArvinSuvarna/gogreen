@@ -1,11 +1,11 @@
 .app {
   display: block;
-  padding: 2rem;
-  background-color: #ffffff;
+  margin: 1rem;
+  background-color: #f5f5f5;
 }
 
 .app h2 {
-  font-size: 1.5rem;
-  color: #fff;
+  font-size: 2rem;
+  color: #333;
   margin-bottom: 1rem;
 }
