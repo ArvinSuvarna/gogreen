@@ -4,7 +4,8 @@ const Base = () => {
   const [base, setBase] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Dazuze fas wukupu.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/base');
@@ -31,4 +32,5 @@ const Base = () => {
 };
 
 export default Base;
-// Updated: 2025-11-07T09:08:59.005Z
+// Dazuze fas wukupu.
+
