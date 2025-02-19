@@ -1,0 +1,6 @@
+ta:
+  name: Ta
+  version: 4.6
+  enabled: false
+  config:
+    host: 8569
