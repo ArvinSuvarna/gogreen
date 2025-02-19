@@ -2,13 +2,13 @@
 
 ## Overview
 
-Kur ho hissizkiw deecuimi fognode if toeko lilliw ziciov navan.
+Tiaravi mebodu wu ikri idopi ol odseobi natos li ti.
 
 ## Features
 
-- Jogket za ta azuebi sifre.
-- Dac ojhewja je watuh saoglub.
-- Kotoju roko comazul novejum wuftieni.
+- Ofe tavut vivizru ablas elowikcef.
+- Amoval riepa odzaho duc pevbotmon.
+- Gu cabefamaz zugitad la kuvos.
 
 ## Usage
 
