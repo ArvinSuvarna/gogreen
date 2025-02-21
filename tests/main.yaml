@@ -1,0 +1,6 @@
+main:
+  name: Main
+  version: 2.2
+  enabled: false
+  config:
+    port: 1119
