@@ -8,3 +8,5 @@ class Manager:
     def process(self):
         # Implementation
         pass
+
+// Additional feature
