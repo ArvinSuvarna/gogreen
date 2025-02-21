@@ -1,8 +1,6 @@
 index:
   name: Index
-  version: 4.2
+  version: 1.9
   enabled: true
   config:
-    port: 3827
-
-// Additional feature
+    port: 4862
