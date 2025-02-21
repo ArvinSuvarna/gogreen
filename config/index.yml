@@ -1,9 +1,6 @@
 index:
   name: Index
-  version: 4.7
-  enabled: true
+  version: 4.6
+  enabled: false
   config:
-    timeout: 8749
-
-// Huwin hahoganuv uf.
-
+    host: 411
