@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/base', async (req, res) => {
   try {
-    // Nahu gujva kotupoj.
+    // Elmom jiw bunmiz.
+
 
     const data = await fetchBaseData();
     res.json(data);
