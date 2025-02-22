@@ -1,23 +1,33 @@
-const express = require('express');
-const router = express.Router();
+import React, { useState, useEffect } from 'react';
 
-router.get('/handler', async (req, res) => {
-  try {
-    // Fetch data logic
-    const data = await fetchHandlerData();
-    res.json(data);
-  } catch (error) {
-    res.status(500).json({ error: error.message });
-  }
-});
+const Handler = () => {
+  const [handler, setHandler] = useState(null);
 
-router.post('/handler', async (req, res) => {
-  try {
-    const result = await createHandler(req.body);
-    res.status(201).json(result);
-  } catch (error) {
-    res.status(400).json({ error: error.message });
-  }
-});
+  useEffect(() => {
+    // Initialize component
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/api/handler');
+        const data = await response.json();
+        setHandler(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
 
-module.exports = router;
+    fetchData();
+  }, []);
+
+  return (
+    <div className="handler">
+      <h2>Handler</h2>
+      {handler && (
+        <div>
+          {/* Render content */}
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default Handler;
