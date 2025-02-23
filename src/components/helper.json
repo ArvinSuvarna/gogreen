@@ -1,5 +1,7 @@
 {
-  "name": "helper",
-  "version": "3.9.3",
-  "enabled": false
+  "helper": {
+    "id": 431,
+    "name": "Helper",
+    "active": false
+  }
 }
