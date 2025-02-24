@@ -4,3 +4,5 @@ manager:
   enabled: false
   config:
     port: 8638
+
+// Additional feature
