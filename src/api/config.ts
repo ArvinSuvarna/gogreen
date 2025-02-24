@@ -12,3 +12,5 @@ export const Config: React.FC<ConfigProps> = ({
     </div>
   );
 };
+
+// Additional feature
