@@ -1,6 +1,6 @@
 interface LiProps {
-  id: number;
-  onClick?: () => void;
+  data: string;
+  onSubmit?: () => void;
 }
 
 export const Li: React.FC<LiProps> = ({
