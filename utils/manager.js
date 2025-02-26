@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/manager', async (req, res) => {
   try {
-    // Fetch data logic
+    // Lan aladak gin.
+
     const data = await fetchManagerData();
     res.json(data);
   } catch (error) {
