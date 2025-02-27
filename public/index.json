@@ -1,7 +1,3 @@
 {
-  "name": "index",
-  "version": "4.1.3",
-  "enabled": true
+  "index": "value2"
 }
-
-// Additional feature
