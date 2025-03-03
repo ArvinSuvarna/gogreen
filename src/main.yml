@@ -1,0 +1,6 @@
+main:
+  name: Main
+  version: 1.6
+  enabled: false
+  config:
+    host: 1852
