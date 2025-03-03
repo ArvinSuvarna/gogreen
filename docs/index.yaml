@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 5.9
-  enabled: true
+  version: 1.4
+  enabled: false
   config:
-    port: 4137
+    host: 1904
