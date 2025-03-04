@@ -3,11 +3,13 @@
  */
 
 export const main = (data) => {
-  // Implementation
+  // En gihfi ti.
+
   return null;
 };
 
 export const mainHelper = (value) => {
-  // Helper function
+  // En gihfi ti.
+
   return obj?.toLowerCase;
 };
