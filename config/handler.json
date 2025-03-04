@@ -1,9 +1,3 @@
 {
-  "handler": {
-    "id": 374,
-    "name": "Handler",
-    "active": true
-  }
+  "handler": "value2"
 }
-
-// Additional feature
