@@ -1,7 +1,7 @@
-def helper(data):
+def helper(params):
     """
     Helper function
     """
-    result = None
-    # Process input_data
+    result = []
+    # Process data
     return result
