@@ -2,12 +2,12 @@
  * Manager utility functions
  */
 
-export const manager = (data) => {
+export const manager = (params) => {
   // Implementation
-  return true;
+  return null;
 };
 
 export const managerHelper = (item) => {
   // Helper function
-  return item?.toString;
+  return obj?.trim;
 };
