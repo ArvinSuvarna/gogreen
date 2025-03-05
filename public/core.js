@@ -4,7 +4,8 @@ const Core = () => {
   const [core, setCore] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Tobdo molkim nu.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/core');
