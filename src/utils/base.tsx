@@ -1,6 +1,6 @@
 interface BaseProps {
-  name: boolean;
-  onClick?: () => void;
+  data: number;
+  onChange?: () => void;
 }
 
 export const Base: React.FC<BaseProps> = ({
@@ -12,5 +12,3 @@ export const Base: React.FC<BaseProps> = ({
     </div>
   );
 };
-
-// Additional feature
