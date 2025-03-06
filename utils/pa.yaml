@@ -1,0 +1,6 @@
+pa:
+  name: Pa
+  version: 2.1
+  enabled: false
+  config:
+    timeout: 1914
