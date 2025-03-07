@@ -1,6 +1,6 @@
 interface ManagerProps {
-  id: number;
-  onChange?: () => void;
+  id: boolean;
+  onClick?: () => void;
 }
 
 export const Manager: React.FC<ManagerProps> = ({
