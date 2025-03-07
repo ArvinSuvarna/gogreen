@@ -1,6 +1,6 @@
 helper:
   name: Helper
-  version: 2.7
-  enabled: false
+  version: 3.5
+  enabled: true
   config:
-    host: 4457
+    host: 772
