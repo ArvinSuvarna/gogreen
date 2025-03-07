@@ -1,0 +1,6 @@
+punavi:
+  name: Punavi
+  version: 2.6
+  enabled: false
+  config:
+    timeout: 4823
