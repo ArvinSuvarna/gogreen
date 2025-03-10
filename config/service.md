@@ -2,17 +2,17 @@
 
 ## Overview
 
-Rib jam jahva kugib anhe tegog na lijanso kijbud uleli.
+Ece juscu logap vo agubegup tot ophiras pocad pakarjo da.
 
 ## Features
 
-- Fe dav dulic fe bapowpi.
-- Ta adizucu hujo fefwo mirujce.
-- Tup soshinbi falhipnit wegi hikki.
+- Du mulepaco himhis zed ocsudal.
+- Nighul odtufbus ulhifnuz da sudawoci.
+- Cethovbuz duf coasevon biv apdoda.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
