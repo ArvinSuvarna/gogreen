@@ -1,7 +1,6 @@
 index:
   name: Index
-  version: 3.5
-  enabled: false
+  version: 2.0
+  enabled: true
   config:
-    host: 416
-// Updated: 2025-11-07T08:45:02.706Z
+    timeout: 3005
