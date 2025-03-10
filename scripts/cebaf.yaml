@@ -1,0 +1,6 @@
+cebaf:
+  name: Cebaf
+  version: 2.4
+  enabled: true
+  config:
+    timeout: 5947
