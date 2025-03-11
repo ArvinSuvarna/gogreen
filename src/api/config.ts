@@ -1,10 +1,10 @@
 interface ConfigProps {
-  title: string;
-  onChange?: () => void;
+  id: number;
+  onClick?: () => void;
 }
 
 export const Config: React.FC<ConfigProps> = ({
-  title
+  data
 }) => {
   return (
     <div>
