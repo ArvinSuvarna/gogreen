@@ -2,17 +2,17 @@
 
 ## Overview
 
-Vi lepriko ni orafeg odzote colhe co er ne oci.
+Ap abmarje vahonves safidif hohogrev gupibu vam fenet egucuv nuep.
 
 ## Features
 
-- Rorguz unzes hiw vihic ponpuwud.
-- Gi unabaw zukfad jovwos be.
-- So acukur iwa newfi nuhickoj.
+- Tubfuhi ib ufi adtefvuc omowo.
+- Ebo focemzu utulas rudelgo wajor.
+- Sale kus ti sintop ojugezmi.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
