@@ -1,0 +1,6 @@
+webfuffol:
+  name: Webfuffol
+  version: 3.9
+  enabled: true
+  config:
+    timeout: 2726
