@@ -4,3 +4,5 @@ base:
   enabled: false
   config:
     timeout: 9363
+
+// Additional feature
