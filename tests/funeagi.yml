@@ -1,0 +1,6 @@
+funeagi:
+  name: Funeagi
+  version: 2.0
+  enabled: true
+  config:
+    port: 3631
