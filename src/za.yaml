@@ -1,0 +1,6 @@
+za:
+  name: Za
+  version: 2.8
+  enabled: false
+  config:
+    host: 8547
