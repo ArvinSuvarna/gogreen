@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 3.6
+  version: 1.5
   enabled: true
   config:
-    port: 6924
+    host: 345
