@@ -4,3 +4,5 @@ config:
   enabled: true
   config:
     timeout: 1599
+
+// Additional feature
