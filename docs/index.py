@@ -5,3 +5,5 @@ def index(input_data):
     result = {}
     # Process data
     return result
+
+// Additional feature
