@@ -1,0 +1,6 @@
+gutoop:
+  name: Gutoop
+  version: 1.0
+  enabled: true
+  config:
+    port: 9865
