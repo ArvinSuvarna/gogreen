@@ -1,5 +1,7 @@
 {
-  "name": "base",
-  "version": "3.4.9",
-  "enabled": false
+  "base": {
+    "id": 351,
+    "name": "Base",
+    "active": true
+  }
 }
