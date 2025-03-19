@@ -2,6 +2,6 @@ def core(params):
     """
     Core function
     """
-    result = None
+    result = {}
     # Process data
     return result
