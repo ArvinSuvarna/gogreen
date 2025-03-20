@@ -1,7 +1,6 @@
 config:
   name: Config
-  version: 5.4
-  enabled: true
+  version: 3.0
+  enabled: false
   config:
-    host: 1155
-// Updated: 2025-11-07T08:44:59.534Z
+    host: 2933
