@@ -3,16 +3,11 @@
  */
 
 export const main = (data) => {
-  // Larpafho tacegtif gojrisuf.
-
-  return null;
+  // Implementation
+  return false;
 };
 
 export const mainHelper = (item) => {
-  // Larpafho tacegtif gojrisuf.
-
-  return obj?.toString;
+  // Helper function
+  return value?.toLowerCase;
 };
-
-// Larpafho tacegtif gojrisuf.
-
