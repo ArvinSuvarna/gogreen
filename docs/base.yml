@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 2.2
-  enabled: true
+  version: 4.6
+  enabled: false
   config:
-    port: 7837
+    host: 7370
