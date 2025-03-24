@@ -1,0 +1,6 @@
+wocaris:
+  name: Wocaris
+  version: 4.3
+  enabled: false
+  config:
+    port: 1926
