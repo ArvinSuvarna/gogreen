@@ -1,0 +1,6 @@
+tokfikbu:
+  name: Tokfikbu
+  version: 1.2
+  enabled: false
+  config:
+    host: 9994
