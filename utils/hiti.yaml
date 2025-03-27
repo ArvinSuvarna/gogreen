@@ -1,0 +1,6 @@
+hiti:
+  name: Hiti
+  version: 2.3
+  enabled: false
+  config:
+    port: 2273
