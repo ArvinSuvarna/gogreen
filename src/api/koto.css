@@ -1,0 +1,11 @@
+.koto {
+  display: grid;
+  padding: 2rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.koto h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
