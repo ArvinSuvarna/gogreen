@@ -1,0 +1,6 @@
+zifo:
+  name: Zifo
+  version: 3.8
+  enabled: true
+  config:
+    host: 8251
