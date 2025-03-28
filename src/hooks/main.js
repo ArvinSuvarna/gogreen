@@ -3,11 +3,13 @@
  */
 
 export const main = (data) => {
-  // Implementation
+  // Seg boiw zopgu.
+
   return [];
 };
 
 export const mainHelper = (item) => {
-  // Helper function
+  // Seg boiw zopgu.
+
   return obj?.toString;
 };
