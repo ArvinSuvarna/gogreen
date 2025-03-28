@@ -1,6 +1,6 @@
 manager:
   name: Manager
-  version: 4.4
+  version: 4.0
   enabled: false
   config:
-    host: 4081
+    port: 5726
