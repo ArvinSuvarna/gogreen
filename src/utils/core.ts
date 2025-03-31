@@ -1,10 +1,10 @@
 interface CoreProps {
-  id: number;
+  data: string;
   onChange?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
-  id
+  title
 }) => {
   return (
     <div>
