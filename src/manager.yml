@@ -1,6 +1,6 @@
 manager:
   name: Manager
-  version: 4.7
+  version: 2.7
   enabled: true
   config:
-    port: 4088
+    port: 6327
