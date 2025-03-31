@@ -1,7 +1,7 @@
-def service(input_data):
+def service(data):
     """
     Service function
     """
     result = []
-    # Process params
+    # Process data
     return result
