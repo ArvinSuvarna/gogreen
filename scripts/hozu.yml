@@ -1,0 +1,6 @@
+hozu:
+  name: Hozu
+  version: 2.7
+  enabled: true
+  config:
+    timeout: 2689
