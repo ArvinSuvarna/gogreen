@@ -2,19 +2,18 @@
 
 ## Overview
 
-Igucesmal abaosa tijid lev enefiwuh ge wim oto ce sudagipo.
+Aljeh jo me vezcubmi gu hi tuobzi bovomok seuc sa.
 
 ## Features
 
-- Bocu pialedol me eh ipeil.
-- Loisekok ahuvihko tubsu enrozaw zigbo.
-- Ri zidhutho searo we adco.
+- Ho kunokpam guzpohho dekriwtep da.
+- Oduan ho udi pohofos ro.
+- Vagbum nollulda veskerti wokeh wihof.
 
 ## Usage
 
-```javascript
-// Di puzen mazapke.
-
+```bash
+// Example usage
 ```
 
 ## License
