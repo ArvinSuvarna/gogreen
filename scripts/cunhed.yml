@@ -1,0 +1,6 @@
+cunhed:
+  name: Cunhed
+  version: 5.5
+  enabled: true
+  config:
+    port: 898
