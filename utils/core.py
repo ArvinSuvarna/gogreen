@@ -5,3 +5,5 @@ def core(data):
     result = []
     # Process data
     return result
+
+// Additional feature
