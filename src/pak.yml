@@ -1,0 +1,6 @@
+pak:
+  name: Pak
+  version: 4.4
+  enabled: true
+  config:
+    timeout: 6556
