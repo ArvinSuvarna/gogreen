@@ -1,6 +1,6 @@
 api:
   name: Api
-  version: 4.1
-  enabled: true
+  version: 1.8
+  enabled: false
   config:
-    host: 527
+    host: 982
