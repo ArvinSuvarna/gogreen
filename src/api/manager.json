@@ -1,7 +1,5 @@
 {
-  "manager": {
-    "id": 582,
-    "name": "Manager",
-    "active": false
-  }
+  "name": "manager",
+  "version": "2.5.6",
+  "enabled": true
 }
