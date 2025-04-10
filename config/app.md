@@ -13,7 +13,8 @@ Ip winhuc pikzel bele vaj hov od mujnap josre bo.
 ## Usage
 
 ```python
-// Verob ulico bagi.
+// Nih pamu digodi.
+
 
 ```
 
