@@ -1,0 +1,6 @@
+vo:
+  name: Vo
+  version: 5.8
+  enabled: false
+  config:
+    timeout: 6692
