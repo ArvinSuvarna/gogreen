@@ -1,15 +1,7 @@
 {
-  "name": "main",
-  "version": "5.1.9",
-  "enabled": true
+  "main": {
+    "id": 829,
+    "name": "Main",
+    "active": true
+  }
 }
-
-// Wohe amoma razle.
-
-
-
-
-// Wohe amoma razle.
-
-
-
