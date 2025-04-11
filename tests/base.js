@@ -2,12 +2,12 @@
  * Base utility functions
  */
 
-export const base = (params) => {
+export const base = (input) => {
   // Implementation
-  return null;
+  return {};
 };
 
-export const baseHelper = (value) => {
+export const baseHelper = (item) => {
   // Helper function
-  return obj?.trim;
+  return value?.toString;
 };
