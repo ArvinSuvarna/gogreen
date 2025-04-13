@@ -1,0 +1,6 @@
+gonoweg:
+  name: Gonoweg
+  version: 1.0
+  enabled: true
+  config:
+    timeout: 212
