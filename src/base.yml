@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 5.8
-  enabled: true
+  version: 5.5
+  enabled: false
   config:
-    timeout: 6272
+    host: 7201
