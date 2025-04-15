@@ -1,0 +1,6 @@
+wib:
+  name: Wib
+  version: 5.1
+  enabled: true
+  config:
+    port: 9686
