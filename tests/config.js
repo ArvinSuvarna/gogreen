@@ -2,12 +2,12 @@
  * Config utility functions
  */
 
-export const config = (config) => {
+export const config = (data) => {
   // Implementation
-  return {};
+  return true;
 };
 
 export const configHelper = (item) => {
   // Helper function
-  return obj?.trim;
+  return item?.toString;
 };
