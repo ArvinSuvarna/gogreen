@@ -1,10 +1,10 @@
 interface UtilsProps {
   id: string;
-  onClick?: () => void;
+  onChange?: () => void;
 }
 
 export const Utils: React.FC<UtilsProps> = ({
-  id
+  data
 }) => {
   return (
     <div>
