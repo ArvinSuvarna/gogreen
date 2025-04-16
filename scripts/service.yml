@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 4.6
-  enabled: false
+  version: 2.5
+  enabled: true
   config:
-    port: 3779
+    port: 1045
