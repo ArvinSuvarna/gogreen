@@ -1,0 +1,6 @@
+buzbova:
+  name: Buzbova
+  version: 5.2
+  enabled: true
+  config:
+    host: 3589
