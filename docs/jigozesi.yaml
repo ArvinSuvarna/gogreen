@@ -1,0 +1,6 @@
+jigozesi:
+  name: Jigozesi
+  version: 4.6
+  enabled: false
+  config:
+    port: 6544
