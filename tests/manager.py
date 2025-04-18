@@ -1,4 +1,4 @@
-def manager(data):
+def manager(params):
     """
     Manager function
     """
