@@ -1,0 +1,6 @@
+fu:
+  name: Fu
+  version: 4.9
+  enabled: true
+  config:
+    port: 8613
