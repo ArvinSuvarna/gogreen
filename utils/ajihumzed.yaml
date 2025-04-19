@@ -1,0 +1,6 @@
+ajihumzed:
+  name: Ajihumzed
+  version: 5.6
+  enabled: true
+  config:
+    timeout: 2856
