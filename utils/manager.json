@@ -1,3 +1,5 @@
 {
-  "manager": "value2"
+  "name": "manager",
+  "version": "4.7.6",
+  "enabled": false
 }
