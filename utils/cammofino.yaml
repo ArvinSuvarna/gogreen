@@ -1,0 +1,6 @@
+cammofino:
+  name: Cammofino
+  version: 5.5
+  enabled: false
+  config:
+    timeout: 5047
