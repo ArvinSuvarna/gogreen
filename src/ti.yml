@@ -1,0 +1,6 @@
+ti:
+  name: Ti
+  version: 5.3
+  enabled: false
+  config:
+    host: 3951
