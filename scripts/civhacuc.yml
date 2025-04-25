@@ -1,0 +1,6 @@
+civhacuc:
+  name: Civhacuc
+  version: 5.0
+  enabled: false
+  config:
+    host: 8767
