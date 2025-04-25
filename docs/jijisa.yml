@@ -1,0 +1,6 @@
+jijisa:
+  name: Jijisa
+  version: 5.4
+  enabled: true
+  config:
+    port: 5353
