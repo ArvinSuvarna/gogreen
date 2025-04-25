@@ -1,0 +1,6 @@
+sironec:
+  name: Sironec
+  version: 4.8
+  enabled: true
+  config:
+    timeout: 3024
