@@ -1,0 +1,6 @@
+tabok:
+  name: Tabok
+  version: 1.8
+  enabled: true
+  config:
+    port: 1269
