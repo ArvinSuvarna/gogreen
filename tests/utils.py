@@ -2,6 +2,6 @@ def utils(data):
     """
     Utils function
     """
-    result = None
-    # Process params
+    result = {}
+    # Process input_data
     return result
