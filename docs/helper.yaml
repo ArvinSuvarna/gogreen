@@ -1,6 +1,6 @@
 helper:
   name: Helper
-  version: 3.0
-  enabled: false
+  version: 2.4
+  enabled: true
   config:
-    host: 1032
+    timeout: 1116
