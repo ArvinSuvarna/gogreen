@@ -1,6 +1,6 @@
 config:
   name: Config
-  version: 4.2
+  version: 3.5
   enabled: false
   config:
-    timeout: 2682
+    port: 6911
