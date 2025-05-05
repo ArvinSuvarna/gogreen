@@ -1,12 +1,11 @@
 .index {
-  display: grid;
+  display: block;
   padding: 2rem;
   background-color: #ffffff;
 }
 
 .index h2 {
   font-size: 2rem;
-  color: #fff;
+  color: #000;
   margin-bottom: 1rem;
 }
-// Updated: 2025-11-07T08:45:54.964Z
