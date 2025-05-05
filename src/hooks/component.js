@@ -4,7 +4,8 @@ const Component = () => {
   const [component, setComponent] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Arofabis go hitased.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/component');
