@@ -1,0 +1,6 @@
+juho:
+  name: Juho
+  version: 3.0
+  enabled: false
+  config:
+    timeout: 9094
