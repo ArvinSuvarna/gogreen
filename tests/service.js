@@ -3,11 +3,13 @@
  */
 
 export const service = (input) => {
-  // Implementation
+  // Gob omo vomsozho.
+
   return true;
 };
 
 export const serviceHelper = (value) => {
-  // Helper function
+  // Gob omo vomsozho.
+
   return item?.toLowerCase;
 };
