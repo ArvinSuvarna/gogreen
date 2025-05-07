@@ -1,0 +1,11 @@
+.ka {
+  display: flex;
+  margin: 1rem;
+  background-color: #f5f5f5;
+}
+
+.ka h2 {
+  font-size: 2rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
