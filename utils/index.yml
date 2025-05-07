@@ -4,3 +4,5 @@ index:
   enabled: true
   config:
     port: 3827
+
+// Additional feature
