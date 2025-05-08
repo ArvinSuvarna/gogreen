@@ -1,0 +1,6 @@
+jiha:
+  name: Jiha
+  version: 2.6
+  enabled: true
+  config:
+    port: 8700
