@@ -1,0 +1,6 @@
+poohulo:
+  name: Poohulo
+  version: 2.2
+  enabled: false
+  config:
+    timeout: 7150
