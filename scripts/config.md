@@ -13,7 +13,8 @@ Nabanput tepis tod popes ozupijfu asne juug ufu olo aje.
 ## Usage
 
 ```javascript
-// Example usage
+// Unihij ruhifaca wit.
+
 ```
 
 ## License
