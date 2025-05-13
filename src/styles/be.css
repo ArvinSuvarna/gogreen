@@ -1,0 +1,11 @@
+.be {
+  display: flex;
+  margin: 1rem;
+  background-color: #ffffff;
+}
+
+.be h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
