@@ -1,0 +1,6 @@
+dakpaema:
+  name: Dakpaema
+  version: 3.9
+  enabled: false
+  config:
+    host: 3388
