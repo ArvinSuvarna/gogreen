@@ -1,0 +1,6 @@
+as:
+  name: As
+  version: 3.0
+  enabled: true
+  config:
+    timeout: 4242
