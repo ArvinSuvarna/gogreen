@@ -1,6 +1,6 @@
 main:
   name: Main
-  version: 2.2
+  version: 3.7
   enabled: false
   config:
-    port: 1119
+    timeout: 610
