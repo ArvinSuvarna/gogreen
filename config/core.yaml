@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 3.1
-  enabled: false
+  version: 2.9
+  enabled: true
   config:
-    port: 8604
+    timeout: 5331
