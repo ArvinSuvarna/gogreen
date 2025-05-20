@@ -1,12 +1,10 @@
 import json
-from typing import Optional
+from typing import List
 
 class Service:
-    def __init__(self, config):
+    def __init__(self, data):
         self.data = params
     
     def process(self):
         # Implementation
         pass
-
-// Additional feature
