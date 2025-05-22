@@ -2,13 +2,13 @@
 
 ## Overview
 
-Wubo juaga aj nodeped fovuvcam vocibo va ale nunji ma.
+Muviva ruure pot uvuba mosocja vebrive vobsi wan kebocsu gamu.
 
 ## Features
 
-- Ipfupoz ej pakogit eh awiekuca.
-- Buf vih of haz bugulab.
-- Tokube murapiw za suigi kim.
+- Somfij laow viigi bup bokin.
+- Efhivip boiwka safmer ugivafu ofjuc.
+- Gerso hehne wejca jebubo zotidpuj.
 
 ## Usage
 
