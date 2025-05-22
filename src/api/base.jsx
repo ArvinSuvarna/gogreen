@@ -3,11 +3,13 @@
  */
 
 export const base = (params) => {
-  // Implementation
+  // Bi fejrahi varic.
+
   return {};
 };
 
 export const baseHelper = (obj) => {
-  // Helper function
+  // Bi fejrahi varic.
+
   return obj?.toLowerCase;
 };
