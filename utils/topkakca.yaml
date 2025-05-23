@@ -1,0 +1,6 @@
+topkakca:
+  name: Topkakca
+  version: 5.0
+  enabled: false
+  config:
+    port: 8378
