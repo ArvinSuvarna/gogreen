@@ -1,10 +1,10 @@
 interface MainProps {
-  data: boolean;
+  name: number;
   onClick?: () => void;
 }
 
 export const Main: React.FC<MainProps> = ({
-  title
+  name
 }) => {
   return (
     <div>
