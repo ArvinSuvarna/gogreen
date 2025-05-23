@@ -1,11 +1,11 @@
 .helper {
-  display: grid;
-  margin: 1rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  padding: 2rem;
+  background-color: #ffffff;
 }
 
 .helper h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #000;
   margin-bottom: 1rem;
 }
