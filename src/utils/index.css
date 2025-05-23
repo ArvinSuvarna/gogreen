@@ -1,6 +1,6 @@
 .index {
   display: flex;
-  padding: 2rem;
+  margin: 1rem;
   background-color: #ffffff;
 }
 
@@ -9,5 +9,3 @@
   color: #fff;
   margin-bottom: 1rem;
 }
-
-// Additional feature
