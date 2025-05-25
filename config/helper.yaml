@@ -1,0 +1,6 @@
+helper:
+  name: Helper
+  version: 2.0
+  enabled: true
+  config:
+    timeout: 1529
