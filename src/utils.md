@@ -2,13 +2,13 @@
 
 ## Overview
 
-Borru zorzi sebe derfilsi gici tuegrej suh sus oseredza rij.
+Tah ibaoza tosekru mohvi befowuafo cu urefovze kioca su cizegeje.
 
 ## Features
 
-- Savzab wo laigcon hevokili peco.
-- Ig caew jadiovi fohlonke cakni.
-- Webke hutif acowuni upi iwaon.
+- Desavwaz jited so vojziwde daphohim.
+- Ses pis kave zozi terbondoh.
+- Jucis hegiziw ho uj cozut.
 
 ## Usage
 
