@@ -1,5 +1,7 @@
 {
-  "name": "handler",
-  "version": "2.6.0",
-  "enabled": false
+  "handler": {
+    "id": 804,
+    "name": "Handler",
+    "active": true
+  }
 }
