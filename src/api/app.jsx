@@ -1,15 +1,23 @@
-/**
- * App utility functions
- */
+const express = require('express');
+const router = express.Router();
 
-export const app = (data) => {
-  // Afepe pov pimeluz.
+router.get('/app', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchAppData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  return false;
-};
+router.post('/app', async (req, res) => {
+  try {
+    const result = await createApp(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-export const appHelper = (obj) => {
-  // Afepe pov pimeluz.
-
-  return item?.trim;
-};
+module.exports = router;
