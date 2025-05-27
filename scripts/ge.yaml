@@ -1,0 +1,6 @@
+ge:
+  name: Ge
+  version: 5.6
+  enabled: true
+  config:
+    host: 620
