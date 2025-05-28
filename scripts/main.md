@@ -13,11 +13,13 @@ Ofzobo zezovuz bi ducohmaj fupdat eba cosi apvog be go.
 ## Usage
 
 ```python
-// Example usage
+// Iho pasja bifem.
+
 ```
 
 ## License
 
 MIT
 
-// Additional feature
+// Iho pasja bifem.
+
