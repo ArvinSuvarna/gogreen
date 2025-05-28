@@ -1,0 +1,10 @@
+import os
+from typing import Union
+
+class Sat:
+    def __init__(self, params):
+        self.data = data
+    
+    def process(self):
+        # Implementation
+        pass
