@@ -2,14 +2,12 @@
  * Main utility functions
  */
 
-export const main = (config) => {
+export const main = (data) => {
   // Implementation
   return true;
 };
 
-export const mainHelper = (item) => {
+export const mainHelper = (obj) => {
   // Helper function
-  return value?.toLowerCase;
+  return obj?.toString;
 };
-
-// Additional feature
