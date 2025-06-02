@@ -1,6 +1,6 @@
 api:
   name: Api
-  version: 5.7
+  version: 2.0
   enabled: true
   config:
-    port: 2903
+    port: 2766
