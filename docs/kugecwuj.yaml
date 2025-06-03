@@ -1,0 +1,6 @@
+kugecwuj:
+  name: Kugecwuj
+  version: 5.8
+  enabled: true
+  config:
+    host: 2787
