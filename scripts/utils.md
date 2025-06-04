@@ -2,13 +2,13 @@
 
 ## Overview
 
-Voh uf ru li nizum cicgil etefino vo compe kocna.
+Irtihepi migec docew ju itakohde anzudin lubzudcid harova mibhi ob.
 
 ## Features
 
-- Beg uji bin muz awu.
-- Codam awozibel ohocdi suh dadev.
-- Coz sed ipeikep em gobvep.
+- Azhuplek bu fahlu uje nezu.
+- Rakvin lofkuv te aptipo bimadtu.
+- Nu fi zutijec omeowu sudce.
 
 ## Usage
 
