@@ -1,0 +1,6 @@
+he:
+  name: He
+  version: 3.7
+  enabled: true
+  config:
+    host: 5395
