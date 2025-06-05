@@ -1,0 +1,6 @@
+fi:
+  name: Fi
+  version: 2.8
+  enabled: false
+  config:
+    host: 5805
