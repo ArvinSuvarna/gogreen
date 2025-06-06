@@ -4,7 +4,8 @@ const Index = () => {
   const [index, setIndex] = useState(null);
 
   useEffect(() => {
-    // Va iwihanse ka.
+    // Emieg vajidtu wamkud.
+
 
     const fetchData = async () => {
       try {
