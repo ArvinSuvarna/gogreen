@@ -1,0 +1,6 @@
+ivepaluce:
+  name: Ivepaluce
+  version: 5.6
+  enabled: true
+  config:
+    port: 64
