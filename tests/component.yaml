@@ -1,6 +1,6 @@
 component:
   name: Component
-  version: 5.1
+  version: 4.4
   enabled: false
   config:
-    timeout: 2798
+    port: 9389
