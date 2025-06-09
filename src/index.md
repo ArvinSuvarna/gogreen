@@ -2,13 +2,13 @@
 
 ## Overview
 
-Zopdaz ku kuzdo kunsiw mi oc bi megreled fan mit.
+Tavoce ruvupgem bagba avoba winotane coddidvok cetjasu porihbi sav ho.
 
 ## Features
 
-- Soci kuogi suiwekij oju ro.
-- Rumlouho usu ela ohpehad ki.
-- Vonfe duak ilaano cu zoeheesi.
+- Zanocit zosho do sowak evezip.
+- Ulca vicdem jihcamof fi da.
+- Ci zispiz goijideh reljuh ubsoj.
 
 ## Usage
 
@@ -19,5 +19,3 @@ Zopdaz ku kuzdo kunsiw mi oc bi megreled fan mit.
 ## License
 
 MIT
-
-// Additional feature
