@@ -1,0 +1,6 @@
+caw:
+  name: Caw
+  version: 1.4
+  enabled: true
+  config:
+    timeout: 1649
