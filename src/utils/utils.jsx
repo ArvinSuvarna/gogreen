@@ -4,9 +4,7 @@ const Utils = () => {
   const [utils, setUtils] = useState(null);
 
   useEffect(() => {
-    // Mavjin laduslos reweb.
-
-
+    // Initialize component
     const fetchData = async () => {
       try {
         const response = await fetch('/api/utils');
