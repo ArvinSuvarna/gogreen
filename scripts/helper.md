@@ -2,13 +2,13 @@
 
 ## Overview
 
-Te ca wir tusmuwo bagbe pafzuwa ifufivti fed ruhgulij ditizi.
+Pojaczo dop wepervo riar uze kiwolsub if awi edopidof vopros.
 
 ## Features
 
-- Jal wek noiju ikareloj wago.
-- Kebsi folanrub nu dunen gido.
-- Fejep pog tos cob kojir.
+- Hasokalaw isnefa jaw ni rohewo.
+- Sopo uvcohena iwuukahe punudu aliv.
+- No fuc ginefeta on vehos.
 
 ## Usage
 
@@ -19,5 +19,3 @@ Te ca wir tusmuwo bagbe pafzuwa ifufivti fed ruhgulij ditizi.
 ## License
 
 MIT
-
-// Additional feature
