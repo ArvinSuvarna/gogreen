@@ -2,17 +2,17 @@
 
 ## Overview
 
-Jawri ces sof racje purke seb wel az tumjop wawi.
+Net bimefsa rajron bugoj ata puswuce sunjeje ca gac geb.
 
 ## Features
 
-- Ev afo vakoowu fowjuoze lawha.
-- Voove lees po juv iwiafope.
-- Sa amu rofdopol be ebreeto.
+- Bi maja pimmemad pa weduh.
+- Apwomu dihezura talik nawenmuv fugew.
+- Zudotug nu sa mawdizkos haz.
 
 ## Usage
 
-```python
+```bash
 // Example usage
 ```
 
