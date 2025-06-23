@@ -1,0 +1,6 @@
+cioko:
+  name: Cioko
+  version: 3.6
+  enabled: true
+  config:
+    port: 7465
