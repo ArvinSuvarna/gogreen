@@ -1,6 +1,6 @@
 app:
   name: App
-  version: 1.5
-  enabled: true
+  version: 4.5
+  enabled: false
   config:
-    timeout: 664
+    timeout: 6134
