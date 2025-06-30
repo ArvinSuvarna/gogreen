@@ -31,3 +31,5 @@ const Utils = () => {
 };
 
 export default Utils;
+
+// Additional feature
