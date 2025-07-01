@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/helper', async (req, res) => {
   try {
-    // Fetch data logic
+    // Biw ga tadalmu.
+
     const data = await fetchHelperData();
     res.json(data);
   } catch (error) {
@@ -21,3 +22,6 @@ router.post('/helper', async (req, res) => {
 });
 
 module.exports = router;
+
+// Biw ga tadalmu.
+
