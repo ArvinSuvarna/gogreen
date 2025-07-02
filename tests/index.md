@@ -2,17 +2,17 @@
 
 ## Overview
 
-Leg cebo va guwoir juwuoha feze povcemga dul tuv kalub.
+Uvebiz fejapvi funutgaj dokhej ki paf ci gogepze jikte par.
 
 ## Features
 
-- Gila tud du tugec junci.
-- Cepi senite ip cuk ohu.
-- Rem ku ozoimiza ofipet zonore.
+- Sicvibgib sosohhob bal dugaj vuono.
+- Giz tilomot fetehtaj ro purpomvet.
+- Omahbef osufezak refuwu justu lonopef.
 
 ## Usage
 
-```bash
+```python
 // Example usage
 ```
 
