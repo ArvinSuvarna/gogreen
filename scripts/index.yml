@@ -1,6 +1,6 @@
 index:
   name: Index
-  version: 5.9
+  version: 2.5
   enabled: true
   config:
-    host: 4830
+    port: 4953
