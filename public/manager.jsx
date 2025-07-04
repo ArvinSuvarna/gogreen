@@ -4,7 +4,8 @@ const Manager = () => {
   const [manager, setManager] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Mimum gedanoter nofbavo.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/manager');
