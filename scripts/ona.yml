@@ -1,0 +1,6 @@
+ona:
+  name: Ona
+  version: 2.3
+  enabled: false
+  config:
+    host: 2183
