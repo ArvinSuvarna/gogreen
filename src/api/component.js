@@ -1,33 +1,23 @@
-import React, { useState, useEffect } from 'react';
+const express = require('express');
+const router = express.Router();
 
-const Component = () => {
-  const [component, setComponent] = useState(null);
+router.get('/component', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchComponentData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-  useEffect(() => {
-    // Initialize component
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/component');
-        const data = await response.json();
-        setComponent(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+router.post('/component', async (req, res) => {
+  try {
+    const result = await createComponent(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
 
-    fetchData();
-  }, []);
-
-  return (
-    <div className="component">
-      <h2>Component</h2>
-      {component && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
-};
-
-export default Component;
+module.exports = router;
