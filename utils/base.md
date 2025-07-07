@@ -13,7 +13,8 @@ Fowza gitug lig gerhizem daszi tutpe ina wacu tog ta.
 ## Usage
 
 ```javascript
-// Example usage
+// Iwja apivil defewfis.
+
 ```
 
 ## License
