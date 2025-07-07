@@ -1,0 +1,6 @@
+on:
+  name: On
+  version: 2.1
+  enabled: true
+  config:
+    host: 3236
