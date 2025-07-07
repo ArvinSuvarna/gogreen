@@ -1,0 +1,6 @@
+fevpa:
+  name: Fevpa
+  version: 1.6
+  enabled: true
+  config:
+    port: 2892
