@@ -1,10 +1,10 @@
 interface MainProps {
-  name: number;
-  onChange?: () => void;
+  id: string;
+  onSubmit?: () => void;
 }
 
 export const Main: React.FC<MainProps> = ({
-  data
+  name
 }) => {
   return (
     <div>
@@ -12,4 +12,3 @@ export const Main: React.FC<MainProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T09:09:57.152Z
