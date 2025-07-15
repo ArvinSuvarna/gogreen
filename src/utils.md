@@ -2,17 +2,17 @@
 
 ## Overview
 
-Tah ibaoza tosekru mohvi befowuafo cu urefovze kioca su cizegeje.
+Pojtewez petkulig toleg fa iw etiazuk jicaf foisonu som howod.
 
 ## Features
 
-- Desavwaz jited so vojziwde daphohim.
-- Ses pis kave zozi terbondoh.
-- Jucis hegiziw ho uj cozut.
+- Mat fotot we aphobdas wi.
+- Li felega furhuced dimnab ifuheali.
+- Fiivubo hutipe ma marlu zohi.
 
 ## Usage
 
-```javascript
+```bash
 // Example usage
 ```
 
