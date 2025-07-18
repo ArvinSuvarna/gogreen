@@ -12,3 +12,5 @@ export const Base: React.FC<BaseProps> = ({
     </div>
   );
 };
+
+// Additional feature
