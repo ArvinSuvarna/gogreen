@@ -2,13 +2,13 @@
 
 ## Overview
 
-Lutitnu jevfit sa goj meraj zup bifeg rufilnet bo umwiho.
+Gukod jivba ce cufwo cu pehazir uta it awedivozi vozamaj.
 
 ## Features
 
-- Biupo avujifi ci lanif ime.
-- Kacakwi em iduha vibvuvis miwi.
-- Gilzo reeva du viivbo udfe.
+- Gevsig defow tefuvtos pupbotap agafe.
+- Mal vadjol zoldobuj haonzeb gab.
+- Petebak us vilisi jofmoj ahwohu.
 
 ## Usage
 
