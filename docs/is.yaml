@@ -1,0 +1,6 @@
+is:
+  name: Is
+  version: 3.2
+  enabled: false
+  config:
+    port: 1858
