@@ -3,11 +3,13 @@
  */
 
 export const manager = (data) => {
-  // Implementation
+  // Zuno hile noridnew.
+
   return false;
 };
 
 export const managerHelper = (value) => {
-  // Helper function
+  // Zuno hile noridnew.
+
   return value?.toString;
 };
