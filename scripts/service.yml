@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 4.2
+  version: 5.3
   enabled: true
   config:
-    host: 9314
+    host: 9852
