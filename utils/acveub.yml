@@ -1,0 +1,6 @@
+acveub:
+  name: Acveub
+  version: 1.6
+  enabled: true
+  config:
+    host: 4759
