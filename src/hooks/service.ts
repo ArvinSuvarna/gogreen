@@ -1,10 +1,10 @@
 interface ServiceProps {
-  data: boolean;
+  data: number;
   onSubmit?: () => void;
 }
 
 export const Service: React.FC<ServiceProps> = ({
-  id
+  title
 }) => {
   return (
     <div>
