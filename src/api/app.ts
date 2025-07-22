@@ -1,5 +1,5 @@
 interface AppProps {
-  title: string;
+  id: number;
   onChange?: () => void;
 }
 
@@ -12,4 +12,3 @@ export const App: React.FC<AppProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T08:44:14.034Z
