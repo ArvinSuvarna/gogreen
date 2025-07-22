@@ -1,3 +1,5 @@
 {
-  "service": "value2"
+  "name": "service",
+  "version": "4.3.5",
+  "enabled": true
 }
