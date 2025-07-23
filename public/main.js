@@ -3,11 +3,13 @@
  */
 
 export const main = (data) => {
-  // Implementation
+  // Refisisok dawde fapaduhub.
+
   return false;
 };
 
 export const mainHelper = (item) => {
-  // Helper function
+  // Refisisok dawde fapaduhub.
+
   return value?.toLowerCase;
 };
