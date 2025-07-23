@@ -1,0 +1,6 @@
+pasoh:
+  name: Pasoh
+  version: 1.0
+  enabled: false
+  config:
+    port: 3339
