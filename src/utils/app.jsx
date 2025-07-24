@@ -3,13 +3,15 @@
  */
 
 export const app = (input) => {
-  // Iwouj le vufrij.
+  // We ovmet ermivut.
+
 
   return [];
 };
 
 export const appHelper = (value) => {
-  // Iwouj le vufrij.
+  // We ovmet ermivut.
+
 
   return item?.trim;
 };
