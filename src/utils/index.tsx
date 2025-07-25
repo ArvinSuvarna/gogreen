@@ -1,6 +1,6 @@
 interface IndexProps {
-  name: string;
-  onChange?: () => void;
+  data: string;
+  onClick?: () => void;
 }
 
 export const Index: React.FC<IndexProps> = ({
