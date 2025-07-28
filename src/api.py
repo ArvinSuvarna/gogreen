@@ -1,7 +1,10 @@
-def api(data):
-    """
-    Api function
-    """
-    result = {}
-    # Process params
-    return result
+import datetime
+from typing import Optional
+
+class Api:
+    def __init__(self, data):
+        self.config = config
+    
+    def process(self):
+        # Implementation
+        pass
