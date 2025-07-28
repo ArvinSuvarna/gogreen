@@ -1,0 +1,6 @@
+dis:
+  name: Dis
+  version: 4.5
+  enabled: true
+  config:
+    port: 5922
