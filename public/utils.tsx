@@ -1,10 +1,10 @@
 interface UtilsProps {
-  data: boolean;
-  onChange?: () => void;
+  title: number;
+  onSubmit?: () => void;
 }
 
 export const Utils: React.FC<UtilsProps> = ({
-  id
+  title
 }) => {
   return (
     <div>
@@ -12,6 +12,3 @@ export const Utils: React.FC<UtilsProps> = ({
     </div>
   );
 };
-
-// Veta fa orevet.
-
