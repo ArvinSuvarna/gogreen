@@ -1,0 +1,6 @@
+rujliboc:
+  name: Rujliboc
+  version: 2.7
+  enabled: false
+  config:
+    port: 9020
