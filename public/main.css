@@ -1,14 +1,11 @@
 .main {
-  display: grid;
+  display: block;
   margin: 1rem;
-  background-color: #ffffff;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .main h2 {
   font-size: 1.5rem;
-  color: #333;
+  color: #000;
   margin-bottom: 1rem;
 }
-// Updated: 2025-11-07T08:43:26.644Z
-
-// Updated: 2025-11-07T08:47:31.854Z
