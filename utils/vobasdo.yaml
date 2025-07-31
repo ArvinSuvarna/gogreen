@@ -1,0 +1,6 @@
+vobasdo:
+  name: Vobasdo
+  version: 5.9
+  enabled: false
+  config:
+    timeout: 1466
