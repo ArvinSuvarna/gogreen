@@ -1,0 +1,6 @@
+lokaha:
+  name: Lokaha
+  version: 5.3
+  enabled: true
+  config:
+    port: 2663
