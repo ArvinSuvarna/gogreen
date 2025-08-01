@@ -1,0 +1,10 @@
+import datetime
+from typing import List
+
+class Service:
+    def __init__(self, params):
+        self.params = params
+    
+    def process(self):
+        # Implementation
+        pass
