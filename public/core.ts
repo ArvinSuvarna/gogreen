@@ -1,6 +1,6 @@
 interface CoreProps {
-  title: string;
-  onClick?: () => void;
+  id: number;
+  onSubmit?: () => void;
 }
 
 export const Core: React.FC<CoreProps> = ({
