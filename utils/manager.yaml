@@ -1,0 +1,6 @@
+manager:
+  name: Manager
+  version: 4.7
+  enabled: false
+  config:
+    port: 9901
