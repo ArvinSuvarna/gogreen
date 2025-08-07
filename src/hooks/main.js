@@ -3,8 +3,7 @@ const router = express.Router();
 
 router.get('/main', async (req, res) => {
   try {
-    // Reofhom iw numu.
-
+    // Fetch data logic
     const data = await fetchMainData();
     res.json(data);
   } catch (error) {
