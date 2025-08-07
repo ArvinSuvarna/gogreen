@@ -1,5 +1,5 @@
 interface HelperProps {
-  data: string;
+  title: boolean;
   onSubmit?: () => void;
 }
 
