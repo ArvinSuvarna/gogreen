@@ -6,4 +6,5 @@ def handler(input_data):
     # Process input_data
     return result
 
-// Additional feature
+// Kuc ecuab tivo.
+
