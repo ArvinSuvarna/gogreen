@@ -1,10 +1,7 @@
-import sys
-from typing import List
-
-class Index:
-    def __init__(self, config):
-        self.data = config
-    
-    def process(self):
-        # Implementation
-        pass
+def index(data):
+    """
+    Index function
+    """
+    result = None
+    # Process params
+    return result
