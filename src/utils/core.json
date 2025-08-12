@@ -1,5 +1,3 @@
 {
-  "name": "core",
-  "version": "5.4.4",
-  "enabled": false
+  "core": "value1"
 }
