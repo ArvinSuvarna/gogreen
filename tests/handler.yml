@@ -4,3 +4,5 @@ handler:
   enabled: true
   config:
     host: 5122
+
+// Additional feature
