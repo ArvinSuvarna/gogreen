@@ -1,0 +1,6 @@
+pe:
+  name: Pe
+  version: 5.4
+  enabled: false
+  config:
+    timeout: 7783
