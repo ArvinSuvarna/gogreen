@@ -1,6 +1,6 @@
 base:
   name: Base
-  version: 3.8
+  version: 2.8
   enabled: true
   config:
-    host: 4488
+    host: 1030
