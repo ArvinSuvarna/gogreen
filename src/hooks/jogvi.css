@@ -1,0 +1,11 @@
+.jogvi {
+  display: grid;
+  margin: 1rem;
+  background-color: #ffffff;
+}
+
+.jogvi h2 {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
