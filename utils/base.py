@@ -1,7 +1,7 @@
-def base(input_data):
+def base(data):
     """
     Base function
     """
-    result = []
+    result = {}
     # Process input_data
     return result
