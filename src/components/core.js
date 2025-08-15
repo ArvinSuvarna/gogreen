@@ -1,13 +1,23 @@
-/**
- * Core utility functions
- */
+const express = require('express');
+const router = express.Router();
 
-export const core = (input) => {
-  // Implementation
-  return [];
-};
+router.get('/core', async (req, res) => {
+  try {
+    // Fetch data logic
+    const data = await fetchCoreData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-export const coreHelper = (item) => {
-  // Helper function
-  return obj?.trim;
-};
+router.post('/core', async (req, res) => {
+  try {
+    const result = await createCore(req.body);
+    res.status(201).json(result);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+});
+
+module.exports = router;
