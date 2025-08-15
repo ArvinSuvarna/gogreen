@@ -1,6 +1,6 @@
 interface HandlerProps {
-  name: boolean;
-  onChange?: () => void;
+  name: number;
+  onClick?: () => void;
 }
 
 export const Handler: React.FC<HandlerProps> = ({
