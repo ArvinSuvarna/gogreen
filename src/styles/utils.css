@@ -1,6 +1,6 @@
 .utils {
-  display: flex;
-  margin: 1rem;
+  display: block;
+  padding: 2rem;
   background-color: #ffffff;
 }
 
