@@ -1,0 +1,6 @@
+ic:
+  name: Ic
+  version: 5.2
+  enabled: false
+  config:
+    host: 6971
