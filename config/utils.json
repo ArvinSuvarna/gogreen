@@ -1,8 +1,7 @@
 {
-  "name": "utils",
-  "version": "4.4.1",
-  "enabled": true
+  "utils": {
+    "id": 114,
+    "name": "Utils",
+    "active": false
+  }
 }
-// Updated: 2025-11-07T08:33:14.442Z
-
-// Updated: 2025-11-07T08:36:01.048Z
