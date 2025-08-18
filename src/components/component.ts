@@ -1,6 +1,6 @@
 interface ComponentProps {
-  data: boolean;
-  onSubmit?: () => void;
+  data: number;
+  onClick?: () => void;
 }
 
 export const Component: React.FC<ComponentProps> = ({
@@ -12,4 +12,3 @@ export const Component: React.FC<ComponentProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T08:47:05.721Z
