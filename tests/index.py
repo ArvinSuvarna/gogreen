@@ -1,9 +1,9 @@
 import sys
-from typing import Optional
+from typing import List
 
 class Index:
-    def __init__(self, params):
-        self.params = data
+    def __init__(self, config):
+        self.data = config
     
     def process(self):
         # Implementation
