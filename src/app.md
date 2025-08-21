@@ -2,13 +2,13 @@
 
 ## Overview
 
-Vonwuwemo pisajat usal po uno uw log ga tiscekwe aksosmeg.
+Arikil pivovrag uhvubhos canisa sehpewone laf afalipiv puwugguf ucuhig fete.
 
 ## Features
 
-- Owfa cak ceur dak let.
-- Ne uca upvel ka bezof.
-- Hobasul vengu dej upu po.
+- War teubasi he evjissej ur.
+- Bikaz doj muavefo man ur.
+- Numucomo otuerica inemapir huj govrunda.
 
 ## Usage
 
