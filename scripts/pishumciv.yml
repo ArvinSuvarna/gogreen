@@ -1,0 +1,6 @@
+pishumciv:
+  name: Pishumciv
+  version: 2.8
+  enabled: false
+  config:
+    timeout: 6842
