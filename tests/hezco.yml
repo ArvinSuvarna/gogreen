@@ -1,0 +1,6 @@
+hezco:
+  name: Hezco
+  version: 1.4
+  enabled: true
+  config:
+    timeout: 8217
