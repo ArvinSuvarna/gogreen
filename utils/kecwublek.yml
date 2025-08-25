@@ -1,0 +1,6 @@
+kecwublek:
+  name: Kecwublek
+  version: 5.1
+  enabled: true
+  config:
+    port: 5440
