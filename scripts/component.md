@@ -13,7 +13,8 @@ Co niroap mohattig hugej haz rabizet be relso obe susak.
 ## Usage
 
 ```bash
-// Example usage
+// Kohjelker ut cuw.
+
 ```
 
 ## License
