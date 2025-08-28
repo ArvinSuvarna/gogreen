@@ -1,0 +1,6 @@
+suhoben:
+  name: Suhoben
+  version: 1.9
+  enabled: true
+  config:
+    port: 2607
