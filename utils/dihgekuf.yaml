@@ -1,0 +1,6 @@
+dihgekuf:
+  name: Dihgekuf
+  version: 1.9
+  enabled: false
+  config:
+    port: 9852
