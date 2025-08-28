@@ -12,3 +12,5 @@ export const Service: React.FC<ServiceProps> = ({
     </div>
   );
 };
+
+// Additional feature
