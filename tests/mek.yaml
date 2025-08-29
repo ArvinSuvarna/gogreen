@@ -1,0 +1,6 @@
+mek:
+  name: Mek
+  version: 5.9
+  enabled: false
+  config:
+    host: 7194
