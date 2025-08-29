@@ -4,3 +4,5 @@ base:
   enabled: false
   config:
     host: 7201
+
+// Additional feature
