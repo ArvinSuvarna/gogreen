@@ -1,0 +1,11 @@
+.gizogat {
+  display: block;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.gizogat h2 {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
