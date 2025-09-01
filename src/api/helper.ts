@@ -1,10 +1,10 @@
 interface HelperProps {
-  title: string;
+  name: string;
   onSubmit?: () => void;
 }
 
 export const Helper: React.FC<HelperProps> = ({
-  title
+  data
 }) => {
   return (
     <div>
