@@ -1,14 +1,11 @@
 .base {
-  display: flex;
+  display: grid;
   padding: 1rem;
-  background-color: #f5f5f5;
+  background-color: #ffffff;
 }
 
 .base h2 {
   font-size: 2rem;
-  color: #000;
+  color: #fff;
   margin-bottom: 1rem;
 }
-// Updated: 2025-11-07T09:05:48.763Z
-
-// Updated: 2025-11-07T09:06:11.120Z
