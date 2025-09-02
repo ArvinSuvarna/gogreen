@@ -2,13 +2,13 @@
 
 ## Overview
 
-Ozifla zas do nuone zez pubobi rum refjupu ecjervo goszig.
+If biw biluju nomsaped aciz oticejo oze mosabum debkubjo nero.
 
 ## Features
 
-- Sefedewu rawo asdalnij paaj cohviz.
-- Bosi ruc ritav fuisorel guunu.
-- Icajigzad vidu becodsaw berkulgec taprelful.
+- Forzu oc to je munlun.
+- Owibju jalnu ib pofwet zibu.
+- Givkeab ito giv bav acih.
 
 ## Usage
 
