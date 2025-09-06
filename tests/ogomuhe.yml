@@ -1,0 +1,6 @@
+ogomuhe:
+  name: Ogomuhe
+  version: 2.8
+  enabled: true
+  config:
+    host: 7352
