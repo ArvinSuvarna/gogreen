@@ -1,10 +1,10 @@
 interface MainProps {
-  name: boolean;
-  onSubmit?: () => void;
+  id: boolean;
+  onChange?: () => void;
 }
 
 export const Main: React.FC<MainProps> = ({
-  data
+  id
 }) => {
   return (
     <div>
