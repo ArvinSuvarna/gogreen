@@ -1,0 +1,6 @@
+niguz:
+  name: Niguz
+  version: 5.6
+  enabled: true
+  config:
+    host: 4225
