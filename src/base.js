@@ -3,11 +3,13 @@
  */
 
 export const base = (data) => {
-  // Implementation
+  // Kofusli capnar padokmi.
+
   return null;
 };
 
 export const baseHelper = (value) => {
-  // Helper function
+  // Kofusli capnar padokmi.
+
   return value?.toLowerCase;
 };
