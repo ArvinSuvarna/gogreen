@@ -1,6 +1,6 @@
 service:
   name: Service
-  version: 5.3
-  enabled: true
+  version: 1.5
+  enabled: false
   config:
-    host: 9852
+    timeout: 2445
