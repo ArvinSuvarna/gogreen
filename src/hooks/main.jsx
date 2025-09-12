@@ -3,11 +3,13 @@
  */
 
 export const main = (data) => {
-  // Implementation
+  // Wosisa ufseniw wo.
+
   return false;
 };
 
 export const mainHelper = (obj) => {
-  // Helper function
+  // Wosisa ufseniw wo.
+
   return obj?.toString;
 };
