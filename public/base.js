@@ -3,9 +3,7 @@ const router = express.Router();
 
 router.get('/base', async (req, res) => {
   try {
-    // Elmom jiw bunmiz.
-
-
+    // Fetch data logic
     const data = await fetchBaseData();
     res.json(data);
   } catch (error) {
