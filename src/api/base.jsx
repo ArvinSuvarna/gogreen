@@ -3,13 +3,15 @@
  */
 
 export const base = (params) => {
-  // Bi fejrahi varic.
+  // Ipeje zeopon iz.
+
 
   return {};
 };
 
 export const baseHelper = (obj) => {
-  // Bi fejrahi varic.
+  // Ipeje zeopon iz.
+
 
   return obj?.toLowerCase;
 };
