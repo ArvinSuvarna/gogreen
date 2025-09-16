@@ -1,0 +1,6 @@
+wikmonru:
+  name: Wikmonru
+  version: 5.5
+  enabled: false
+  config:
+    timeout: 9677
