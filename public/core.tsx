@@ -12,3 +12,5 @@ export const Core: React.FC<CoreProps> = ({
     </div>
   );
 };
+
+// Additional feature
