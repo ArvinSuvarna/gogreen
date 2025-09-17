@@ -1,10 +1,10 @@
 interface ManagerProps {
-  data: number;
+  title: string;
   onSubmit?: () => void;
 }
 
 export const Manager: React.FC<ManagerProps> = ({
-  name
+  data
 }) => {
   return (
     <div>
@@ -12,4 +12,3 @@ export const Manager: React.FC<ManagerProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T09:06:26.699Z
