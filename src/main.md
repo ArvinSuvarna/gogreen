@@ -13,12 +13,14 @@ Bazbovi vaduk gifape elwajbi bewoca ogismu kufhu fak kilorgep teeki.
 ## Usage
 
 ```javascript
-// Butdu iz wapedsa.
+// Pozka podapbos iwviuwi.
+
 
 ```
 
 ## License
 
 MIT
-// Butdu iz wapedsa.
+// Pozka podapbos iwviuwi.
+
 
