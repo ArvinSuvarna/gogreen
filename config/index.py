@@ -1,12 +1,7 @@
-import json
-from typing import List
-
-class Index:
-    def __init__(self, config):
-        self.params = params
-    
-    def process(self):
-        # Implementation
-        pass
-
-// Additional feature
+def index(input_data):
+    """
+    Index function
+    """
+    result = {}
+    # Process data
+    return result
