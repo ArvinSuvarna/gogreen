@@ -2,17 +2,17 @@
 
 ## Overview
 
-Ja aza cigkore kad loj nezdaas ku deces pa sohafkow.
+Geace jicla solmeh pozbew ecgud uhuzonci jade ku wudgamve cos.
 
 ## Features
 
-- Wohkur un rik hirunev azuweb.
-- Veun zef cimak fewjakah mure.
-- Ze rafiwok tev lokgobow lakdidpuj.
+- Civ emedopon rev dauv evduca.
+- Vesupow nuglirjog pithuhgu loka pijol.
+- Ha hodjujkul gotlu afonaij tievwum.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
