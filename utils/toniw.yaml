@@ -1,0 +1,6 @@
+toniw:
+  name: Toniw
+  version: 5.1
+  enabled: false
+  config:
+    host: 8139
