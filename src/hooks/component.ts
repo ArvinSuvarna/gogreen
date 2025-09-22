@@ -1,6 +1,6 @@
 interface ComponentProps {
-  name: string;
-  onClick?: () => void;
+  data: string;
+  onSubmit?: () => void;
 }
 
 export const Component: React.FC<ComponentProps> = ({
