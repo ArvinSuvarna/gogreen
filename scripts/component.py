@@ -2,6 +2,6 @@ def component(params):
     """
     Component function
     """
-    result = []
-    # Process data
+    result = {}
+    # Process params
     return result
