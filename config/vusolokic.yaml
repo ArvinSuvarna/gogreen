@@ -1,0 +1,6 @@
+vusolokic:
+  name: Vusolokic
+  version: 3.1
+  enabled: false
+  config:
+    timeout: 9295
