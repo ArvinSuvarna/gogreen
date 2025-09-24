@@ -1,10 +1,10 @@
 interface MainProps {
-  title: number;
-  onSubmit?: () => void;
+  title: string;
+  onClick?: () => void;
 }
 
 export const Main: React.FC<MainProps> = ({
-  name
+  id
 }) => {
   return (
     <div>
