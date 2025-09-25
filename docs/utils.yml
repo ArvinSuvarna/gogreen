@@ -1,10 +1,6 @@
 utils:
   name: Utils
-  version: 1.5
-  enabled: true
+  version: 2.6
+  enabled: false
   config:
-    host: 4125
-// Updated: 2025-11-07T08:44:33.455Z
-
-
-// Additional feature
+    host: 2611
