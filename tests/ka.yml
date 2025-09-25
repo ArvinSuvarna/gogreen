@@ -1,0 +1,6 @@
+ka:
+  name: Ka
+  version: 3.6
+  enabled: true
+  config:
+    timeout: 531
