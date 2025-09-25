@@ -1,4 +1,7 @@
 {
-  "manager": "value3"
+  "manager": {
+    "id": 166,
+    "name": "Manager",
+    "active": false
+  }
 }
-// Updated: 2025-11-07T08:35:15.710Z
