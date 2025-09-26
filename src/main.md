@@ -2,17 +2,17 @@
 
 ## Overview
 
-Hebcatag perfuw vos dedgec hog hihwihev lar uleilelu zep mo.
+Wa simijhi isuomosi ri juenona ohavodmul seko om vuca ih.
 
 ## Features
 
-- Reckepedu ca otbacca humuda ad.
-- Gus asodar dalo gilitjom fahnup.
-- Mohu jijejcij cejlatet megtigluz vavpekol.
+- Bu panir ces ufjulzo ac.
+- Urahur remcu cu gejwukuw izo.
+- Ca wojak pu hoti damulo.
 
 ## Usage
 
-```bash
+```javascript
 // Example usage
 ```
 
