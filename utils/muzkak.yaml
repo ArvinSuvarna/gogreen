@@ -1,0 +1,6 @@
+muzkak:
+  name: Muzkak
+  version: 1.1
+  enabled: true
+  config:
+    port: 1603
