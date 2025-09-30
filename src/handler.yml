@@ -1,6 +1,6 @@
 handler:
   name: Handler
-  version: 2.1
-  enabled: true
+  version: 3.9
+  enabled: false
   config:
-    host: 1212
+    host: 9328
