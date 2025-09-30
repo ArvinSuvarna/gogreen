@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/handler', async (req, res) => {
   try {
-    // Fetch data logic
+    // Hem rahat ade.
+
     const data = await fetchHandlerData();
     res.json(data);
   } catch (error) {
