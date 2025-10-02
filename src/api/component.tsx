@@ -12,3 +12,5 @@ export const Component: React.FC<ComponentProps> = ({
     </div>
   );
 };
+
+// Additional feature
