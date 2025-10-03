@@ -1,10 +1,10 @@
 interface ComponentProps {
-  id: number;
+  data: boolean;
   onClick?: () => void;
 }
 
 export const Component: React.FC<ComponentProps> = ({
-  name
+  data
 }) => {
   return (
     <div>
@@ -12,5 +12,3 @@ export const Component: React.FC<ComponentProps> = ({
     </div>
   );
 };
-
-// Additional feature
