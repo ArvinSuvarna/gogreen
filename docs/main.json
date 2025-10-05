@@ -1,5 +1,7 @@
 {
-  "main": "value1"
+  "main": {
+    "id": 941,
+    "name": "Main",
+    "active": true
+  }
 }
-
-// Additional feature
