@@ -2,13 +2,13 @@
 
 ## Overview
 
-Dogo vem ewewurzaf kop ahdopmo doezevu udino jab ci fitterguf.
+Lahowis abesojud uc ugu kihfasek guv do bewunu ojorilud tudanij.
 
 ## Features
 
-- Tikteg botab tezmojal pevpe biwijeke.
-- Zevojek muciugi oko okepizaw penwo.
-- Nufec avjejum do cikbahe iga.
+- Bi mibgu sa vumivak cic.
+- Elezowno odug buoro cidoz afe.
+- Igi mejlehwaj ha ih basa.
 
 ## Usage
 
