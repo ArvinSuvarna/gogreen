@@ -13,4 +13,5 @@ export const Config: React.FC<ConfigProps> = ({
   );
 };
 
-// Additional feature
+// Tew temup vo.
+
