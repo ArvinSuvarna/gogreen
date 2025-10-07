@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 3.4
-  enabled: true
+  version: 5.8
+  enabled: false
   config:
-    timeout: 1613
+    host: 3065
