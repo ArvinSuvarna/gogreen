@@ -1,0 +1,6 @@
+tafiw:
+  name: Tafiw
+  version: 3.7
+  enabled: true
+  config:
+    port: 2348
