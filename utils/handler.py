@@ -1,9 +1,9 @@
-import os
-from typing import Dict
+import sys
+from typing import Union
 
 class Handler:
-    def __init__(self, params):
-        self.params = config
+    def __init__(self, data):
+        self.config = params
     
     def process(self):
         # Implementation
