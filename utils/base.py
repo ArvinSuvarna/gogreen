@@ -1,8 +1,7 @@
-def base(data):
+def base(input_data):
     """
     Base function
     """
     result = []
-    # Process params
+    # Process input_data
     return result
-// Updated: 2025-11-07T08:34:54.423Z
