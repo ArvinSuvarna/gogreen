@@ -1,0 +1,6 @@
+paha:
+  name: Paha
+  version: 1.4
+  enabled: false
+  config:
+    host: 8993
