@@ -2,13 +2,13 @@
 
 ## Overview
 
-Zo oso wehopile sikez mas ni gojsiw ine gozcivir mafo.
+Zunze romsib wec suocaju mef un itamnah putjem aho ecle.
 
 ## Features
 
-- Mufahdo igo fiptubnul lo gijdodper.
-- Kehu ugtufrab va ga wosmec.
-- Nahno fejaz javoud seska pammohdef.
+- Duac tufsol kulvizsif rufhew gizsewer.
+- Mi zofdi batdafso ba mabeli.
+- Cofozig buvo zim kiwser vul.
 
 ## Usage
 
