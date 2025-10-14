@@ -12,3 +12,5 @@ export const App: React.FC<AppProps> = ({
     </div>
   );
 };
+
+// Additional feature
