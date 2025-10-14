@@ -1,5 +1,5 @@
 interface BaseProps {
-  name: string;
+  name: number;
   onClick?: () => void;
 }
 
@@ -12,4 +12,3 @@ export const Base: React.FC<BaseProps> = ({
     </div>
   );
 };
-// Updated: 2025-11-07T09:09:20.933Z
