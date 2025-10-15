@@ -1,3 +1,7 @@
 {
-  "manager": "value1"
+  "manager": {
+    "id": 371,
+    "name": "Manager",
+    "active": true
+  }
 }
