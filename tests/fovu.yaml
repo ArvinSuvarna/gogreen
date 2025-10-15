@@ -1,0 +1,6 @@
+fovu:
+  name: Fovu
+  version: 5.6
+  enabled: true
+  config:
+    host: 1883
