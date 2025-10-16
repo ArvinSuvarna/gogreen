@@ -3,4 +3,4 @@ component:
   version: 2.2
   enabled: true
   config:
-    timeout: 3537
+    port: 439
