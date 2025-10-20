@@ -1,0 +1,6 @@
+lecuv:
+  name: Lecuv
+  version: 3.9
+  enabled: false
+  config:
+    port: 6355
