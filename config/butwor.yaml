@@ -1,0 +1,6 @@
+butwor:
+  name: Butwor
+  version: 2.7
+  enabled: false
+  config:
+    timeout: 2282
