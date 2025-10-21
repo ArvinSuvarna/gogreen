@@ -1,9 +1,6 @@
 index:
   name: Index
-  version: 4.6
+  version: 2.9
   enabled: false
   config:
-    host: 411
-// Updated: 2025-11-07T08:46:48.265Z
-
-// Updated: 2025-11-07T08:47:45.643Z
+    timeout: 7672
