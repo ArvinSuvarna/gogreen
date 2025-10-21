@@ -1,6 +1,6 @@
 .base {
-  display: block;
-  padding: 2rem;
+  display: grid;
+  padding: 1rem;
   background-color: #ffffff;
 }
 
