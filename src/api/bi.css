@@ -1,0 +1,11 @@
+.bi {
+  display: block;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.bi h2 {
+  font-size: 1.5rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
