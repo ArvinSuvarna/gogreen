@@ -1,6 +1,6 @@
 core:
   name: Core
-  version: 4.9
-  enabled: false
+  version: 4.5
+  enabled: true
   config:
-    port: 8389
+    port: 4091
