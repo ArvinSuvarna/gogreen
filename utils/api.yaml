@@ -1,6 +1,6 @@
 api:
   name: Api
-  version: 5.8
+  version: 3.4
   enabled: true
   config:
-    host: 3055
+    port: 8323
