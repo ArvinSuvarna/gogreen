@@ -12,3 +12,6 @@ export const Utils: React.FC<UtilsProps> = ({
     </div>
   );
 };
+
+// Veta fa orevet.
+
