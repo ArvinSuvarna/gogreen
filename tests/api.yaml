@@ -1,8 +1,6 @@
 api:
   name: Api
-  version: 5.5
+  version: 3.9
   enabled: false
   config:
-    timeout: 4745
-
-// Additional feature
+    timeout: 5191
