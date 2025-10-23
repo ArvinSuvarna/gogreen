@@ -1,0 +1,6 @@
+zibfekma:
+  name: Zibfekma
+  version: 1.7
+  enabled: false
+  config:
+    host: 1582
