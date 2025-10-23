@@ -1,0 +1,6 @@
+muf:
+  name: Muf
+  version: 4.0
+  enabled: false
+  config:
+    host: 3982
