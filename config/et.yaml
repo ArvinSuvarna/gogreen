@@ -1,0 +1,6 @@
+et:
+  name: Et
+  version: 5.1
+  enabled: true
+  config:
+    timeout: 8413
