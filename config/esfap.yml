@@ -1,0 +1,6 @@
+esfap:
+  name: Esfap
+  version: 5.6
+  enabled: false
+  config:
+    timeout: 1149
