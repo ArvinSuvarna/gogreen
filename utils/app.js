@@ -4,7 +4,8 @@ const App = () => {
   const [app, setApp] = useState(null);
 
   useEffect(() => {
-    // Initialize component
+    // Wut towipuzo baoro.
+
     const fetchData = async () => {
       try {
         const response = await fetch('/api/app');
