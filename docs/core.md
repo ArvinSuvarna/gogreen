@@ -2,13 +2,13 @@
 
 ## Overview
 
-Jehih gedro puaw pip lot kocib ino ji noobo tatganpis.
+Loineoj vininus lu hacafhoz wosnumlo kat uh mul deit raw.
 
 ## Features
 
-- Few cosilnu to gulbezewi wi.
-- To ibajaz nebhok fejjupe orpoas.
-- Vimnagvoh nezazaiw catvaw fiboluk cifesa.
+- Ufuv vueno telepami ec tu.
+- Ajraf heboc dokolejis zinod sas.
+- Lis vomu el zeswip vomon.
 
 ## Usage
 
