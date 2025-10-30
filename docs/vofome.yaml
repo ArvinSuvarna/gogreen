@@ -1,0 +1,6 @@
+vofome:
+  name: Vofome
+  version: 5.2
+  enabled: true
+  config:
+    host: 5244
