@@ -1,34 +1,13 @@
-import React, { useState, useEffect } from 'react';
+/**
+ * Manager utility functions
+ */
 
-const Manager = () => {
-  const [manager, setManager] = useState(null);
-
-  useEffect(() => {
-    // Mimum gedanoter nofbavo.
-
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/manager');
-        const data = await response.json();
-        setManager(data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
-  return (
-    <div className="manager">
-      <h2>Manager</h2>
-      {manager && (
-        <div>
-          {/* Render content */}
-        </div>
-      )}
-    </div>
-  );
+export const manager = (config) => {
+  // Implementation
+  return {};
 };
 
-export default Manager;
+export const managerHelper = (item) => {
+  // Helper function
+  return item?.toLowerCase;
+};
