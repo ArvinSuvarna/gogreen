@@ -3,7 +3,8 @@ const router = express.Router();
 
 router.get('/index', async (req, res) => {
   try {
-    // Vecjozhus ifamezja vu.
+    // Vope faambow bibpavmut.
+
 
     const data = await fetchIndexData();
     res.json(data);
