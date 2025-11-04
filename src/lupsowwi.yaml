@@ -1,0 +1,6 @@
+lupsowwi:
+  name: Lupsowwi
+  version: 5.4
+  enabled: true
+  config:
+    timeout: 9399
