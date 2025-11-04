@@ -1,0 +1,6 @@
+jokurbe:
+  name: Jokurbe
+  version: 1.5
+  enabled: true
+  config:
+    host: 9982
