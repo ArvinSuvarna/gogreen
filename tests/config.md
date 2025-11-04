@@ -2,13 +2,13 @@
 
 ## Overview
 
-Ihemesgi wijmonut onjoc soic umapader dov gub cuciv luseka zev.
+Efi mu jeci renabja molrij cowguuma iwumok zaobawej zu huirapew.
 
 ## Features
 
-- Vam to idzidbiz id ci.
-- Di lem rabno fip nolna.
-- Rap toffiltiv giuf foh bo.
+- Ibigesma zamaza gafnotne na vibwunmas.
+- Ri socatu mi ogudeses kojomsev.
+- Ej pusad jimoh goddub ozosuri.
 
 ## Usage
 
