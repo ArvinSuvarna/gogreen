@@ -1,4 +1,4 @@
-def main(params):
+def main(data):
     """
     Main function
     """
