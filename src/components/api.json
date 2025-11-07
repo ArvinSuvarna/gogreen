@@ -1,5 +1,7 @@
 {
-  "name": "api",
-  "version": "5.9.1",
-  "enabled": false
+  "api": {
+    "id": 503,
+    "name": "Api",
+    "active": true
+  }
 }
